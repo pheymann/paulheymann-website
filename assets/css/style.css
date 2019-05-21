@@ -26,6 +26,10 @@ footer a {
 
 h1,
 h2,
+h3,
+h4,
+h5,
+h6,
 strong {
     color: #333; /* strong color */
 }
@@ -376,6 +380,20 @@ a:active {
 
 .right-cv-col {
     width: 80%;
+}
+
+.notfound-title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.notfound-gif {
+    width: auto;
+    height: 40%;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 
 @media only screen and (max-width: 800px) {
