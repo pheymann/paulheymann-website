@@ -5,4 +5,5 @@
 layout: home
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Hullo,<br/>
+by random chance or by explicitly searching for it you ended up in my small digital domain. I am Paul Heymann a Software Engineer from Germany who collects here some of his thoughts about Computer Science, Economics, Teaching, and whatever interest me. These topics coincidentally also overlap with my interests and skills which you can find in my <a href="/cv">cv</a>.
