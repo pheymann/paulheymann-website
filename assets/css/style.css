@@ -10,6 +10,17 @@ header {
     padding-top: 1em;
 }
 
+footer {
+    font-size: 0.8em;
+    color: #999; /* light grey */
+    text-align: center;
+    margin-top: 3em;
+}
+
+footer a {
+    color: #999; /* light grey */
+}
+
 h1,
 h2,
 strong {
@@ -197,10 +208,32 @@ a:active {
     font-weight: normal;
 }
 
+.small-cv-company {
+    display: none;
+}
+
+.cv-contact-list,
 .cv-skill-list {
     list-style: none;
     float: left;
     padding: 0;
+}
+
+.cv-contact-list li {
+    display: inline-block;
+    font-size: 1.3em;
+    padding-right: 0.3em;
+    padding-left: 0.3em;
+    margin-bottom: 0.2em;
+}
+
+.cv-contact-list li a {
+    color: #4b4b4b; /* default color */
+}
+
+.cv-contact-list li a:hover,
+.cv-contact-list li a:active {
+    color: #56aecb; /* link blue */
 }
 
 .cv-skill-list li {
@@ -210,6 +243,7 @@ a:active {
     border-radius: 5px;
     padding-right: 0.3em;
     padding-left: 0.3em;
+    margin-bottom: 0.2em;
 }
 
 .left-cv-margin {
@@ -344,6 +378,12 @@ a:active {
     }
 }
 
+@media only screen and (min-width: 650px) {
+    #education-sep {
+        display: none;
+    }
+}
+
 @media only screen and (max-width: 650px) {
     .small-post-date {
         display: inline;       
@@ -356,14 +396,34 @@ a:active {
     }
 
     .entry-col,
-    .date-col {
+    .date-col,
+    .left-cv-col{
         width: 0%;
         display: none;
     }
 
-    .post-col {
+    .post-col,
+    .right-cv-col {
         width: 100%;
         margin-bottom: 2em;
+    }
+
+    .right-cv-margin {
+        border-left: none;
+        padding-bottom: 0em;
+        padding-left: 0;
+    }
+
+    .small-cv-company {
+        display: block;
+    }
+
+    .cv-company {
+        font-size: 0.9em;
+    }
+
+    .br-switch {
+        display: none;
     }
 
     .entry,
