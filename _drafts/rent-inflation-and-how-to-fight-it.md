@@ -47,9 +47,46 @@ Taking the above information into account it is near to impossible to make gener
 To describe which solutions might work, how they work and what possible shortcomings they have we will take a look at Hamburg. It is the town which brought me to the point of writing this post in the first place. First, let's have a short look at the numbers and current restrictions. The cities rents increased between 22% to 39% between 2011 and 2018 depending on the size of the appartment [5]. At the same time the state-wide inflation was roughly 2% a year or ~15% in 7 years [6]. Taking into account that Hambuurg has rent controls in place means these were either not effect at all (rents are the same as without controls) or not effective enough (rents would be higher without controls). The following controls are in place [7], [8], [9]:
   - rents can only be increased to `average-area-rent + 10%`
   - landlords are not allowed to rent their flats on AirBnB without a certificate from the city. Furthermore, they are only allowed to rent it as holiday appartment for 8 weeks a year and every let has to be registered.
-  - if buildings/rent units are vacant for too long landlords have to pay a fine of up to 50,000EUR
+  - if buildings/rent units are vacant for too long landlords have to pay a fine of up to 50,000EUR. **Note**: I couldn't find an official document for this rule. I am also not sure about the timeframe you are alot to keep a rent unit vacant.
 
-### References
+But these restriction have a couple of downsides. First, to make sure rent increases are under the declared limits tenants have report misbehaviour which produces a conflict. If you need/want a flat in Hamburg you will not report a landlord who asked for excess rents. Those who should report are not willing to do so. Another problem with that rule is its set of excemptions you can find in the resources. But not only the rent-increase restriction flawed. Vacant buildings need either be reported by citizens or get found by official. The problem here is that the bureau responsible for checking for vacant buildings is understaffed.
+
+It seems like the only rule which seems to ork so far is the restriction on repurposing appartments as holiday domicils.But here the city pushed the responsibility to AirBnB.
+
+### What are feaseble solutions?
+Below we discuss already implemented and new solutions.
+
+#### Penalizing empty office and rent units
+A city could penalise landlords which own office or rent units which stay vacant longer than a limit `t_vacant`. This penalty could be a small fine (`x%` of the current rent) starting after a short time (3 months) and increases over time. To make sure the city actually knows when a unit is vacant a central databases is needed. There, landlords register their property and if a new tenant signs a contract she has to report that to the city anyway (Hamburg). Thus, only then the status would be set to *used*.
+
+The problem here is we don't know automatically when a unit becomes vacant. Tenants might move within the same city and we could deduce that information but they might also leave the city. It would require an at least nation wide database. Another solution could be to require the landlord to report the vacancy but here she could just decide not to do it as is currently sometimes the case in Hamburg.
+
+### Restrict Holiday appartments
+As already discussed Hamburg enforces laws on rent unit usage. A tenant or landlord is only allowed to let his private flat as holiday appartment for 8 weeks a year and only for by registering every holidy rent. AirBnB (or any such platform) has to make sure that a landlord or tenant providing a flat has registered his flat and got a valid certificate [10]
+
+When it comes to regulating the usage of rent units as holiday domicils effectiveness of reducing rent growth of course depends on the actual popularity of AirBnB and the like in the area. And one has to keep in mind that it adds new bureaycratic overhead to process all certificate and holiday-let requests.
+
+### Restrict hotel density
+Since tourism is growing with the popularity of cities so is the number of hotels accommodating the tourists. Depending on the city or area one might think about a upper limit for hotels per area unit or citizen number. But here it might be hard ti quantify what numbers make sense. Another approach could be to force hotel developers to also include appartments in their buildings making it a hotel/living space mix. This approach wouldn't create artificial limits and would add new flats to a city.
+
+But the question is, would citizen would to live above or in a hotel building or in the areas hotels are created? Furthermore, the above ruling would immediately raise the question why it isn't applied to offices and other business units like shops.
+
+### Ease construction of new buildings
+Some metropolitan areas were able to keep their rent growth at inflation like levels by making it simple to construct new buildings [3]. Simple here means developers have a fixed set of rules they have to follow when building and as long as they obey nobody can object the construction. Also subsidizing land gives the right incentives for the creation of new buildings. Looking at our example of Hamburg we find that developers have a fixed set of rules but they also have to take the local community into account. They could resist an application for a new construction and represent a hard to estimate risk.
+
+Of course we have to keep in mind that overruling local communities to reduce the risk of developers might not be politically and socially feasable.
+
+### Higher density constructions
+Continueing with the above point new constructions should also be incentivised to accommodate a higher number of people. This can be achieved by building closer - reducing the distance between houses and using more of the area - but might lead to sealed areas, meaning with no green [11]. Another proofen solution could be to build higher. But that means height restriction, which exist in Hamburg and other european cities, must be removed or at least eased.
+
+A counter argument to this scenario would be the description of the often historic city image when building large buildings. One measurment to reduce that effect could be to force developers to keep the design of the lower levels in the same style of the sourrinding area. Another problem with higher density buildings is that they either targeted at low-income groups and lead to getto creation as can be seen in old "Plattenbau" villages. Or they target the opposite spectrum oof high-income people and lead again to the situation of a homogenous society. A desirable solution should enforce buildings with a heterogenous composition of people.
+
+Tall buildings could also have a positive effect on the percentage of green in a city by incorporating new city gardening concepts [12].
+
+### Subsidice the creation of new rent units
+Staying with the large buildings idea one could ask the question how do you make sure the composition of people is heterogenues. Developers need to pay a high price to build large buildings like skyscrapers and have to offset their investments. One way could be to subsidize a percentage of the appartments when used for rent. There could be subsidiaries for property taxes or income taxes on rent. Furthermore, a push to modulare tower construction could help to reduce the cost [13].
+
+## References
  - [1] [https://en.wikipedia.org/wiki/Hamburg](https://en.wikipedia.org/wiki/Hamburg)
  - [2] [https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.9.1.99](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.9.1.99)
  - [3] [http://freakonomics.com/podcast/rent-control/](http://freakonomics.com/podcast/rent-control/)
@@ -59,3 +96,7 @@ To describe which solutions might work, how they work and what possible shortcom
  - [7] [(GER) https://www.hamburg.de/mietenspiegel/4606594/mietpreisbremse/](https://www.hamburg.de/mietenspiegel/4606594/mietpreisbremse/)
  - [8] [(GER) https://www.hamburg.de/wohnraumschutz/11977066/wohnraumschutzgesetz-aenderungen-2019/](https://www.hamburg.de/wohnraumschutz/11977066/wohnraumschutzgesetz-aenderungen-2019/)
  - [9] [(GER) https://www.zeit.de/hamburg/2014-04/wohnung-leerstand-hamburg](https://www.zeit.de/hamburg/2014-04/wohnung-leerstand-hamburg)
+ - [10] [https://www.airbnb.com/help/article/856/hamburg?locale=en](https://www.airbnb.com/help/article/856/hamburg?locale=en)
+ - [11] [https://www.welt.de/debatte/kommentare/article152736886/Neue-Wohnungen-wir-muessen-wieder-bauen-wie-um-1900.html](https://www.welt.de/debatte/kommentare/article152736886/Neue-Wohnungen-wir-muessen-wieder-bauen-wie-um-1900.html)
+ - [12] [https://www.researchgate.net/publication/321748735_Innovative_Urbanizing_City_Garden_and_Parks_in_the_Future_Skyscrapers](https://www.researchgate.net/publication/321748735_Innovative_Urbanizing_City_Garden_and_Parks_in_the_Future_Skyscrapers)
+ - [13] [https://www.fullstackmodular.com/](https://www.fullstackmodular.com/)
