@@ -151,7 +151,7 @@ a:active {
 
 .entry,
 .post-excerpt {
-    width: 70%;
+    width: 90%;
     padding-bottom: 3em;
 }
 
@@ -176,32 +176,6 @@ a:active {
 
 .small-post-date {
     display: none;
-}
-
-.post-date-line,
-.entry-line {
-    border-left: 4px solid #f0f0f0; /* ultra leight grey*/;
-}
-
-.post-date-line {
-    -webkit-transform: translate(48%, 10%);
-    -ms-transform: translate(48%, 10%);
-    transform: translate(48%, 10%);
-}
-
-.entry-line {
-    -webkit-transform: translate(48%, 2%);
-    -ms-transform: translate(48%, 2%);
-    transform: translate(48%, 2%);
-}
-
-.post-date-line {
-    height: 197px;
-}
-
-.entry-line {
-    height: 200px;
-    margin-bottom: 1.2em;
 }
 
 .cv-section {
@@ -304,10 +278,14 @@ a:active {
 }
 
 .left-col,
-.entry-col,
 .date-col {
-    width: 10%;
+    width: 15%;
     text-align: center;
+}
+
+.date-col-position {
+    float: right;
+    margin-right: 1em;
 }
 
 .left-cv-col {
@@ -376,8 +354,9 @@ a:active {
 .il { color: #099 } /* Literal.Number.Integer.Long */
 
 .right-col,
+.entry-col,
 .post-col {
-    width: 90%;
+    width: 85%;
 }
 
 .right-cv-col {
@@ -407,7 +386,7 @@ a:active {
 
 @media only screen and (max-width: 730px) {
     .post-excerpt {
-        width: 70%;
+        width: 90%;
         padding-bottom: 1.5em;
     }
 }
@@ -436,7 +415,6 @@ a:active {
         width: 100%;
     }
 
-    .entry-col,
     .date-col,
     .left-cv-col{
         width: 0%;
@@ -444,6 +422,7 @@ a:active {
     }
 
     .post-col,
+    .entry-col,
     .right-cv-col {
         width: 100%;
         margin-bottom: 2em;
