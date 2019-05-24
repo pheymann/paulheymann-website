@@ -6,6 +6,7 @@ categories: economy
 head_title: Rent control or how to fix exploding rents
 meta_description: What is rent control and how effectiv is it at reducing rent and price growth in metropolitan areas.
 meta_keywords: Economy,Rent,Rent Control,Real-Estate,Hamburg
+permalink: /:categories/:title
 ---
 More and more people wish to live in metropolitan areas around the world. In pursuit of better jobs, more cultural opportunities and a better life in general they start to look for a living space but shortly after realise how expensive these places have become or they have to fear that they cannot afford their current home anymore. In this post I will take a look into rent controls and how they effective they are in regulating the market.
 
