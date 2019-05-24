@@ -29,7 +29,7 @@ And they are location variant meaning one city might decide upon a different set
 That, of course, makes it quite hard to measure how rent controls are performing and thus to quantify if they are beneficiary or not. Taking furthermore into account that it is a highly political and emotional topic - it directly affects people's lives - you can see that finding an object answer is a hard problem [3]. Additional parameters influencing the markets and might skew results are:
   - Marco and local economics: Do we have a recession (macro) or reported a large local company bankruptcy (GM in Detroit)?
   - local tax structure, especially for properties and land
-  - real-estate cycle: Like every market real estate follows a cycle [14]
+  - real-estate cycles: different estate groups might follow a cycle [14]
   - ratio tenants to landlords: Having more tenants might lead to pro-control politics and vis versa.
 
 ## Is it any good?
