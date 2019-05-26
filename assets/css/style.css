@@ -60,6 +60,16 @@ a:active {
     color: #56aecb; /* link blue */
 }
 
+img {
+    display: block;
+    margin: auto;
+}
+
+.image-capture {
+    font-size: small;
+    text-align: center;
+}
+
 .container {
     position: relative;
     min-height: 100vh;
@@ -398,6 +408,10 @@ a:active {
 }
 
 @media only screen and (max-width: 650px) {
+    img {
+        width: 100%;
+    }
+
     .small-post-date {
         display: inline;       
     }
