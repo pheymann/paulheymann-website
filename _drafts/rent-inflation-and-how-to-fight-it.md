@@ -4,75 +4,72 @@ title: Rent control or how to fix exploding rents
 date:   2019-05-24
 categories: economy
 head_title: Rent control or how to fix exploding rents
-meta_description: What is rent control and how effectiv is it at reducing rent and price growth in metropolitan areas.
+meta_description: What is rent control and how effective is it at reducing rent and price growth in metropolitan areas.
 meta_keywords: Economy,Rent,Rent Control,Real-Estate,Hamburg
 permalink: /:categories/:title
 ---
 
-More and more people wish to live in metropolitan areas around the world. In pursuit of better jobs, more cultural opportunities and a better life in general, they start to look for a home just to realise how expensive these places have become. On the other hand, residents have to fear that they cannot afford their current places anymore. To bring the rental market under control many cities introduced rent control. But are they really effective?
+More and more people wish to live in metropolitan areas around the world. In pursuit of better jobs, more cultural opportunities and a better life in general, they start to look for a home just to realise how expensive these places have become. On the other hand, residents have to fear that they cannot afford their current places anymore. To stop or at least slow down this development many cities started to employ rent control as counter measure. Now the question is: Did that work? In this blog post, we try to anser that question.
 
-## Why do I think about this topic in the first place?
-I am interested in the economics of the rent control market for a while now. Mainly because I moved to one of Germany's largest metropolitan areas, Hamburg. You can find more than 5 million people here, almost 2 million living in the city itself leading to a population density of **2430 citizens per square kilometer** [1]. That of course leads to a problem people experiencing in many high-demand regions over the world like New York City, London or Berlin. Sky-rocketing rent prices. My wife and I started out in a newly built apartment which cost us well over 30% of our net income and was located 45min outside of the city center were I was working. Only through connections and a lot of luck, were we able to find a flat that is close to work and priced under 30% net income. ???
+## Why am I concerned about this topic in the first place?
+I am interested in the economics of the rent control market for a while now. Mainly because I moved to one of Germany's largest metropolitan areas, Hamburg. You can find more than 5 million people here, almost 2 million living in the city itself leading to a population density of **2430 citizens per square kilometer** [1]. That of course leads to a problem people experiencing in many high-demand regions over the world like New York City, London or Berlin. Sky-rocketing rents. My wife and I started out in a newly built apartment which cost us well over 30% of our net income and was located 45 minutes outside of the city center were I was working. Only through connections and a lot of luck, were we able to find a flat that is close to work and priced under 30% net income. 
 
-Taking into account that Hamburg, like many European cities, has rent control in, that experience made me ask myself the questions *How does the rental market and especially rent control work?* and *How to behold the insane rent growth?*
+Taking into account that Hamburg, like many European cities, has rent controls in place, that experience made me ask myself the questions *How does the rental market and especially rent control work?* and *How to contain the insane rent growth?*
 
 ## What is Rent Control?
-The answer to this question seems obvious at first. You restrict how rents can develop over time. But when taking a closer look you realise that it is a bit more complicated than that.
+So what is rent control? The answer to this question seems obvious at first. You restrict how rents can develop over time. But when taking a closer look you realise that it is a bit more complicated than that.
+
 - What is it that you restrict?
 - Is this rule applied in a specific area of a city or the city as a whole?
 - Are all rental units restricted or are there exceptions?
+
 What makes it even more complicated is the fact that there is a distinction between first generation rent controls created during the second world war and newer versions which fall under the class of second generation controls [2].
 
 ### First generation rent controls
-The first generation is summed up as rent freeze. It was introduced in the USA during the second world war to prevent people taking advantage of families whose members were abroad. After the war ended, this restriction was mostly removed. Many areas removed it completely or like Europe enter into the second generation of rent controls. [2]
+The first generation is summed up as rent freeze. It was introduced in the USA during the war to prevent people taking advantage of families whose members were abroad. After the war ended, many areas removed it completely or like Europe enter into the second generation of rent controls. [2]
 
 ### Second generation rent controls
-The second generation is highly diversified. Under its umbrella fall regulations like:
+The second generation is a highly diversified set of restrictions. Under its umbrella fall regulations like:
 - rent increase per time unit
 - rent increase per new tenant
 - eviction laws
 - allowed rent differences in a specific area
 - and many more
+
 And they are location variant meaning one city might decide upon a different set of rules than another. Or they have the same rules but with differences in their parameters (How much are you allowed to increase the rent per let's say year?) [2].
 
 That, of course, makes it quite hard to measure how rent controls are performing and thus to quantify if they are beneficiary or not. Taking furthermore into account that it is a highly political and emotional topic - it directly affects people's lifes - you can see that finding an object answer is a hard problem [3]. Additional parameters influence the markets and might skew results:
 - Marco and local economics: Do we have a recession (macro) or reported a large local company bankruptcy (GM in Detroit)?
-- local tax structure, especially for properties and land
-- real-estate cycles: different estate groups might follow a specific cycle [14]
+- Local tax structure, especially for properties and land.
+- Real-estate cycles: different estate groups might follow a specific cycle [14].
 - ratio tenants-to-landlords: Having more tenants might lead to pro-control politics and vis versa.
 
 ## Is it any good?
 As stated above, the answer is not clear. Depending on which research you read you might find that it works for a specific area or not. Looking at several effects of rent control you realise why that is the case [2], [4], [21]:
 
-When adding controls and restrictions landlords might transform their rent units into condos if the market price for an apartment is high enough. Thus, they can offset their rental losses but at the same time the supply of rent units goes down. In this scenario it also makes less economic sense for developers to build new rent units. If we now add exceptions to the controls the situation might get even worse as landlords will try to change their property to exempt it from restrictions. That could be the case if they, for example, upgrade the building to a higher quality. What happens than is a growth in rent in the uncontrolled areas equal or higher compared to an environment without rent control.
+When adding controls and restrictions landlords might transform their rent units into condos if the market price for an apartment is high enough. Thus, they can make up for their rental losses but at the same time the supply of rent units goes down. In this scenario it also makes less economic sense for developers to build new rent units. If we now add exceptions to the controls the situation might get even worse as landlords will try to change their property to exempt it from restrictions. That could be the case if they, for example, upgrade the building to a higher quality. What happens than is a growth in rent in the uncontrolled areas equal or higher compared to an environment without rent control.
 
 That leads directly to a reduction in tenant mobility. That means, if you are living in a rent controlled apartment you are unlikely to move to a new place. That, of course, can lead to misallocations, meaning, a tenant continues to live in an apartment which doesn't fit her lifestyle anymore (kids move out, etc.). Whereas other tenants might want to change their home (having kids) but cannot as no rent control flats are available and uncontrolled apartments are too expensive.
 
 But this, of course, also has its benefits as people from disadvantaged social groups, e.g. low-income, aren't forced out of their homes by increasing rents. And when leaving the rental development up to the market without regulations prices might surge in popular areas leaving it only with a homogenous population mostly made up from wealthy individuals.
 
-Next, rent control can lead to more vacancies of buildings and units. A landlord might try to circumvent established rent controls by waiting until an exemption kicks in or a change in the political sentiment leads to a reduction or complete removal of restrictions.
+Next, rent control can lead to more vacancies of buildings and units. A landlord might try to circumvent established rent controls by waiting until an exemption kicks in or a change in the political sentiment leads to a reduction or complete removal of restrictions. Also, a decay of services and units might occur as landlords try to make up for their losses. This leads to a value-loss - you get less quality for the same price - or even a complete loss of the building.
 
-Finally, a decay of services and units occurs as landlords try to make up for their losses. This leads to a value-loss - you get less quality for the same price - or even a complete loss of the building.
-
-Which, if the above scenarios take place, is unknown a prior before introducing controls. A city can experience benefits and disadvantages depending on the combination of controls and their implementation. Thus, it is close to impossible to make general statements about the effectiveness of rent control. One rather has to look at each case independently and even then you might miss or underestimate some parameters influencing the environment and skewing your findings.
+Unfortunately, it is unknown a prior which of the above scenarios take place. A city's experience depends on the combination of controls, their implementation and the social and political structure of the area. Thus, it is close to impossible to make general statements about the effectiveness of rent control. One rather has to look at each case independently and even then you might miss or underestimate some parameters influencing the environment and skewing your findings.
 
 ## A case study and what to do against ever-increasing rents
-To describe which solutions might work, how they work and what possible shortcomings they have we will take a look at Hamburg, Germany. First, let's have a short look at the numbers and current restrictions. The city's rents increased by **22% to 39%** between 2011 and 2018 depending on the size of the apartment [5]. At the same time, we saw a population growth of ~10% and roughly 5.75% new rent units were built. The state-wide inflation rate was at ~2% a year or **~15% in 7 years** [6].
-
-Taking into account that Hamburg has rent controls in place means these were either not effect at all (rents are the same as without controls) or not effective enough (rents would be higher without controls). The following controls are in place [7], [8], [9], [15], [16]:
+To describe which solutions might work, how they work and what possible shortcomings they have we will take a look at Hamburg, Germany. First, let's revise the numbers and current restrictions. The city's rents increased by **22% to 39%** between 2011 and 2018 depending on the size of the apartment [5]. At the same time, we saw a population growth of ~10% and roughly 5.75% new rent units were built. The state-wide inflation rate was ~2% a year or **~15% in 7 years** [6]. Furthermore, the following controls are in place [7], [8], [9], [15], [16]:
 - Rent increase limitations.
-- Landlords are not allowed to rent their flats on AirBnB without an allowance from the city. Furthermore, they are only allowed to rent it as holiday apartment for 8 weeks a year and every let has to be registered.
+- Landlords are not allowed to let their flats on AirBnB without an allowance from the city. Furthermore, they are only allowed to let it as holiday apartment for 8 weeks a year and every let has to be registered.
 - If buildings/rent units are vacant for more than 4 months landlords have to pay a fine.
 - Affordable rent units are built by the city to accommodate low-income families. To get one of these units, you need to be under a certain income level to receive a voucher.
 - The city builds rent units for all income groups.
 
-In the following sections we will look at different controls - some implemented by Hamburg some not.
+Looking at the numbers and restrictions we can conclude that rent controls were either not effective at all (rents are the same as without controls) or not effective enough (rents would be higher without controls). But why is that? In the following sections we will take a look at the implemented controls and discuss some new strategies which might solve the current problem.
 
 ### What are feasible solutions?
-Below we discuss different approaches of rent control.
-
 ### Limit rent growth
-Limiting rent growth can be done in different ways. A city can set a global upper limit on rent growth, or it can be area specific. Limiting the minimum amount of time between increases can also be but in this category. In the case of Hamburg, rents can be increased up to `average-area-rent + 10%` and only ones a year [20]. Furthermore, increases aren't allowed to be more than 15% in 3 years. Keeping in mind that inflation is roughly 6,1% for the same timeframe.
+Limiting rent growth can be done in different ways. A city can set a global upper limit on rent growth, or it can be area specific. Limiting the minimum amount of time between increases can also be but in this category. In the case of Hamburg, rents can be increased up to `average-area-rent + 10%` and only ones a year [20]. Furthermore, increases aren't allowed to be more than 15% in 3 years. Keep in mind that inflation is roughly 6,1% for the same timeframe.
 
 Looking at our reference city, it is clear that this control wasn't effective since rent growth is significantly larger than 15% in the last 3 years. One reason could be the lack of official control. Tenants have to report unfair/illegal rent increases, but that requires them to know the `average-area-rent`. Furthermore, tenants might not be willing to report their landlords in fear of losing their apartment. People, on the other hand, moving into the city don't know the `average-area-rent` and they don't have leverage to report landlords. If you report you don't get a flat. Therefore, it seems incentives are working against this control. A list of exemptions makes it also possible for landlords to bypass the controls.
 
@@ -85,7 +82,7 @@ Hamburg also applies this control but hasn't enough staff to enforce it and reli
 
 To make sure the city actually knows when a unit is vacant again a central database can be used. There, landlords register their property and if a new tenant signs a contract she has to report that to the city. Thus, only if a tenant is living in a unit the status is set to *used*.
 
-The problem here is we don't know automatically when a unit becomes vacant. Tenants might move within the same city and we could deduce that information but they might also leave the city. It would need an at least nationwide database to capture most movements - excluding emigrants. Another solution could be to require the landlord to report the vacancy but here she could just decide not to do so as is already the case.
+The problem here is we don't know automatically when a unit becomes vacant. Tenants might move within the same city and we could deduce that information but they might also leave the city. It would need an at least nationwide database to capture most movements. Another solution could be to require the landlord to report the vacancy but here she could just decide not to do so as is already the case.
 
 ### Restrict Holiday apartments
 As already discussed Hamburg enforces laws on apartment usage. A tenant or landlord is only allowed to let his private flat as holiday apartment for 8 weeks a year and only by registering every holiday rent. AirBnB (or any such platforms) has to make sure that a landlord or tenant providing a flat has registered her flat and got a valid allowance [10].
@@ -95,7 +92,7 @@ Of course, the effectiveness of regulating the usage of rent units as holiday do
 ### Restrict hotel density
 Since tourism is growing with the popularity of cities so is the number of hotels accommodating the tourists. Depending on the city or area, one might think about an upper limit for hotels per area unit or citizen number. But here it might be hard to quantify what limits make sense and adding that limit adds artificial scarcity to the market. That, in turn, could lead to a price surge following the supply-demand curve. Another approach could be to force hotel developers to also include apartments in their buildings making it a hotel/living space mix. This approach wouldn't create artificial limits and would add new flats to the city.
 
-But the question is, would citizen like to live above or in a hotel building or in the areas hotels are created? Furthermore, the above ruling would immediately raise the question why it isn't applied to offices and other business units like shops as well. Here, we would enter a fairness discussion which might skew the end-result to a point where it isn't beneficial anymore.
+But the question is, would citizen like to live in a hotel building or in the areas hotels are created? Furthermore, the above ruling would immediately raise the question why it isn't applied to offices and other business units like shops as well. Here, we would enter a fairness discussion which might skew the end-result to a point where it isn't beneficial anymore.
 
 ### Ease construction of new buildings
 Some metropolitan areas were able to keep their rent growth at inflation like levels by making it simple to construct new buildings [3]. *Simple* here means developers have a fixed set of rules they have to follow when building and as long as they obey nobody can object the construction. Also subsidizing land gives the right incentives for the creation of new buildings. Looking at our example of Hamburg, we find that developers have a fixed set of rules, but they also have to take the local community into account. They could resist an application for a new construction and represent a hard to estimate risk.
@@ -105,17 +102,17 @@ Of course we have to keep in mind that overruling local communities to reduce th
 ### Higher density constructions
 Continuing on the above point, new constructions should also be incentivized to accommodate a higher number of people. This can be achieved by building closer - reducing the distance between houses and using more of the area - but might lead to more sealed areas, reducing green [11]. Another proven solution could be to build higher. But that means height restriction, which exist in Hamburg and other European cities, must be removed or at least eased.
 
-A counter argument to this scenario would be the destruction or at least decay of the often old, historic city image when building large, modern buildings. One measurement to reduce that effect could be to force developers to keep the design of the lower levels in the same style of the surrounding area. Another problem with higher density buildings is that they target specific social groups. In one case, they are planed for low-income families in the context of political decisions to provide affordable homes. But having a high density of these units might cause ghetto creation. On the other hand, speculators and developers might target the opposite spectrum of high-income people and lead again to homogenous societal groups within the city. A desirable solution should enforce buildings with a heterogenous composition of people. I have to see if I find the time to take a look into this topic and work out some resources. For now this paragraph is more an opinion than based on facts.
+A counter argument to this scenario would be the destruction or at least decay of the often old, historic city image when building large, modern buildings. One measurement to reduce that effect could be to force developers to keep the design of the lower levels in the same style as the surrounding area. Another problem with higher density buildings is that they target specific social groups. In one case, they are planed for low-income families in the context of political decisions to provide affordable homes. But having a high density of these units might cause ghetto creation. On the other hand, speculators and developers might target the opposite spectrum of high-income people and lead again to homogenous societal groups within the city. A desirable solution should enforce buildings with a heterogenous composition of people. I have to see if I find the time to take a look into this topic and work out some resources. For now this paragraph is more an opinion than based on facts.
 
 A final note on higher density buildings: These buildings could also have a positive effect on the percentage of green in a city by incorporating new city gardening concepts [12].
 
 ### Subsidize rent unit creation
-Staying with the large buildings idea one could ask *How do you make sure that the composition of people is heterogeneous?* Developers need to pay a high price to build large buildings like skyscrapers and have earn a return for their investments. One way could be to subsidize a percentage of the apartments when used for low-income/median-income groups. There could be subsidiaries for property taxes or income taxes on rent. Of course, there is no guarantee that investors and developers plan for low/medium range units just because of subsidies. Adding enforcement by requiring a minimum number of such units could help.
+Staying with the large buildings idea one could ask *How do you make sure that the composition of people is heterogeneous?* Developers need to pay a high price to build large buildings like skyscrapers and have to earn a return for their investments. One way could be to subsidize a percentage of the apartments when used for low-income/median-income groups. There could be subsidiaries for property taxes or income taxes on rent. Of course, there is no guarantee that investors and developers plan for low/medium range units just because of subsidies. Adding enforcement by requiring a minimum number of such units could help.
 
 Furthermore, a push to modular tower constructions could help to cut the cost [13].
 
 ### Restrict real-estate speculation
-One point I hadn't look into yet is real-estate speculation. Investors plan new buildings or buy and upgrade old ones not to accommodate the cities and residents needs but to improve return-on-investment. An exemplary behaviour could be the destruction of low/medium price rent units to create high-end apartments. To control speculation restrictions on land ownership could be put. Only if a person has citizenship, she is allowed to own land. But land might be owned by companies and here it becomes tricky. I don't see a way how a city or country enforces a company structure that prevents foreign money to invest in the local market. Furthermore, it also runs under the assumption that local people and companies aren't speculating on real-estate. And finally, by restricting the inflow of investments a city might harm its own growth as new buildings might not get constructed.
+One point I hadn't look into yet is real-estate speculation. Investors plan new buildings or buy and upgrade old ones not to accommodate the cities and residents needs but to improve return-on-investment. An exemplary behaviour could be the destruction of low/medium price rent units to create high-end apartments. To control speculation restrictions on land ownership could be put. Only if a person has citizenship, she is allowed to own property. But it might be owned by companies and here it becomes tricky. I don't see a way how a city or country enforces a company structure that prevents foreign money to invest in the local market. Furthermore, it also runs under the assumption that local people and companies aren't speculating on real-estate. And finally, by restricting the inflow of investments a city might harm its own growth as new buildings might not get constructed.
 
 ### City led development
 The city itself can enter the real-estate market and develop rent-units. By doing so it can offer living space to a lower price rate than the actual market value. Hamburg is doing that for all income groups [15]. But we have to keep in mind that the city can lower rents to a point were the units are not profitable anymore simple by subsidizing it and thus getting a market advantage. Private landlords might not be able to gain a profit in this scenario and either let their property decay or stop constructing new buildings. Which in turn could lead to a reduction in supply and could drive prices up, even more.
