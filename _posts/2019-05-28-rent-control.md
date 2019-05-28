@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Rent control or how to fix exploding rents
-date:   2019-05-24
-categories: economy
+date:   2019-05-28
+categories: economics
 head_title: Rent control or how to tame exploding rents
 meta_description: Exploding rents and the try to tame them with rent control. But is it any good?
 meta_keywords: Economy,Rent,Rent Control,Real-Estate,Hamburg
