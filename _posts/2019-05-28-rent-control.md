@@ -43,7 +43,7 @@ That, of course, makes it quite hard to measure how rent controls are performing
 - Marco and local economics: Do we have a recession (macro) or reported a large local company bankruptcy (GM in Detroit)?
 - Local tax structure, especially for properties and land.
 - Real-estate cycles: different estate groups might follow a specific cycle [14].
-- ratio tenants-to-landlords: Having more tenants might lead to pro-control politics and vis versa.
+- ratio tenants-to-landlords: Having more tenants might lead to pro-control politics and vice versa.
 
 ## Is it any good?
 As stated above, the answer is not clear. Depending on which research you read you might find that it works for a specific area or not. Looking at several effects of rent control you realise why that is the case [2], [4], [21]:
