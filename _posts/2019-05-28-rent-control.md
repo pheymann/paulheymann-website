@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rent control or how to fix exploding rents
+title: Rent control, is it any good?
 date:   2019-05-28
 categories: economics
 head_title: Rent control or how to tame exploding rents
