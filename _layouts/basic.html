@@ -4,20 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/index.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
     {%- if page.head_title -%}
-    <title>{{ page.head_title }}</title>
+      <title>{{ page.head_title }}</title>
     {%- else -%}
-    <title>Paul Digital Island</title>
+      <title>Paul Digital Island</title>
     {%- endif -%}
 
     {%- if page.meta_description -%}
-    <meta name="description" content="{{ page.meta_description }}"/>
+      <meta name="description" content="{{ page.meta_description }}"/>
     {%- endif -%}
     {%- if page.meta_keywords -%}
-    <meta name="keywords" content="{{ page.meta_keywords }}"/>
+      <meta name="keywords" content="{{ page.meta_keywords }}"/>
     {%- endif -%}
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140692510-1"></script>
@@ -30,32 +30,26 @@
     </script>
   </head>
   <body>
-    <div class="container">
-      <header>
-        <div class="nav-body">
-          <div class="row">
-            <div class="col left-col">
-              <a href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="profile picture" class="profile-img">
-              </a>
-            </div>
-            <div class="col right-col">
-              <ul class="nav-bar nav-bar-left">
-                <li id="blog-nav"><a href="{{site.baseurl }}/">blog</a></li>
-                <li><a href="{{ site.baseurl }}/cv">me</a></li>
-              </ul>
-
-              <div class="clearfix"></div>
-            </div>
-          </div>
+    <header>
+        <div class="image-container">
+          <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="profile picture">
+          </a>
         </div>
-      </header>
 
-      {{ content }}
+        <div class="navigation-container">
+          <ul>
+            <li id="blog-nav"><a href="{{site.baseurl }}/">blog</a></li>
+            <li><a href="{{ site.baseurl }}/cv">me</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
 
-      <footer>
-        You can find the code for this website on <a href="https://github.com/pheymann/paulheymann-website"><i class="fab fa-github"></i></a>
-      </footer>
-    </div>
+    {{ content }}
+
+    <footer>
+      You can find the code for this website on <a href="https://github.com/pheymann/paulheymann-website"><i class="fab fa-github"></i></a>
+    </footer>
   </body>
 </html>

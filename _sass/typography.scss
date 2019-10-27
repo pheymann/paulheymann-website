@@ -1,0 +1,44 @@
+
+$text-color: #4b4b4b;
+$text-dark-color: #999;
+$header-color: #333;
+$hover-color: #56aecb;
+$active-color: #56aecb;
+
+body {    
+    font-family: "Helvetica", "Arial", sans-serif;
+    line-height: 1.5;
+    color: $text-color;
+}
+
+footer {
+    font-size: 0.8em;
+    color: $text-dark-color;
+    text-align: center;
+
+    a {
+        color: $text-dark-color;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+    color: $header-color;
+}
+
+a {
+    color: $header-color;
+
+    &:hover {
+        color: $hover-color;
+    }
+
+    &:active {
+        color: $active-color;
+    }
+}

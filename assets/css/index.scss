@@ -1,8 +1,13 @@
+---
+# Front matter is needed for Jekyll.
+---
+
+@import 'typography';
+@import 'simple-grid';
+
+@import 'basic';
 
 body {    
-    font-family: "Helvetica", "Arial", sans-serif;
-    line-height: 1.5;
-    color: #4b4b4b; /* default color */
     margin: 0;
 }
 
@@ -15,23 +20,6 @@ footer {
     bottom: 0;
     width: 100%;
     height: 3em;
-    font-size: 0.8em;
-    color: #999; /* light grey */
-    text-align: center;
-}
-
-footer a {
-    color: #999; /* light grey */
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-strong {
-    color: #333; /* strong color */
 }
 
 code,
@@ -51,15 +39,6 @@ pre {
     white-space: pre;
 }
 
-a {
-    color: #333; /* strong grey */
-}
-
-a:hover,
-a:active {
-    color: #56aecb; /* link blue */
-}
-
 img {
     display: block;
     margin: auto;
@@ -68,11 +47,6 @@ img {
 .image-capture {
     font-size: small;
     text-align: center;
-}
-
-.container {
-    position: relative;
-    min-height: 100vh;
 }
 
 .clearfix {
@@ -88,15 +62,6 @@ img {
 
 .invisible {
     opacity: 0;
-}
-
-.profile-img {
-    height: 40px;
-    border-radius: 50%;
-    vertical-align: middle;
-    border-style: solid;
-    border-width: 2px;
-    border-color: #56aecb; /* link blue */
 }
 
 .nav-body,
