@@ -73,12 +73,12 @@ footer {
 }
 
 h1 {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 h2,
 h3 {
-    margin: 10px 0 10px 0;
+    margin: 40px 0 20px 0;
 }
 
 a {
@@ -110,6 +110,10 @@ pre {
     overflow: auto;
     word-wrap: normal;
     white-space: pre;
+}
+
+.highlight {
+    margin: 20px 0 20px 0;
 }
 
 img {

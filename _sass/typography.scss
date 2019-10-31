@@ -1,12 +1,28 @@
 
-$text-color: #4b4b4b;
-$text-light-color: #999;
-$header-color: #333;
+$header-font-family: "Helvetica", sans-serif;
+$content-font-family: "Helvetica", sans-serif;
 
-body {    
-    font-family: "Helvetica", "Arial", sans-serif;
-    line-height: 1.5;
+$bg-color: rgb(255, 255, 255);
+$bg-medium-color: rgba(226, 226, 226, 0.5);
+$bg-light-color: rgba(226, 226, 226, 0.3);
+
+$text-color: rgba(0, 0, 0, 0.84);
+$text-light-color: rgb(167, 167, 167);
+
+%common-text-styling {
     color: $text-color;
+    text-rendering: optimizeLegibility;
+}
+
+%content-text-styling {
+    @extend %common-text-styling;
+
+    font-family: $content-font-family;
+
+    letter-spacing: 0.1px;
+    line-height: 1.5;
+    font-size: 1.2em;
+    word-spacing: 1px;
 }
 
 footer {
@@ -19,16 +35,32 @@ footer {
     }
 }
 
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
-strong {
-    color: $header-color;
+h6 {
+    @extend %common-text-styling;
+
+    font-family: $header-font-family;
+}
+
+p,
+li {
+    @extend %content-text-styling;
 }
 
 a {
-    color: $header-color;
+    @extend %content-text-styling;
+
+    font-size: 1em;
 }
