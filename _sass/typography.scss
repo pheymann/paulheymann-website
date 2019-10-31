@@ -1,9 +1,7 @@
 
 $text-color: #4b4b4b;
-$text-dark-color: #999;
+$text-light-color: #999;
 $header-color: #333;
-$hover-color: #56aecb;
-$active-color: #56aecb;
 
 body {    
     font-family: "Helvetica", "Arial", sans-serif;
@@ -13,11 +11,11 @@ body {
 
 footer {
     font-size: 0.8em;
-    color: $text-dark-color;
+    color: $text-light-color;
     text-align: center;
 
     a {
-        color: $text-dark-color;
+        color: $text-light-color;
     }
 }
 
@@ -33,12 +31,4 @@ strong {
 
 a {
     color: $header-color;
-
-    &:hover {
-        color: $hover-color;
-    }
-
-    &:active {
-        color: $active-color;
-    }
 }

@@ -31,19 +31,20 @@
   </head>
   <body>
     <header>
-        <div class="image-container">
-          <a href="{{ site.baseurl }}/">
-            <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="profile picture">
-          </a>
-        </div>
-
-        <div class="navigation-container">
-          <ul>
-            <li id="blog-nav"><a href="{{site.baseurl }}/">blog</a></li>
-            <li><a href="{{ site.baseurl }}/cv">me</a></li>
-          </ul>
-        </div>
+      <div class="navigation-profile">
+        <a href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="profile picture">
+        </a>
       </div>
+      
+      <div class="navigation-element">
+          <a href="{{ site.baseurl }}/cv">Vitae</a>
+        </div>
+      <div class="navigation-element">
+        <a href="{{site.baseurl }}/">Articles</a>
+      </div>
+
+      <div class="clearfix"></div>
     </header>
 
     {{ content }}
