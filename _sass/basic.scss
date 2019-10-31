@@ -11,6 +11,11 @@ $active-border-color: $hover-color;
     padding: 0;
 }
 
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
 header {
     width: 100%;
     box-shadow: 0 0 5px $text-light-color;
