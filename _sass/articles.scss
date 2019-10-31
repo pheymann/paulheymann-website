@@ -1,0 +1,19 @@
+@import 'typography';
+
+.articles {
+
+    .post {
+        margin: 20px 0 20px 0;
+
+        .title {
+            text-decoration: none;
+            font-size: 1.5em;
+        }
+
+        .post-date {
+            font-size: 0.8em;
+            color: $text-light-color;
+            margin-bottom: 10px;
+        }
+    }
+}
