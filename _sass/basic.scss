@@ -13,7 +13,7 @@ $active-border-color: $hover-color;
 
 body {
     position: relative;
-    min-height: 100%;
+    min-height: 100vh;
 }
 
 header {
@@ -61,13 +61,14 @@ $footer-height: 50px;
 .content {
     width: $content-width;
     margin: auto;
-    margin-bottom: $footer-height + 10px;
+    padding-bottom: $footer-height * 2;
 }
 
 footer {
-    position: relative;
-    height: $footer-height;
-    margin-top: -$footer-height;
+    position:absolute; 
+    bottom:0; 
+    width:100%; 
+    height:$footer-height; 
     line-height: $footer-height;
 }
 
