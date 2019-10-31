@@ -22,20 +22,22 @@
   </head>
   <body>
     <header>
-      <div class="navigation-profile">
-        <a href="{{ site.baseurl }}/">
-          <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="profile picture">
-        </a>
-      </div>
-      
-      <div class="navigation-element">
-          <a href="{{ site.baseurl }}/cv">Vitae</a>
+      <div class="navigation-container">
+        <div class="navigation-profile">
+          <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="profile picture">
+          </a>
         </div>
-      <div class="navigation-element">
-        <a href="{{site.baseurl }}/">Articles</a>
-      </div>
+        
+        <div class="navigation-element">
+            <a href="{{ site.baseurl }}/cv">Vitae</a>
+          </div>
+        <div class="navigation-element">
+          <a href="{{site.baseurl }}/articels">Articles</a>
+        </div>
 
-      <div class="clearfix"></div>
+        <div class="clearfix"></div>
+      </div>
     </header>
 
     {{ content }}
