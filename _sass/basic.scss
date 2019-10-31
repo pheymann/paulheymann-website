@@ -13,7 +13,7 @@ $active-border-color: $hover-color;
 
 body {
     position: relative;
-    min-height: 100vh;
+    min-height: 100%;
 }
 
 header {
@@ -56,16 +56,28 @@ header {
     }
 }
 
+$footer-height: 50px;
+
 .content {
     width: $content-width;
     margin: auto;
+    margin-bottom: $footer-height + 10px;
 }
 
 footer {
-    width: 100%;
-    height: 3em;
-    position: absolute;
-    bottom: 0;
+    position: relative;
+    height: $footer-height;
+    margin-top: -$footer-height;
+    line-height: $footer-height;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2,
+h3 {
+    margin: 10px 0 10px 0;
 }
 
 a {
@@ -76,4 +88,30 @@ a {
     &:active {
         color: $active-color;
     }
+}
+
+p {
+    margin: 10px 0 10px 0;
+}
+
+code,
+pre {
+    background: #f5f7f9;
+}
+
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+}
+
+pre {
+    padding: 1em;
+    overflow: auto;
+    word-wrap: normal;
+    white-space: pre;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
