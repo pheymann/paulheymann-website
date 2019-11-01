@@ -6,7 +6,8 @@
 
         .title {
             text-decoration: none;
-            font-size: 1.5em;
+            font-size: $h2-font-size;
+            font-weight: bold;
         }
 
         .post-date {

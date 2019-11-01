@@ -86,7 +86,7 @@ footer {
 }
 
 h1 {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 h2,
@@ -138,6 +138,12 @@ pre {
 
 .highlight {
     margin: 20px 0 20px 0;
+}
+
+@media only screen and (max-width: $breakpoint-small) {
+    .highlight {
+        margin: 40px 0 40px 0;
+    }
 }
 
 img {
