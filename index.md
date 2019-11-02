@@ -1,9 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-Hi,<br/>
-by random chance or by explicitly searching for it you ended up in my small digital domain. I am Paul Heymann a Software Engineer from Germany who works for the social network <a href="https://www.xing.com/profile/Paul_Heymann">Xing</a>. Here, I collect some of my thoughts about Computer Science, Economics, Teaching, and whatever interests me. These topics coincidentally also overlap with my skills and work experiences which you can find in my <a href="/cv">cv</a>.
+Hi there,<br/>
+this here is my small digital island I use to share some of my ideas, interests and works with you. Feel free to contact me through one of the following platforms or plain old e-mail:
+
+<div class="contact-options">
+  <ul>
+    <li><a href="https://github.com/pheymann"><i class="fab fa-github"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/paul-h-6b4a53144"><i class="fab fa-linkedin-in"></i></a></li>
+    <li><a href="https://www.xing.com/profile/Paul_Heymann"><i class="fab fa-xing"></i></a></li>
+    <li><a href="mailto:blog@paulheymann.de"><i class="far fa-envelope"></i></a></li>
+  </ul>
+  <div class="clearfix"></div>
+</div>
+
+You can find some of my writings under the [Articles](/articles) section. If you want to know more about my professional experiences take a look at my [cv](/cv.pdf).

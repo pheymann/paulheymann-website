@@ -1,0 +1,24 @@
+@import 'typography';
+
+.articles {
+    .post {
+        margin: 30px 0 30px 0;
+
+        .title {
+            text-decoration: none;
+            font-size: $h2-font-size;
+            font-weight: bold;
+            font-family: $header-font-family;
+        }
+
+        .post-date {
+            font-size: 0.8em;
+            color: $text-light-color;
+            margin-bottom: 10px;
+        }
+    }
+
+    @media only screen and (max-width: $breakpoint-small) {
+        margin: 30px 0 40px 0;
+    }
+}

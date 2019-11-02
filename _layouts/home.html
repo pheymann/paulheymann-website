@@ -2,44 +2,6 @@
 layout: "basic"
 ---
 
-<div class="home-body">
-  <div class="row entry-row">
-    <div class="col date-col">
-      <span class="invisible">.</span>
-    </div>
-    <div class="col entry-col">
-      <div class="entry">
-        {{ content }}
-      </div>
-    </div>
-  </div>
-
-  {%- for post in site.posts -%}
-  <div class="row post-row">
-    <div class="col date-col">
-      <div class="date-col-position">
-        {%- assign date_month_day = "%b %-d" -%}
-        {%- assign date_year = "%Y" -%}
-        <span class="post-list-date-month-day">{{ post.date | date: date_month_day }}</span>
-        <br/>
-        <span class="post-list-date-year">{{ post.date | date: date_year }}</span>
-      </div>
-    </div>
-    <div class="col post-col">
-      <div class="small-post-date">
-        {%- assign date_post = "%b %-d, %Y" -%}
-        <span>{{ post.date | date: date_post }}</span>
-        <br/>
-      </div>
-
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-
-      <div class="post-excerpt">
-        {{ post.excerpt }}
-      </div>
-    </div>
-  </div>
-  {%- endfor -%}
+<div class="home">
+  {{ content }}
 </div>
