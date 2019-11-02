@@ -49,9 +49,11 @@ header {
             margin: 10px 10px 0 10px;
 
             a {
-                font-weight: lighter;
+                font-weight: normal;
                 text-decoration: none;
                 color: $text-light-color;
+                font-family: $header-font-family;
+                font-size: 0.9em;
             }
         }
     }
@@ -116,7 +118,7 @@ a {
 }
 
 p {
-    margin: 10px 0 10px 0;
+    margin: 10px 0 30px 0;
 }
 
 code,

@@ -1,13 +1,13 @@
 @import 'simple-grid';
 
 $header-font-family: "Helvetica", sans-serif;
-$content-font-family: "Helvetica", sans-serif;
+$content-font-family: "Lora", "Georgia", serif;
 
 $bg-color: rgb(255, 255, 255);
 $bg-medium-color: rgba(226, 226, 226, 0.5);
 $bg-light-color: rgba(226, 226, 226, 0.3);
 
-$text-color: rgba(0, 0, 0, 0.75);
+$text-color: rgba(0, 0, 0, 0.8);
 $text-light-color: rgb(167, 167, 167);
 
 %common-text-styling {
@@ -74,6 +74,6 @@ a {
     p,
     li,
     a {
-        font-size: 1.0em;
+        font-size: 1em;
     }
 }
