@@ -1,0 +1,27 @@
+---
+layout: "basic"
+photo_base_name:
+photos_first_group:
+photos_second_group:
+---
+
+<div class="row photos">
+  {{ content }}
+
+  <div class="col-6">
+    {% assign ids = page.photos_first_group | split: ',' %}
+    {% for id in ids %}
+      <a href="{{ page.photo_base_name}}_{{ id }}.jpg">
+        <img src="preview/{{ page.photo_base_name}}_{{ id }}.jpg" />
+      </a>
+    {% endfor %}
+  </div>
+  <div class="col-6">
+      {% assign ids = page.photos_second_group | split: ',' %}
+      {% for id in ids %}
+        <a href="{{ page.photo_base_name}}_{{ id }}.jpg">
+          <img src="preview/{{ page.photo_base_name}}_{{ id }}.jpg" />
+        </a>
+      {% endfor %}
+    </div>
+</div>
