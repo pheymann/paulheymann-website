@@ -12,6 +12,11 @@ Currently, I use an *Olympys* MD OMD 10 Mark iii and a *14-150mm* travel lense. 
 
 <div class="row photo-index">
   <div class="col-6">
+    {% include collection.html collection="2019/berlin" image="berlin_7.jpg" description="Short city trip through Berlin." %}
+  </div>
+</div>
+<div class="row photo-index">
+  <div class="col-6">
     {% include collection.html collection="2019/lake_district" image="lake_district_10.jpg" description="Lake District backpack tour." %}
   </div>
   <div class="col-6">
