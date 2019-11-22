@@ -7,4 +7,4 @@ photos_second_group: "2,4,6,8,10,12,14"
 ---
 
 # Lake District 2019
-Travelled with my backpack through the Lake District for a week.
+I travelled through the Lake District for a week. Just a camera and a backpack.

@@ -14,4 +14,7 @@ Currently, I use an *Olympys* MD OMD 10 Mark iii and a *14-150mm* travel lense. 
   <div class="col-6">
     {% include collection.html collection="2019/lake_district" image="lake_district_10.jpg" description="Lake District backpack tour." %}
   </div>
+  <div class="col-6">
+    {% include collection.html collection="2019/manchester" image="manchester_45.jpg" description="Short city trip in Manchester." %}
+  </div>
 </div>
