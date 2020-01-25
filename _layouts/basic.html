@@ -20,14 +20,6 @@
     {%- if page.meta_keywords -%}
       <meta name="keywords" content="{{ page.meta_keywords }}"/>
     {%- endif -%}
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140692510-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-140692510-1');
-    </script>
   </head>
   <body>
     <header>
@@ -59,5 +51,17 @@
     <footer>
       You can find the code for this website on <a href="https://github.com/pheymann/paulheymann-website"><i class="fab fa-github"></i></a>
     </footer>
+
+    <script>
+      (function() {
+        window.counter = 'https://paulheymann.goatcounter.com/count'
+    
+        var script = document.createElement('script');
+        script.async = 1;
+        script.src = '//gc.zgo.at/count.js';
+        var ins = document.getElementsByTagName('script')[0];
+        ins.parentNode.insertBefore(script, ins)
+      })();
+    </script>
   </body>
 </html>
