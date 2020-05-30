@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On reading, comprehension and having original thoughts
+title: On reading, comprehension, and having original thoughts
 date:   2020-05-28
 categories: learning
 head_title: On reading, comprehension and having original thoughts
@@ -10,9 +10,9 @@ meta_keywords: reading,books,papers,understanding
 
 > Each seeing the same gleam in the other’s eyes: the excitement of learning, of finding order where there had seemed only chaos. (*A Fire upon the Deep*, Vernor Vinge)  
 
-Reading is my main source for new knowledge. It offers explanations for the world surrounding and simply an enjoyable pastime. But for an embarrassingly long time I didn’t realise that there was a gab between my goals, *Comprehension*, *Recall* and having *Original Thoughts* and how I read. The knowledge I gather was often shallow. Sometimes I wasn’t able to reconstruct the reasoning behind a concept, or I wasn’t aware of the limitations of an idea. In other words, I was missing thorough comprehension and the necessary scepticism. To make matters worse, I also forgot most of the acquired knowledge a short while after.
+Reading is my main source for new knowledge. It offers explanations for the surrounding world and simply an enjoyable pastime. But for an embarrassingly long time I didn’t realise that there was a gap between how I read and my goals: *Comprehension*, *Recall*, and having *Original Thoughts*. The knowledge I gathered was often shallow. Sometimes I wasn’t able to reconstruct the reasoning behind a concept, or I wasn’t aware of the limitations of an idea. In other words, I was missing thorough comprehension and the necessary scepticism. To make matters worse, I also forgot most of the acquired knowledge a short while after.
 
-The main reason for my experience lay in the reading approach I acquired during my time in university. Here, the incentive was more externally and focused on collecting as much information as possible in as little time as possible just to dump it into an exam. What resided in my memory had to vanish to make room for the next chunk of information and the next exam. Rinse and repeat. That process broad me successfully through my studies, but was detrimental to sustainable knowledge acquisition. What I lacked was a principled approach to reading.
+The main reason for my experience is rooted in the reading approach I acquired during my time in university. Here, the incentive was more external and focused on collecting as much information as possible in as little time as possible just to dump it into an exam. What resided in my memory had to vanish to make room for the next chunk of information and the next exam. Rinse and repeat. That process bought me successfully through my studies, but was detrimental to sustainable knowledge acquisition. What I lacked was a principled approach to reading.
 
 This text is the result of an on going process to close the gap between my goals and my reading approach. It is of interest to anyone who experiences the same mismatch or who wants to improve his current reading approach. It describes how to work through books and papers and what type of written works to concentrate on.
 
@@ -52,7 +52,7 @@ The goals I set out before developing a structured reading approach were the fol
 For the scope of this text, it describes the ability to recreate an idea or concept from scratch, together with all its reasoning. It is also the knowledge about an idea’s limitations and assumptions.
 
 ### Recall
-This reading approach has to support moving information into the long-term memory through time-spaced repetition. But since there are no guarantees that all information stay in memory a compressed version of the book’s content is needed, which allows easy and fast access.
+This reading approach has to support moving information into long-term memory through time-spaced repetition. But since there are no guarantees that all information stays in memory, a compressed version of the book’s content is needed to allow for fast and easy access.
 
 ### Original Thoughts
 Having original thoughts isn’t meant to be an absolute statement. It is relativistic and personal.  Great books can inspire new ideas on the reader’s side and let him have an original thought. They create new connections and extend his understanding. They also offer that satisfactory feeling of having discovered something new. But in the end a reader’s original thought probably isn’t novel at all. Someone, somewhere most likely has thought it already, maybe he even went so far and wrote it down.
