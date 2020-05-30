@@ -58,22 +58,22 @@ This reading approach has to support moving information into long-term memory th
 Having original thoughts isn’t meant to be an absolute statement. It is relativistic and personal.  Great books can inspire new ideas on the reader’s side and let him have an original thought. They create new connections and extend his understanding. They also offer that satisfactory feeling of having discovered something new. But in the end a reader’s original thought probably isn’t novel at all. Someone, somewhere most likely has thought it already, maybe he even went so far and wrote it down.
 
 ## The beginning
-Serendipity has it, that I came across Mortimer J. Adler’s [How to Read a Book](https://en.wikipedia.org/wiki/How_to_Read_a_Book) while I started to look into different reading approaches. His process appealed to me immediately. It is simple and structured, with thorough comprehension as a goal at its core. Mr. Adler wants us to have a conversation, I would even say debate, with the author. We have to follow his arguments and proofs and try to find counterarguments and criticism. From my understanding it should resemble the dialectic method. It should be like one of these long conversations one has with friends till the dark of night. A back and forth of ideas, arguments and counterarguments.
+As luck would have it, I came across Mortimer J. Adler’s [How to Read a Book](https://en.wikipedia.org/wiki/How_to_Read_a_Book) while I started to look into different reading approaches. His process appealed to me immediately. It is simple and structured, with thorough comprehension as a core goal. Mr. Adler wants us to have a conversation, I would even say debate, with the author. We have to follow his arguments and proofs and try to find counterarguments and criticism. From my understanding it should resemble the dialectic method. It should be like one of these long conversations one has with friends till the dark of night. A back and forth of ideas, arguments and counterarguments.
 
 I used Mr. Adler’s approach as a starting point and adjusted and optimised it where needed until I ended up with the first stable version described below.
 
 ## The reading approach
-When I say first stable version it means the process went through many phases and still continues so. It is bound to constant change to ensure that everything that hampers learning progress gets improved. To describe its shape as volatile also serves as an argument for continued experimentation until the reading it fits like a glove. That is true for me and it should be for the reader who adapts the process himself.
+When I say first stable version it means the process went through many phases and still continues. It is bound to continually evolve to ensure that everything that hampers learning progress can be improved. To describe its shape as volatile also serves as an argument for continued experimentation until the reading it fits like a glove. That is true for me and it should be for the reader who adapts the process to himself.
 
 In general, the process in its current shape is split up into five distinct stages:
 
 	* Getting an overview of a book’s content, so we are sure it has what we are looking for. It also serves as a way to create a mental map of how that content is structured and conveyed to us.
 	
-	* Reading thoroughly through each chapter. At the same time creating notes and highlights, which will form the basis of a condensed representation of the book.
+	* Thoroughly reading through each chapter. At the same time creating notes and highlights which will form the basis of a condensed representation of the book.
 	
-	* Reiterating a chapter’s content, after some time passed, by working through notes and highlights. Doing that, makes sure we only extract the information most relevant to us. The repetition also helps memorization.
+	* Reiterating a chapter’s content, after some time passed, by working through notes and highlights. Doing that makes sure we only extract the information most relevant to us. The repetition also helps memorization.
 	
-	* Creating an external document from your notes and highlights, for easy access, to collect additional thoughts and to describe overarching concepts.
+	* Combining your notes and highlights into a new document that describes the overarching concepts and your additional thoughts.
 	
 	* Finally, answering open questions and formulating criticism to extend our understanding and gauge the limits of ideas and concepts expressed in the book.
 
@@ -84,14 +84,14 @@ Before we start our journey through an author’s book we have to make sure it a
 
 Skimming sets am entry bar for books to pass before we read them, but it also helps to create a mental map of their structure. We know in which order what content is unveiled and where the author tries to lead us. It creates a red string, a story line we can follow so not to get lost on the way.
 
-To start off we read the introduction, or abstract if it is a scientific paper and the conclusion if available. Afterwards, we go through each chapter by reading the heading and subheadings and apply a brief study of all figures, charts and tables. It is already a sign of quality, from my experience, if figures and the like have descriptions which make them self-explanatory. Making highlights or writing notes during this phase should be avoided. The goal is to get a first impression and an overview as fast as possible. In the end, we might decide not to read the book and any extra time investment is wasted.
+To start off we read the introduction, or abstract if it is a scientific paper, and the conclusion if available. Afterwards, we go through each chapter by reading the heading and subheadings and apply a brief study of all figures, charts, and tables. It is already a sign of quality, from my experience, if figures and the like have descriptions that make them self-explanatory. Making highlights or writing notes during this phase should be avoided. The goal is to get a first impression and an overview as fast as possible. In the end, we might decide not to read the book and any extra time investment is wasted.
 
-For a brief moment, now, let us concentrate on headings. Sometimes, during our studies, we will experience what can only be called *creative headings*. They do not convey the goal or content of a chapter, but try to be clever and artistic. They are more akin to headings one would find in novels. But they should not be used in works for knowledge acquisition. Creative headings do not help our understanding. We are not able to grasp the meaning until we read the chapter and sometimes even then the meaning might be lost on us. To give a concrete example, take a look at [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable). Even though I enjoyed the book its headings are atrocious. What does “*Umberto Eco’s Antilibrary, or how we seek validation*” mean? At the same time, experiencing unfavourable headings should make a reader realise and appreciate written works with good headings. To also offer an example here, an interested reader can take a look at [The Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations) or Benjamin Graham’s [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor).
+For a brief moment now, let us concentrate on headings. Sometimes during our studies, we will experience what can only be called *creative headings*. They do not convey the goal or content of a chapter, but try to be clever and artistic. They are more akin to headings one would find in novels. But they should not be used in works for knowledge acquisition. Creative headings do not help our understanding. We are not able to grasp the meaning until we read the chapter and sometimes even then the meaning might be lost on us. To give a concrete example, take a look at [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable). Even though I enjoyed the book, its headings are atrocious. What does “*Umberto Eco’s Antilibrary, or how we seek validation*” mean? At the same time, experiencing unfavourable headings should make a reader realise and appreciate written works with good headings. To also offer an example here, an interested reader can take a look at [The Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations) or Benjamin Graham’s [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor).
 
 ### Stage 2: Analysing a chapter
 When we have decided to study the book we will read through each chapter thoroughly. The first goal of this step is to identify and understand the author’s ideas. The second is to begin the compilation of a compressed representation of the book itself by using highlights and notes.
 
-We start by reading the content with care and without haste. There is nobody who is hurrying us through a written work, we can and have to invest the proper time. Of course, there can be exceptions to that rule when we for example work through a class assignment. But I exclude that for now and assume an intrinsic motivation to read.
+We start by reading the content with care and without haste. There is nobody who is hurrying us through a written work; we can and have to invest the proper time. Of course, there can be exceptions to that rule when we for example work through a class assignment. But I exclude that for now and assume an intrinsic motivation to read.
 
 #### Highlighting text
 Let us concentrate on the specifics of taking highlights for a moment. As said before, we will use highlights to build up a compressed representation of the book. The question is: *What should we highlight?* During the time I developed this approach five categories crystallised, which should guide the reader in his decision. Text should be highlighted:
@@ -106,11 +106,11 @@ Let us concentrate on the specifics of taking highlights for a moment. As said b
 	
 	5. When it is missing supporting facts and proofs. Either we have to find them or it turns out to be a criticism, because of the lack thereof.
 
-The reader is best advised not to highlight all text passages in the same color. Otherwise, he will invest a significant amount of time afterwards in reconstructing the categories, again. He might choose a color for each category. As a personal preference, I combine (1) and (2) under the same color.
+The reader is best advised not to highlight all text passages in the same color. Otherwise, he will invest a significant amount of time afterwards in reconstructing the categories again. He might choose a color for each category. As a personal preference, I combine (1) and (2) under the same color.
 
-Of course, sometimes it isn’t enough to just highlight a passage of text. Some statements or even whole works can be extraordinary dense and require extra information to be comprehensible. One example of such a book is John Maynard Keynes’ [The General Theory of Employment, Interest and Money](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money) Here, writing down notes next to a highlight is a necessity. As a general guide:
+Of course, sometimes it isn’t enough to just highlight a passage of text. Some statements or even whole works can be extraordinarily dense and requires extra information to be comprehensible. One example of such a book is John Maynard Keynes’ [The General Theory of Employment, Interest and Money](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money). Here, writing down notes next to a highlight is a necessity. As a general guide:
 
-* We add information which we need to understand a text passage, like context or a more verbose version of the passage.
+* We add information which we need in order to understand a text passage, like context or a more verbose version of the passage.
 
 * It is advisable to just write down a couple of words and leave the complete formulation to a later stage. That makes sure we are not blocked for long, but the note should still provide enough information so we don’t forget what the highlight was all about.
 
@@ -119,9 +119,9 @@ While reading we will encounter the phenomenon that some criticism, questions or
 At some point we will reach the end of the chapter. Depending on the length and hardness of it we might either continue reading or we go to the next stage of this reading approach.
 
 ### Stage 3: Reiterating a chapter by working through highlights and notes
-When we decide that there is enough raw material, meaning highlights and notes, we start to iterate it. That means we read through all of the material we haven’t processed so far.
+When we decide that there is enough raw material, meaning highlights and notes, we start to iterate it. That means we read through all of the material we haven’t yet processed.
 
-* We adjust a highlight’s range if it isn’t capturing all the text necessary to unveil its meaning. That includes extending and reducing the range. Personally, I rather tend to mark a bit more and have a proper sentence. It makes reading them again more pleasant. And we have to keep in mind highlights are part of the compressed representation of the book, which we will look up and read frequently.
+* We adjust a highlight’s range if it isn’t capturing all the text necessary to unveil its meaning. That includes extending and reducing the range. Personally, I rather tend to mark a bit more and have a proper sentence. It makes reading them again more pleasant. And we have to keep in mind that highlights are part of the compressed representation of the book, which we will look up and read frequently.
 
 * We add or remove whole highlights where needed.
 
@@ -129,18 +129,18 @@ When we decide that there is enough raw material, meaning highlights and notes, 
 
 * Of course, we now have to read up on the unknown concepts from category (3). When we only read the introduction of a Wikipedia article before, we now read it completely and some additional text if necessary to get a better overview. If the topic at hand should warrant a deeper analysis I prefer to put a book into my [Anti-Library](?). After we have done all that we can put a concise summary into our notebook. The last step is to remove highlights of this category from our book to not clutter the content we try to extract.
 
-* Where we described open questions, criticism and overarching concepts before only with a few notes and references we now fully formulate them. After some time passed, with continued reading and putting some thought into them we will reach a point where we are sure that it actually warrants that extra energy and we also have a better understanding of them. So it could happen for example that a former criticism vanishes, because we realise a flaw in our understanding.
+* Where we described open questions, criticism and overarching concepts before only with a few notes and references, we now fully formulate them. After some time passed, with continued reading and putting some thought into them, we will reach a point where we are sure that it actually warrants that extra energy and we also have a better understanding of them. So it could happen for example that a former criticism vanishes because we realise a flaw in our understanding.
 
-After we finished post processing our highlights and notes we compiled a compressed representation of the underlying chapter. We also recalled all necessary information, which will help in persisting them in our long term memory. The effect is similar to [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition). Besides that, going through that material also helps to discover more overarching concepts or criticism. Some thoughts develop over several pages or even sections and sometimes go unnoticed while we are intensively reading. 
+After we finish post processing our highlights and notes, we compile a compressed representation of the underlying chapter. We also recalled all necessary information, which will help in persisting them in our long term memory. The effect is similar to [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition). Besides that, going through that material also helps to discover more overarching concepts or criticism. Some thoughts develop over several pages or even sections and sometimes go unnoticed while we are reading intensely. 
 
-Producing this extract also makes sure we don’t have to read the book in one go. We can just stop in between and come back later. To be able to continue we only have to take a glance at our highlights and notes to refresh hour memories.
+Producing this extract also makes sure we don’t have to read the book in one go. We can just stop in between and come back later. To be able to continue we only have to take a glance at our highlights and notes to refresh our memories.
 
 ### Stage 4: Extracting highlights and notes into a stand-alone document
 When we reached the end of the book we compiled a collection of highlights and notes, which are scattered across the book itself and a notebook. In this shape all this is scarcely helpful. To refresh ones memory or to search for specific information will be a tedious task. What we actually need is a single place holding all the work we have done.
 
 Creating that representation will be more or less time consuming depending on the readers setup. If he is a digital reader he will probably have an export option in his app and can extract all highlights and notes without  much effort. On the other had, if his approach is more traditional it falls upon him to write out all highlights.
 
-The next step of this phase is to create a heading structure for the exported highlights. I recommend to discard the author’s headings and begin anew by keeping the original chapter structure and by splitting the highlights apart based on topics. By doing so, we are able to partition information into coherent groups and provide headings which are meaningful. Apart from that, it also forces us to read through the content, which helps memorization and might unveil again some hidden criticism, question or knowledge.
+The next step of this phase is to create a heading structure for the exported highlights. I recommend discarding the author’s headings and beginning anew by keeping the original chapter structure and by splitting the highlights apart based on topics. By doing so, we are able to partition information into coherent groups and provide headings which are meaningful. Apart from that, it also forces us to read through the content, which helps memorization and might unveil again some hidden criticism, question or knowledge.
 
 When all this work is done, we not only produced a multilayered representation of the knowledge of the book, but hopefully also developed a thorough understanding of the topic at hand.
 
@@ -160,13 +160,13 @@ It is the first written work which puts a concept or idea in a coherent form. It
 ### Derivatives
 All works which are based on that foundations. They extend them, provide interpretations and opinions, or produce a partial, often condensed view of the matter. Translations can also fall into this category, but we will discuss this specific topic later on.
 
-Of course, it isn’t a statement about a works quality if it falls into one category or the other, but rather helps us to make a decision when to read what kind of book or paper.
+Of course, it isn’t a statement about a work's quality if it falls into one category or the other, but rather helps us to make a decision when to read what kind of book or paper.
 
 ### Foundational works for thorough understanding
 I recommend to an active reader to go with foundational works when he tries to achieve thorough understanding. The reasons for that are given in the following section.
 
 #### Building a knowledge foundation 
-These works are the first of their kind. They do not require a priori understanding of the field to be comprehensible. They do not cut away the context and history of how the work came into being. Foundational books and papers provide material to build up a strong knowledge foundation which is a prerequisite to understanding works which extend its field.
+These works are the first of their kind. They do not require a prior understanding of the field to be comprehensible. They do not cut away the context and history of how the work came into being. Foundational books and papers provide material to build up a strong knowledge foundation which is a prerequisite to understanding works which extend its field.
 
 Furthermore, when we acquired these basic mental tools we can put derived works into their context. We understand what they try to change and where their limitations are.
 
@@ -174,17 +174,17 @@ Furthermore, when we acquired these basic mental tools we can put derived works 
 Derivatives may alter the foundation works and therefore the view on its knowledge. That change can happen in different ways. 
 
 ##### Influence of the author
-The author who creates a derived work might inject his opinion and ideology. He then will put more emphasis on ideas and concepts which will help his cause and neglect others. Another influence on an author’s work is his own comprehension. There is the possibility that he doesn’t understands the topic properly himself and therefore his derivatives have to reflect that lack of understanding. When the foundations aren’t strong how can the building on top be?
+The author who creates a derived work might inject his opinion and ideology. He then will put more emphasis on ideas and concepts which will help his cause and neglect others. Another influence on an author’s work is his own comprehension. There is the possibility that he doesn’t understand the topic properly himself and therefore his derivatives have to reflect that lack of understanding. When the foundations aren’t strong how can the building on top be?
 
 ##### The type of work
 Even if the author stayed close the original work and understood it properly, the type of work he tries to derive might change the view in itself. If his goal is to produce a summary the reasoning cannot be as thorough, the history and context as complete. On the other hand, if the goal is to extend the field there is usually no point in rephrasing its whole corpus of knowledge again. The author will formulate his findings and describe how it connects to the corpus. It is upon the reader to have the required understanding of the field’s foundations.
 
-The above example describe derivates which alter the foundations to some extend, but there is one type of derived work which tries to be as close to the original as possible, the translation. But even here alterations have to happen. Translating text suffers from the illness of information loss. The meaning of a phrase in one language might be hard to translate into another. The meaning changes, so does the view.
+The above example describe derivates which alter the foundations to some extend, but there is one type of derived work which tries to be as close to the original as possible: the translation. But even here alterations have to happen. Translating text suffers from the illness of information loss. The meaning of a phrase in one language might be hard to translate into another. The meaning changes, so does the view.
 
 #### Limitations of reading the originals
-Of course, there are practical limitations to a *foundational works first* approach. Sometimes they simply aren’t the right source. For example we want to get get an overview. A summary might yield better results here. Another hindrance can be language. We decide to read a book written in a foreign language we haven’t mastered. In that case, we only have two options, we learn the language or we use a translation. Which one is more appropriate depends solely on the reader and his preferences. In the end, the goal is understanding but the time investment most be sensible.
+Of course, there are practical limitations to a *foundational works first* approach. Sometimes they simply aren’t the right source. For example we want to get get an overview. A summary might yield better results here. Another hindrance can be language. We decide to read a book written in a foreign language we haven’t mastered. In that case, we only have two options: we learn the language or we use a translation. Which one is more appropriate depends solely on the reader and his preferences. In the end, the goal is understanding but the time investment most be sensible.
 
-One limitation specific to the digital reader is the availability of the work as digital copy. If it doesn’t exist it cannot be integrated into the reader’s setup. Fortunately, for many foundational works the [Gutenberg Project](https://www.gutenberg.org/) did a tremendous job in providing different digital formats at no cost. We also can find prominent books in its digital form on platforms like Amazon. Where there is a demand, there will be supply.
+One limitation specific to the digital reader is the availability of the work as digital copy. If it doesn’t exist it cannot be integrated into the reader’s setup. Fortunately, for many foundational works the [Gutenberg Project](https://www.gutenberg.org/) did a tremendous job in providing different digital formats at no cost. We also can find prominent books in their digital forms on platforms like Amazon. Where there is a demand, there will be supply.
 
 ### Derivatives for getting an overview or extending our knowledge
 Starting with the foundations makes sure we are building up the same foundations in our head, a prerequisite for continued reading and research. But not every art and science is equally interesting or important us. When only an overview or rough grasp of the concepts of a field is required working through a summary can be an advisable approach. 
@@ -197,13 +197,13 @@ What type of written work we select will depend on multiply factors and we have 
 ## Final words
 I will use the final words of this text to emphasis two points important to any reader who might decide to adopt the approach described above. First, as everything it has its limitations. This process cannot be applied to every book. For example, the content of some written works is truly dense and using highlights would extract significant parts of the text, which doesn’t make for a compressed representation. More on that in [Appendix 3](#3:%20Educational%20and%20dense%20books) . This reading approach worked for many historic foundational books and papers, but it can fail with other types. We have to keep that in mind and continue experimenting and improving this reading approach when friction arises.
 
-One last emphasis I want to make is that any interested reader should go back to the original source of this text, Mortimer Adler’s [How to Read a Book](https://en.wikipedia.org/wiki/How_to_Read_a_Book). He describes, better than I can, why it matters to read and to read thoroughly and his arguments are even more prevalent today as they were during his time.
+One last point I want to emphasise is that any interested reader should go back to the original source of this text, Mortimer Adler’s [How to Read a Book](https://en.wikipedia.org/wiki/How_to_Read_a_Book). He describes, better than I can, why it matters to read and to read thoroughly and his arguments are even more prevalent today as they were during his time.
 
 ## Appendix
 ### 1: Personal reading setup
-In this section I will describe my personal setup for those who are interested. I am a digital reader. I have my books, highlights and notes with me no matter where I go. I don’t need to remind myself to take all the reading necessities with me all the time, they are simply just there. This setup also makes sure that backups a created frequently. 
+In this section I will describe my personal setup for those who are interested. I am a digital reader. I have my books, highlights and notes with me no matter where I go. I don’t need to remind myself to take all the reading necessities with me all the time, they are just there. This setup also makes sure that backups are created frequently. 
 
-I use Amazon’s Kindle app across all my devices. It supports highlights and note taking and has an export functionality. Unfortunately, the app only produces HTML, which doesn’t read well in a document. Therefore, I transform it into Markdown which I then embed into my document. The transformation is done with the [following script](?).
+I use Amazon’s Kindle app across all my devices. It supports highlights and note taking and has an export function. Unfortunately, the app only produces HTML which doesn’t read well in a document. Therefore, I transform it into Markdown which I then embed into my document. The transformation is done with the [following script](?).
 
 For taking external notes and collecting all highlights I use [Bear App](https://bear.app/). It has convenient features like tagging of notes, cross-referencing between notes and synchronising across all my devices.
 
