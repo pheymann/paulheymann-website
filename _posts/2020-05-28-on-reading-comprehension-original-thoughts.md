@@ -82,7 +82,7 @@ All these steps are structured in a way to guarantee that we can stop at any tim
 ### Stage 1: Get an overview by skimming the book
 Before we start our journey through an author’s book we have to make sure it actually is the thing we are looking for. Nothing is more frustrating than to find oneself half way through a book just to realise it is not elaborating on a specific topic or is missing crucial information.
 
-Skimming sets am entry bar for books to pass before we read them, but it also helps to create a mental map of their structure. We know in which order what content is unveiled and where the author tries to lead us. It creates a red string, a story line we can follow so not to get lost on the way.
+Skimming sets an entry bar for books to pass before we read them, but it also helps to create a mental map of their structure. We know in which order what content is unveiled and where the author tries to lead us. It creates a red string, a story line we can follow so not to get lost on the way.
 
 To start off we read the introduction, or abstract if it is a scientific paper, and the conclusion if available. Afterwards, we go through each chapter by reading the heading and subheadings and apply a brief study of all figures, charts, and tables. It is already a sign of quality, from my experience, if figures and the like have descriptions that make them self-explanatory. Making highlights or writing notes during this phase should be avoided. The goal is to get a first impression and an overview as fast as possible. In the end, we might decide not to read the book and any extra time investment is wasted.
 
