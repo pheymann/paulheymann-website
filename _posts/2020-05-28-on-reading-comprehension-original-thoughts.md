@@ -8,7 +8,7 @@ meta_description: A reading approach aiming for comprehension and having origina
 meta_keywords: reading,books,papers,understanding
 ---
 
-> Each seeing the same gleam in the other’s eyes: the excitement of learning, of finding order where there had seemed only chaos. (*A Fire upon the Deep*, Vernor Vinge)  
+> To read with diligence; not to rest satisfied with a light and superficial knowledge (*Meditations*, Marcus Aurelius
 
 Reading is my main source for new knowledge. It offers explanations for the surrounding world and simply an enjoyable pastime. But for an embarrassingly long time I didn’t realise that there was a gap between how I read and my goals: *Comprehension*, *Recall*, and having *Original Thoughts*. The knowledge I gathered was often shallow. Sometimes I wasn’t able to reconstruct the reasoning behind a concept, or I wasn’t aware of the limitations of an idea. In other words, I was missing thorough comprehension and the necessary scepticism. To make matters worse, I also forgot most of the acquired knowledge a short while after.
 
@@ -67,15 +67,15 @@ When I say first stable version it means the process went through many phases an
 
 In general, the process in its current shape is split up into five distinct stages:
 
-	* Getting an overview of a book’s content, so we are sure it has what we are looking for. It also serves as a way to create a mental map of how that content is structured and conveyed to us.
+* Getting an overview of a book’s content, so we are sure it has what we are looking for. It also serves as a way to create a mental map of how that content is structured and conveyed to us.
 	
-	* Thoroughly reading through each chapter. At the same time creating notes and highlights which will form the basis of a condensed representation of the book.
+* Thoroughly reading through each chapter. At the same time creating notes and highlights which will form the basis of a condensed representation of the book.
 	
-	* Reiterating a chapter’s content, after some time passed, by working through notes and highlights. Doing that makes sure we only extract the information most relevant to us. The repetition also helps memorization.
+* Reiterating a chapter’s content, after some time passed, by working through notes and highlights. Doing that makes sure we only extract the information most relevant to us. The repetition also helps memorization.
 	
-	* Combining your notes and highlights into a new document that describes the overarching concepts and your additional thoughts.
+* Combining your notes and highlights into a new document that describes the overarching concepts and your additional thoughts.
 	
-	* Finally, answering open questions and formulating criticism to extend our understanding and gauge the limits of ideas and concepts expressed in the book.
+* Finally, answering open questions and formulating criticism to extend our understanding and gauge the limits of ideas and concepts expressed in the book.
 
 All these steps are structured in a way to guarantee that we can stop at any time and continue later with a minimal amount of effort. Thereby, we are not forced to commit a significant amount of time upfront. That makes it compatible with other commitments everyone has in life, like family and work.
 
@@ -96,15 +96,15 @@ We start by reading the content with care and without haste. There is nobody who
 #### Highlighting text
 Let us concentrate on the specifics of taking highlights for a moment. As said before, we will use highlights to build up a compressed representation of the book. The question is: *What should we highlight?* During the time I developed this approach five categories crystallised, which should guide the reader in his decision. Text should be highlighted:
 
-	1. When it seems to be part of the concepts or ideas explained in that chapter. That is, the actual knowledge the author tries to transfer.
+1. When it seems to be part of the concepts or ideas explained in that chapter. That is, the actual knowledge the author tries to transfer.
 
-	2. When it is a genuinely interesting statement. That might overlap with category (1) or could be something independent.
+2. When it is a genuinely interesting statement. That might overlap with category (1) or could be something independent.
 
-	3. When it is unknown to us. That is, knowledge which is a requirement. Here additional study is necessary to be able to understand what the author is going for. While reading I usually just skim the topic in question, often using Wikipedia, to get a rough idea. Thus, I am not interrupted from continued reading in the current work for a longer period, which at least to me is unsatisfactory and distracting.
+3. When it is unknown to us. That is, knowledge which is a requirement. Here additional study is necessary to be able to understand what the author is going for. While reading I usually just skim the topic in question, often using Wikipedia, to get a rough idea. Thus, I am not interrupted from continued reading in the current work for a longer period, which at least to me is unsatisfactory and distracting.
 	
-	4. When it looks somehow wrong, as if the author made a mistake and we start to formulate a question or criticism. Here it is, that we develop the deepest understanding of the underlying work and its limitations. It is also the part which can and often will require another significant time investment.
+4. When it looks somehow wrong, as if the author made a mistake and we start to formulate a question or criticism. Here it is, that we develop the deepest understanding of the underlying work and its limitations. It is also the part which can and often will require another significant time investment.
 	
-	5. When it is missing supporting facts and proofs. Either we have to find them or it turns out to be a criticism, because of the lack thereof.
+5. When it is missing supporting facts and proofs. Either we have to find them or it turns out to be a criticism, because of the lack thereof.
 
 The reader is best advised not to highlight all text passages in the same color. Otherwise, he will invest a significant amount of time afterwards in reconstructing the categories again. He might choose a color for each category. As a personal preference, I combine (1) and (2) under the same color.
 
