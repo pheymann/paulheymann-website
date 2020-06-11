@@ -175,6 +175,37 @@ header {
                     color: $active-color;
                 }
             }
+
+            .mobile {
+                display: none;
+            }
+
+            .browser {
+                display: inline-block;
+            }
+        
+            @media only screen and (max-width: $breakpoint-large) {
+                .mobile {
+                    display: inline-block;
+
+                    img {
+                        height: 20px;
+                        width: auto;
+
+                        &:hover {
+                            fill: $hover-color;
+                        }
+                    
+                        &:active {
+                            fill: $active-color;
+                        }
+                    }
+                }
+
+                .browser {
+                    display: none;
+                }
+            }
         }
     }
 
