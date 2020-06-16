@@ -44,6 +44,7 @@ This text is the result of an on going process to close the gap between my goals
 	* [1: Personal reading setup](#1-personal-reading-setup)
 	* [2: PDFs to ePub and Mobi](#2-pdfs-to-epub-and-Mobi)
 	* [3: Educational and densely written books](#3-educational-and-densely-written-books)
+	* [4: Anti-Library]
 
 ## Goals
 The goals I set out before developing a structured reading approach were the following:
@@ -127,7 +128,7 @@ When we decide that there is enough raw material, meaning highlights and notes, 
 
 * We formulate the former word clouds in our notes into proper paragraphs.
 
-* Of course, we now have to read up on the unknown concepts from category (3). When we only read the introduction of a Wikipedia article before, we now read it completely and some additional text if necessary to get a better overview. If the topic at hand should warrant a deeper analysis I prefer to put a book into my [Anti-Library](?). After we have done all that we can put a concise summary into our notebook. The last step is to remove highlights of this category from our book to not clutter the content we try to extract.
+* Of course, we now have to read up on the unknown concepts from category (3). When we only read the introduction of a Wikipedia article before, we now read it completely and some additional text if necessary to get a better overview. If the topic at hand should warrant a deeper analysis I prefer to put a book into my [Anti-Library]. After we have done all that we can put a concise summary into our notebook. The last step is to remove highlights of this category from our book to not clutter the content we try to extract.
 
 * Where we described open questions, criticism and overarching concepts before only with a few notes and references, we now fully formulate them. After some time passed, with continued reading and putting some thought into them, we will reach a point where we are sure that it actually warrants that extra energy and we also have a better understanding of them. So it could happen for example that a former criticism vanishes because we realise a flaw in our understanding.
 
@@ -222,3 +223,12 @@ This should provide a reasonably good eBook quality even with scientific papers.
 There are types of books which hardly fit into our reading approach. One case, where I tried and failed are educational books. Often their content is truly dense. They try to cover a whole field of knowledge in a couple of hundred pages. The reader just has to remember books he had to read for school or university classes. They hold many if not most of the models, concepts, theories and ideas of a field, but often without any context or history. Applying our reading approach would therefore yield a massive representation which would not be significantly smaller than the book itself. This observation can be generalised to any book which has a high knowledge density. A non-educational book which comes to mind is Marcus Aurelius’ [Meditations](https://en.wikipedia.org/wiki/Meditations).
 
 For now, my only recommendation is to restrict the process of highlighting to categories (2), (3), (4) and to put a greater emphasis on writing notes into a notebook.
+
+### 4: Anti-Library
+A personal library represents the corpus of books a reader has read so far. It is also a physical, or digital, representation of the different fields of knowledge a reader is knowledgable about and maybe even about his depth of understanding. But what a library isn't representing is the lack of knowledge and understanding, the anti knowledge. Based on that realization Nassim Taleb described the concept of an **Anti-Library** in his book [Black Swan]. An anti-library not only contains the books read but also books the reader hasn't gotten around to so far and therefore shows knowledge that he lacks. It is an exercise in personal sceptisism, to understand ones own limitations and should act as a humbling experience.
+
+<!-- internal references -->
+[4: Anti-Library]: #4-anti-library
+
+<!-- external references -->
+[Black Swan]: https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable
