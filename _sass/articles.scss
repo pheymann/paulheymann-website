@@ -1,4 +1,4 @@
-@import 'typography';
+@import 'basic.scss';
 
 .articles {
     .post {
@@ -9,6 +9,15 @@
             font-size: $h2-font-size;
             font-weight: bold;
             font-family: $header-font-family;
+            color: $text-color;
+
+            &:hover {
+                color: $hover-color;
+            }
+
+            &:active {
+                color: $active-color
+            }
         }
 
         .post-date {

@@ -1,11 +1,123 @@
-@import 'typography';
 @import 'simple-grid';
 
 $content-width: 750px;
+$footer-height: 50px;
 
-$hover-color: #56aecb;
+$header-font-family: "Helvetica", sans-serif;
+$content-font-family: "Helvetica", sans-serif;
+
+$bg-color: rgb(255, 255, 255);
+$bg-medium-color: rgba(226, 226, 226, 0.5);
+$bg-light-color: rgba(226, 226, 226, 0.3);
+
+$action-color: rgb(196, 81, 83);
+$hover-color: rgb(221, 105, 107);
 $active-color: $hover-color;
 $active-border-color: $hover-color;
+
+// Typography
+
+$text-color: rgb(27, 27, 27);
+$text-light-color: rgb(167, 167, 167);
+
+%common-text-styling {
+    color: $text-color;
+    text-rendering: optimizeLegibility;
+}
+
+%content-text-styling {
+    @extend %common-text-styling;
+
+    font-family: $content-font-family;
+
+    letter-spacing: 0.1px;
+    line-height: 1.5;
+    font-size: 1em;
+    word-spacing: 1px;
+}
+
+$h1-font-size: 2em;
+
+h1 {
+    font-size: $h1-font-size;
+}
+
+$h2-font-size: 1.5em;
+
+h2 {
+    font-size: $h2-font-size;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+a,
+blockquote {
+    @extend %common-text-styling;
+
+    font-family: $header-font-family;
+}
+
+p,
+a,
+ul,
+ol {
+    @extend %content-text-styling;
+}
+
+ol,
+ul {
+    margin-left: 10px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+a {
+    color: $action-color;
+}
+
+a {
+    &:hover {
+        color: $hover-color;
+    }
+
+    &:active {
+        color: $active-color;
+    }
+}
+
+blockquote {
+    border-left: 2px solid $action-color;
+    padding-left: 10px;
+}
+
+footer {
+    font-size: 0.8em;
+    color: $text-light-color;
+    text-align: center;
+
+    a {
+        color: $text-light-color;
+    }
+}
+
+@media only screen and (max-width: $breakpoint-med) {
+    p,
+    li,
+    a {
+        font-size: 1em;
+    }
+}
+
+//  Layout
 
 * {
     margin: 0;
@@ -54,6 +166,45 @@ header {
                 color: $text-light-color;
                 font-family: $header-font-family;
                 font-size: 0.9em;
+
+                &:hover {
+                    color: $hover-color;
+                }
+            
+                &:active {
+                    color: $active-color;
+                }
+            }
+
+            .mobile {
+                display: none;
+            }
+
+            .browser {
+                display: inline-block;
+            }
+        
+            @media only screen and (max-width: $breakpoint-large) {
+                .mobile {
+                    display: inline-block;
+
+                    img {
+                        height: 20px;
+                        width: auto;
+
+                        &:hover {
+                            fill: $hover-color;
+                        }
+                    
+                        &:active {
+                            fill: $active-color;
+                        }
+                    }
+                }
+
+                .browser {
+                    display: none;
+                }
             }
         }
     }
@@ -64,8 +215,6 @@ header {
         }
     }
 }
-
-$footer-height: 50px;
 
 .content {
     width: $content-width;
@@ -79,14 +228,6 @@ $footer-height: 50px;
     }
 }
 
-footer {
-    position:absolute; 
-    bottom:0; 
-    width:100%; 
-    height:$footer-height; 
-    line-height: $footer-height;
-}
-
 h1 {
     margin-bottom: 30px;
 }
@@ -98,22 +239,12 @@ h3 {
 
 @media only screen and (max-width: $breakpoint-small) {
     h1 {
-        margin-bottom: 60px;
+        margin-bottom: 30px;
     }
 
     h2,
     h3 {
-        margin: 60px 0 40px 0;
-    }
-}
-
-a {
-    &:hover {
-        color: $hover-color;
-    }
-
-    &:active {
-        color: $active-color;
+        margin: 30px 0 20px 0;
     }
 }
 
@@ -136,6 +267,14 @@ pre {
     overflow: auto;
     word-wrap: normal;
     white-space: pre;
+}
+
+footer {
+    position:absolute; 
+    bottom:0; 
+    width:100%; 
+    height:$footer-height; 
+    line-height: $footer-height;
 }
 
 .highlight {
