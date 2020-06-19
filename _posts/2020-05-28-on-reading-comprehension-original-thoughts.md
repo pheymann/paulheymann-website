@@ -83,7 +83,7 @@ All these steps are structured in a way to guarantee that we can stop at any tim
 ### Stage 1: Get an overview by skimming the book
 Before we start our journey through an author’s book we have to make sure it actually is the thing we are looking for. Nothing is more frustrating than to find oneself half way through a book just to realise it is not elaborating on a specific topic or is missing crucial information.
 
-Skimming sets an entry bar for books to pass before we read them, but it also helps to create a mental map of their structure. We know in which order what content is unveiled and where the author tries to lead us. It creates a red string, a story line we can follow so not to get lost on the way.
+Skimming sets an entry bar for books to pass before we read them, but it also helps to create a mental map of their structure. We know in which order what content is unveiled and where the author tries to lead us. It creates a common theme, a story line we can follow so not to get lost on the way.
 
 To start off we read the introduction, or abstract if it is a scientific paper, and the conclusion if available. Afterwards, we go through each chapter by reading the heading and subheadings and apply a brief study of all figures, charts, and tables. It is already a sign of quality, from my experience, if figures and the like have descriptions that make them self-explanatory. Making highlights or writing notes during this phase should be avoided. The goal is to get a first impression and an overview as fast as possible. In the end, we might decide not to read the book and any extra time investment is wasted.
 
@@ -126,7 +126,7 @@ When we decide that there is enough raw material, meaning highlights and notes, 
 
 * We add or remove whole highlights where needed.
 
-* We formulate the former word clouds in our notes into proper paragraphs.
+* We formulate our notes into proper paragraphs.
 
 * Of course, we now have to read up on the unknown concepts from category (3). When we only read the introduction of a Wikipedia article before, we now read it completely and some additional text if necessary to get a better overview. If the topic at hand should warrant a deeper analysis I prefer to put a book into my [Anti-Library]. After we have done all that we can put a concise summary into our notebook. The last step is to remove highlights of this category from our book to not clutter the content we try to extract.
 
@@ -159,7 +159,7 @@ So far we discussed how to accomplish the goals of *Comprehension*, *Recall* and
 It is the first written work which puts a concept or idea in a coherent form. It is often the foundation of a field of knowledge. Examples are [The Wealth of Nations] by Adam Smith which is the foundational work for classical economics, or  Albert Einstein’s Special and General Theory of Relativity which created the basis of our modern understanding of gravity.
 
 ### Derivatives
-All works which are based on that foundations. They extend them, provide interpretations and opinions, or produce a partial, often condensed view of the matter. Translations can also fall into this category, but we will discuss this specific topic later on.
+Works which are based on or derived from these foundations are Derivatives. They extend the foundations, provide interpretations and opinions, or produce a partial, often condensed view of the matter. Translations can also fall into this category, but we will discuss this specific topic later on.
 
 Of course, it isn’t a statement about a work's quality if it falls into one category or the other, but rather helps us to make a decision when to read what kind of book or paper.
 
@@ -225,7 +225,7 @@ There are types of books which hardly fit into our reading approach. One case, w
 For now, my only recommendation is to restrict the process of highlighting to categories (2), (3), (4) and to put a greater emphasis on writing notes into a notebook.
 
 ### 4: Anti-Library
-A personal library represents the corpus of books a reader has read so far. It is also a physical, or digital, representation of the different fields of knowledge a reader is knowledgable about and maybe even about his depth of understanding. But what a library isn't representing is the lack of knowledge and understanding, the anti knowledge. Based on that realization Nassim Taleb described the concept of an **Anti-Library** in his book [Black Swan]. An anti-library not only contains the books read but also books the reader hasn't gotten around to so far and therefore shows knowledge that he lacks. It is an exercise in personal sceptisism, to understand ones own limitations and should act as a humbling experience.
+A personal library represents a corpus of books a reader has read so far. It is also a physical, or digital, representation of the different fields of knowledge a reader is knowledgable about. It can also be an indicator of his depth of understanding of a specific field. What a library isn't representing is the lack of knowledge and understanding, the anti-xknowledge. Based on that realization Nassim Taleb described the concept of an **Anti-Library** in his book [Black Swan]. An anti-library not only contains the books read but also books the reader hasn't gotten his hands on so far and therefore shows knowledge that he lacks. It is an exercise in personal sceptisism, to understand ones own limitations and should act as a humbling experience.
 
 <!-- internal references -->
 [4: Anti-Library]: #4-anti-library
