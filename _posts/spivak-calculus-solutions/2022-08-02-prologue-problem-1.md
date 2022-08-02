@@ -1,7 +1,7 @@
 ---
 layout: math_post
 title: Prologue - Problem 1
-date: 2022-08-01
+date: 2022-08-02
 categories: article spivak calculus
 head_title: Prologue - Problem 1
 meta_description: Spivak Calculus Prologue Problem 1

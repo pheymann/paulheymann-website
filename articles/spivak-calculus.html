@@ -1,5 +1,21 @@
 ---
-layout: "article_category"
-primary_category: "calculus"
-intro: "Here, you find my solutions to Michael Spivak's book Calculus - Third Edition."
+layout: "basic"
 ---
+
+<div class="articles">
+  <p>
+    Here, you find my solutions to Michael Spivak's book Calculus - Third Edition. All post are shared under Create Commons licence <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>.
+  </p>
+
+  <ul>
+    {%- for post in site.posts -%}
+      {% if post.categories contains 'spivak' %}
+        <li>
+          <a class="title" href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+</div>

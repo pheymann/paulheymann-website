@@ -12,14 +12,15 @@ layout: "basic"
     <li><a href="{{ site.baseurl }}/articles/spivak-calculus">Solutions for Spivaks book: Calculus</a></li>
   </ul>
 
+  {% assign thought_posts = site.posts | where_exp:"post","post.categories contains 'thought'" %}
   <div class="row">
     <div class="col-12 post">
-      <a class="title" href="{{ site.posts.first.url | relative_url }}">
-        Latest: {{ site.posts.first.title }}
+      <a class="title" href="">
+        Latest thought: {{ thought_posts.first.title }}
       </a>
 
       <div>
-        {{ site.posts.first.content }}
+        {{ thought_posts.first.content }}
       </div>
     </div>
   </div>
