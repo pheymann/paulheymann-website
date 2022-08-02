@@ -5,13 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/index.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
 
     {%- if page.head_title -%}
       <title>{{ page.head_title }}</title>
     {%- else -%}
-      <title>Paul Digital Island</title>
+      <title>Paul Heymann</title>
     {%- endif -%}
 
     {%- if page.meta_description -%}
@@ -23,37 +22,9 @@
   </head>
   <body>
     <header>
-      <div class="navigation-container">
-        <div class="navigation-profile">
-          <a href="{{ site.baseurl }}/">
-            <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="profile picture">
-          </a>
-        </div>
-        
-        <div class="navigation-element">
-          <a href="{{ site.baseurl }}/cv.pdf">CV</a>
-        </div>
-        <div class="navigation-element">
-          <a href="{{ site.baseurl }}/feed.xml">RSS</a>
-        </div>
-        <div class="navigation-element">
-          <a class="mobile" href="{{ site.baseurl }}/photos">
-            <img src="{{ site.baseurl }}/assets/img/camera.svg" alt="mobile photography link">
-          </a>
-          <a class="browser" href="{{ site.baseurl }}/photos">
-            Photography
-          </a>
-        </div>
-        <div class="navigation-element">
-          <a class="mobile" href="{{ site.baseurl }}/articles">
-            <img src="{{ site.baseurl }}/assets/img/article.svg" alt="mobile article link">
-          </a>
-          <a class="browser" href="{{ site.baseurl }}/articles">
-            Article
-          </a>
-        </div>
-
-        <div class="clearfix"></div>
+      <div class="navigation">
+        <a href="/">Home</a>
+        <a href="/articles">Articles</a>
       </div>
     </header>
 
@@ -62,7 +33,7 @@
     </div>
 
     <footer>
-      You can find the code for this website on <a href="https://github.com/pheymann/paulheymann-website"><i class="fab fa-github"></i></a>
+      You can find the code for this website on <a href="https://github.com/pheymann/paulheymann-website">Github</a>
     </footer>
 
     <script>

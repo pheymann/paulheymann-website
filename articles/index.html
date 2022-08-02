@@ -1,0 +1,26 @@
+---
+layout: "basic"
+---
+
+<div class="articles">
+  <p>
+    Below you find different categories of articles I wrote.
+  </p>
+
+  <ul>
+    <li><a href="{{ site.baseurl }}/articles/thoughts">Thoughts: More or less original ideas and reflections</a></li>
+    <li><a href="{{ site.baseurl }}/articles/spivak-calculus">Solutions for Spivaks book: Calculus</a></li>
+  </ul>
+
+  <div class="row">
+    <div class="col-12 post">
+      <a class="title" href="{{ site.posts.first.url | relative_url }}">
+        Latest: {{ site.posts.first.title }}
+      </a>
+
+      <div>
+        {{ site.posts.first.content }}
+      </div>
+    </div>
+  </div>
+</div>

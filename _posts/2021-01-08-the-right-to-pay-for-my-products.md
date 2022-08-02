@@ -2,7 +2,7 @@
 layout: post
 title: The Right to Pay for my Products
 date:   2021-01-08
-categories: essay
+categories: thought
 head_title: The Right to Pay for my Products
 meta_description: The Right to Pay for my Products
 meta_keywords: social media,advertisment,attention,legislation

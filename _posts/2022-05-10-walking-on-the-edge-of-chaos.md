@@ -2,7 +2,7 @@
 layout: post
 title: Walking on the edge of chaos
 date:   2022-05-10
-categories: essay
+categories: thought
 head_title: Walking on the edge of chaos
 meta_description: Walking on the edge of chaos
 meta_keywords: chaos,uncertainty,philosophy
