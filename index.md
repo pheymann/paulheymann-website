@@ -3,14 +3,16 @@ layout: home
 ---
 
 Hi there,<br/>
-my name is Paul Heymann and I am a Technical Lead building-up and leading autonomous, high performance software teams. You can find some of my public work on my <a href="https://github.com/pheymann">GitHub account <i class="fab fa-github"></i></a>. Feel free to contact me through:
+if you are interested in some of my writings have a look into [articles](/articles). My open source work, including this website, is available on <a href="https://github.com/pheymann">GitHub</a>.
 
-<div class="contact-options">
-  <ul>
-    <li><a href="https://www.linkedin.com/in/paul-h-6b4a53144"><i class="fab fa-linkedin-in"></i></a></li>
-    <li><a href="mailto:blog@paulheymann.de"><i class="far fa-envelope"></i></a></li>
-  </ul>
-  <div class="clearfix"></div>
+You are recruiter? Feel free to contact me on <a href="https://www.linkedin.com/in/paul-h-6b4a53144">LinkedIn</a>. My [cv](/cv.pdf) is also available on this site.
+
+<div class="row">
+  <div class="col-12 post">
+    <h2>Latest article: {{ site.posts.first.title }}</h2>
+    <a href="{{ site.posts.first.url | relative_url }}">Find it here</a>
+    <div>
+      {{ site.posts.first.content }}
+    </div>
+  </div>
 </div>
-
-If you want to know more about my professional experiences take a look at my [cv](/cv.pdf).
