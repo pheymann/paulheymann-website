@@ -5,7 +5,7 @@ date:   2022-05-10
 categories: essay
 head_title: Walking on the edge of chaos
 meta_description: Walking on the edge of chaos
-meta_keywords: essay,chaos,uncertainty
+meta_keywords: chaos,uncertainty,philosophy
 ---
 
 Chaos is where our inner world stops to exists. It is where we have to lift the fog and discover truth, boundless joy and endless suffering.
