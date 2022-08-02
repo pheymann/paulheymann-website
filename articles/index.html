@@ -15,7 +15,7 @@ layout: "basic"
   {% assign thought_posts = site.posts | where_exp:"post","post.categories contains 'thought'" %}
   <div class="row">
     <div class="col-12 post">
-      <a class="title" href="">
+      <a class="title" href="{{ thought_posts.first.url | relative_url }}">
         Latest thought: {{ thought_posts.first.title }}
       </a>
 
