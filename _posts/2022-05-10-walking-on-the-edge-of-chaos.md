@@ -12,9 +12,9 @@ Chaos is where our inner world stops to exists. It is where we have to lift the 
 
 Chaos is where we learn what it means to be human.
 
-Most of us shy away from that edge between the known and unknown. Some even pretend that it doesn’t exist. Only a few of us venture and walk the line. Make the leap and immerse themselves into what isn’t yet.
+Most of us shy away from that edge between the known and unknown. Some even pretend that it doesn’t exist. Only a few of us venture and walk the line, make the leap and immerse themselves into what isn’t yet.
 
-Venturer, they push themselves beyond their inner world. They push their bodies beyond what it has done before. They push their understanding into the unknown. Learn about themselves. Learn for the rest of us. Be brave.
+Venturer, they push themselves beyond their inner world. They push their bodies beyond what it has done before. They push their understanding into the unknown. Learn for the rest of us, venturer, and be brave.
 
 Some of us get sucked into Chaos. No choice. Charybdis is thrashing, gripping, pulling us into the abyss. Severing us mentally, physically beyond recognition. Maybe we get hold of the edge. Just one finger. Hold on to it. Get back to the edge of Chaos. Tell us what you have seen. Render Chaos to order.
 
