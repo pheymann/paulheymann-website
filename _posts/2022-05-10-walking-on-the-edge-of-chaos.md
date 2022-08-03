@@ -12,15 +12,15 @@ Chaos is where our inner world stops to exists. It is where we have to lift the 
 
 Chaos is where we learn what it means to be human.
 
-Most of us shy away from that edge between the known and unknown, some even pretend that it doesn’t exist. Few of us venture on. Do not hesitate. Walk the line. Make the leap and immerse yourself into what isn’t yet.
+Most of us shy away from that edge between the known and unknown. Some even pretend that it doesn’t exist. Only a few of us venture and walk the line. Make the leap and immerse themselves into what isn’t yet.
 
-Venturer, they push themselves beyond their inner world. They push their bodies beyond what it has done before, beyond what any other human has done before. They push their understanding into the unknown. Learn about themselves, maybe for the rest of us. Lift the fog.
+Venturer, they push themselves beyond their inner world. They push their bodies beyond what it has done before. They push their understanding into the unknown. Learn about themselves. Learn for the rest of us. Be brave.
 
-Some of us get sucked into Chaos. No choice. Charybdis is thrashing, gripping, pulling us into the abyss. Severing us mentally, physically beyond recognition. Maybe you get hold of the edge with just one finger. Hold on to it. Fight. Fight until the end. Get back to the edge of Chaos. Tell us what you have seen. Render Chaos to order.
+Some of us get sucked into Chaos. No choice. Charybdis is thrashing, gripping, pulling us into the abyss. Severing us mentally, physically beyond recognition. Maybe we get hold of the edge. Just one finger. Hold on to it. Get back to the edge of Chaos. Tell us what you have seen. Render Chaos to order.
 
-Some of us get lost. Disappearing but do not return. The fog stays.
+Some of us get lost. Disappearing and do not return.
 
-It is those who venture, it is those who suffer, that walk the edge of Chaos who expand what they know and through that bring order for the rest of us. Embrace them. Pity them. Learn from them. Learn for yourself. Make yourself uncomfortable. What is next? You don’t know. And in that process, find joy, suffering and a more complete image of yourself.
+It is those who venture, it is those who suffer, that walk the edge of Chaos who expand what they know and through that bring order. Embrace them. Pity them. Learn from them. Learn for yourself. Make yourself uncomfortable. What is next? You don’t know. And in that process, find joy, suffering and a more complete image of yourself.
 
 Learn from others who made the leap. Suffer with those who had no choice. Read their stories. They learned for you. Take their order and make it yours.
 
