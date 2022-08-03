@@ -8,7 +8,7 @@ layout: "basic"
   </p>
 
   <ul>
-    {%- for post in site.posts -%}
+    {%- for post in site.posts reversed -%}
       {% if post.categories contains 'spivak' %}
         <li>
           <a class="title" href="{{ post.url | relative_url }}">
