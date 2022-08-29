@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'Truth Detour: What is "me"?'
+date: 2022-08-29
+categories: thought truth
+head_title: 'Truth Detour: What is "me"?'
+meta_description: 'Truth Detour: What is "me"?'
+meta_keywords: plato socrates hume philosophy truth life
+---
+
+I established that there is a cascade of different realities, but I did that always in a kind of dichotomy of outside and inside, world and me. But what exactly is *me*? What differentiates *me* from the tree I am looking at? It cannot be my body, because that is also just a cloud of sensory data, reduced to intelligible models and interpreted as conscious experience. I feel my muscles arching after a long walk through the forest, I don’t experience damage to my muscle cells. My body is as outside as the rest of reality. It is a conscious experience and part of my world model.
+
+So what then constitutes me? I have the feeling that this is again part of the mystical, that which generates experience. Somehow there is an experience of an awareness of self that emerges from that dichotomy, a conscious experience of *me*. All experiences are guided by that one feeling, making it the arbiter of the inner and outer world, of me and the rest. It is the focal point through which I experience the world.
+
+But that *me* is not stable, it is not objective like experience, the ultimate subject, at least when I believe that I can unwind myself through meditations and leave me with nothing but experience itself. I surely tried it but failed so far to reach that state. But I believe it is possible in principle because I know that losing one*self* in a book, movie or some all-consuming task is possible. In those situations I for example just experience the content of a great book, getting immersed in it while losing track of time, surroundings, and myself.
+
+*Me* is therefore a feeling born out of the opposition of two worlds: the inner and outer. *Me* is fleeting at times.
+
+## Read next
+* Start of the series: [Reality, Truth and the Good Life]({% post_url 2022-08-29-reality-truth-and-the-good-life %})

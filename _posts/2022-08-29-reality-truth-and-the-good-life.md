@@ -1,0 +1,32 @@
+---
+layout: post
+title: Reality, Truth, and the Good Life
+date: 2022-08-29
+categories: thought truth
+head_title: Reality, Truth, and the Good Life
+meta_description: Reality, Truth, and the Good Life
+meta_keywords: plato socrates hume philosophy truth life
+---
+
+Is there a true Good or just a relativistic mess? Must I select my virtues freely from a buffet of all that human life has to offer, all equal to the point that I can’t differentiate the good from the bad? Or are there some basic truths? Those are questions that haunt me because their answers have to be the bedrock on which I construct my life. And it better be stable whilst the ceiling comes crashing down on me, again. 
+
+I am on the outlook for guiding rules that are True: unshakeable, unchangeable. Rules to guide me through the complexity of life, to be my guardians of daily existence. This desire fuels my search together with the fear of being forced to stay in a nihilistic mess that constructs a world where I am not the master but obey ego, anxiety, pride, and money.
+
+But where to start my search? Looking for all the claimed truths out there and checking one after the other will lead me to nothing substantial. The sea of those claims is too vast and I wouldn’t even know how to test them. No, I have to start from the bottom, from some first principle, and see where it leads me. But what is that principle? I think I first have to clarify if reality allows for objective truth at all. Having understood if and how that is possible I potentially can find the truths I am looking for. But looking at this question begs another one: What exactly is reality? How could I discern objectivity from it when I don’t know it in the first place? So, I will start here.
+
+Imagine, standing in the middle of a glade, high Summer surrounding us, and we look at a single tree its branches swaying in the warm wind. Is that what I perceive reality? Is it the one true tree, ever the same no matter when and from where we look at it? I don’t think so. We already know that such a thing as a tree does not exist as a most basic form. It is made up of a myriad of cells of different kinds, themselves made up of smaller and smaller building blocks. That means I perceive an aggregation and a reduction of what is out there.
+
+All the information swirling around and in me, I only experience through my eyes, ears, touch, and any of the other senses I have, those bridges into what is. But they have limits. They let through only a small part of what I could perceive. I don’t see the cells, proteins, and atoms. I just see the bark, branches, and leaves of the tree, in short: A macroscopic whole. All that complexity of the world that rushes into me in a never-ending onslaught is reduced to a mere fraction. Condensed into a slower stream of potentials. What I am left with is not some true and basic reality, but *Sensory Reality*.
+
+That means I already have to establish a gap, maybe even an impassable abyss, between *True Reality* and what information reaches my mind. Even if there was objectivity in that basic reality it could only reach me as a shadow. To me, it is not even clear if truth could survive this transition and I don’t know if it existed in the first place. And the situation gets worse. I cannot stop yet because the sensory stream of information is continuously being merged and reduced again while it travels through my nervous system and brain. I never experienced the raw potentials created by rays of light hitting the cone cells in my eyes, nor the oscillating movement of atoms in the air reaching my ear. I perceive something else: an ever-changing cloud of categories. Categories like tree, wind, hot, cold, and any other object and property of my experience, a collection of patterns I detect through my Sensory Reality. It is also at this step where my reductions reach a simplicity that allows me to make predictions, and classifications and establish cause and effect about Sensory Reality. I am enabled to build a world model, an intelligible version of what is. I create *Intelligent Reality*. The abyss just got wider.
+
+And I am not done yet. There seems to be another leap I have to take. One that transforms my modeled world into the actual living place I inhabit. Another leap that like a magic trick lets me experience. It not only makes me recognize the green in a leaf but it makes it a vibrant part of my world. Because what does it even mean for something to be green except for the experience of it? This mystical quality I would call consciousness and hence this reality *Conscious Reality*. It is the place where feelings are born, where good, bad, pain, joy and suffering exist. But how this reality comes to be is a complete mystery to me.
+
+But, alas, I am not allowed to be conscious of all of Intelligent Reality. Only a narrow sliver becomes life the rest flows out into sub-consciousness, sometimes emerging but mostly disappearing as if it never existed in the first place. So, I reduced my reality even more without knowing what guides that focus. I increased the gap again.
+
+A single question led to many and now there is less clarity of what reality and hence objectivity is. I only know that it passes through many reductions before it becomes my experience. Every single one is a mere shadow of its origin, making objectivity in an underlying true reality impossible to experience, I believe. How could I detect the true form of the good when I only see reflections of shadows and I am unable to leave the cave that is my senses, intelligence, and consciousness?
+
+Or maybe I am wrong. What about experience itself? I know that I experience, that I have a conscious reality filled with life. But isn’t that pure subjectivity? This knowledge stays unchanged as long as my mind is, unchanged by emotions or opinions, but at the same time it is the subject, there is no independence of my mind since experience is partially or in its totality my mind. Experience is the one thing that is objective while being ultimately subjective. So, what I am left with is an abyss between true reality and me and a single truth. How can I recover true good, happiness, and beauty from that? I don’t know for now, but optimistically I go on.
+
+## Read next
+* [Detour: What exactly is "me"?]({% post_url 2022-08-29-truth-detour-what-is-me %})
