@@ -31,7 +31,30 @@ Find all numbers $x$ for which these assertions are true.
     \end{align*}
   \]
 
-  That is always true no matter what $x$ is.
+  We can dinstinguish that in 3 cases. First $x > 0$:
+
+  \[
+    \begin{align*}
+      x^2 \in P \rightarrow x^2 > -3
+    \end{align*}
+  \]
+
+  Second: $x = 0$:
+
+  \[
+    \begin{align*}
+      0 > -3
+    \end{align*}
+  \]
+
+  And finally $x < 0$:
+
+  \[
+    \begin{align*}
+      (-x)(-x) &= x^2 \in P \\
+               &\rightarrow x^2 > -3
+    \end{align*}
+  \]
 </p>
 
 <p>
@@ -42,8 +65,21 @@ Find all numbers $x$ for which these assertions are true.
       5 - x^2 &< -2 \\
       -x^2 + 7 &< 0 \\
       (x + \sqrt{7})(-x + \sqrt{7}) &< 0 \\
-      \\
-      x &< -\sqrt{7} \\
+    \end{align*}
+  \]
+
+  That leads us to 2 cases. First:
+  \[
+    \begin{align*}
+      x + \sqrt{7} &< 0 \\
+      x &< -\sqrt{7}
+    \end{align*}
+  \]
+
+  Second:
+  \[
+    \begin{align*}
+      -x + \sqrt{7} &< 0 \\
       x &> \sqrt{7}
     \end{align*}
   \]
@@ -56,10 +92,10 @@ Find all numbers $x$ for which these assertions are true.
     \begin{align*}
       (x - 1)(x - 3) &> 0 \\
       \\
-      (x - 1) &> 0 \\
+      (x - 1) &> 0 && \text{| firse case} \\
       x &> 1 \\
       \\
-      (x - 3) &> 0 \\
+      (x - 3) &> 0 && \text{| second case}\\
       x &> 3 \\
       \\
       \rightarrow x &> 3 > 1
@@ -75,9 +111,125 @@ Find all numbers $x$ for which these assertions are true.
       x^2 - 2x + 2 &> 0 \\
       (x - 1)^2 + 1 &> 0 \\
       \\
-      (x - 1)^2 &> -1
-      \\
-      (x - 1)^2 &\text{ is always positive for any } x.
+      (x - 1)^2 &> -1 && \text{| with } y = x - 1 \\
+      y^2 &> -1 && \text{| equal to (ii)}
     \end{align*}
   \]
 </p>
+
+<p>
+  <strong>(vi)</strong>
+
+  \[
+    \begin{align*}
+      x^2 + x + 1 &> 2 \\
+      x^2 + x - 1 &> 0 \\
+      (x + \frac{1}{2})^2 - (\frac{1}{2})^2 - 1 &> 0 \\
+      (x + \frac{1}{2})^2 &> \frac{5}{4} \\
+      \sqrt{(x + \frac{1}{2})^2} &> \sqrt{\frac{5}{4}} \\
+      \pm(x + \frac{1}{2}) &> \frac{\sqrt{5}}{2}
+    \end{align*}
+  \]
+
+  First case:
+  \[
+    \begin{align*}
+      -x - \frac{1}{2} &> \frac{\sqrt{5}}{2} \\
+      x &< -\frac{1 - \sqrt{5}}{2}
+    \end{align*}
+  \]
+
+  Second case:
+  \[
+    \begin{align*}
+      x + \frac{1}{2} &> \frac{\sqrt{5}}{2} \\
+      x &> -\frac{1 + \sqrt{5}}{2}
+    \end{align*}
+  \]
+</p>
+
+<p>
+  <strong>(vii)</strong>
+
+  \[
+    \begin{align*}
+      x^2 - x + 10 &> 16 \\
+      x^2 - x - 6 &> 0 \\
+      (x - \frac{1}{2})^2 &> \frac{25}{4} \\
+      \pm (x - \frac{1}{2}) &> \frac{5}{2}
+    \end{align*}
+  \]
+
+  First case:
+  \[
+    \begin{align*}
+      x - \frac{1}{2} &> \frac{5}{2} \\
+      x &> 3
+    \end{align*}
+  \]
+
+  Second case:
+  \[
+    \begin{align*}
+      - x + \frac{1}{2} &> \frac{5}{2} \\
+      x &< -2
+    \end{align*}
+  \]
+</p>
+
+<p>
+  <strong>(viii)</strong>
+
+  \[
+    \begin{align*}
+      x^2 + x + 1 &> 0 \\
+      (x + \frac{1}{2})^2 - \frac{1}{4} + 1 &> 0 \\
+      \pm (x + \frac{1}{2}) &> \frac{\sqrt{-3}}{2} && \text{| complex numbers!}
+    \end{align*}
+  \]
+
+  We can by pass the complex numbers by rephrasing the problem to $x^2 + x > -1$ and check if there is a scenario where the left
+  expression ever becomes negative. For $x \geq 0 \rightarrow x^2 + x > 0$ and for $x < 0 \rightarrow x^2 \in P$. The expression then
+  never reaches $-1$. That means, every $x$ is possible.
+</p>
+
+<p>
+  <strong>(ix)</strong>
+
+  \[
+    \begin{align*}
+      (x - \pi)(x + 5)(x - 3) &> 0
+    \end{align*}
+  \]
+
+  From that:
+  <ul>
+    <li>$x > \pi$</li>
+    <li>$x > -5$</li>
+    <li>$x > 3$</li>
+  </ul>
+  <br/>
+  Hence, $x > \pi$.
+</p>
+
+<p>
+  <strong>(x)</strong>
+
+  \[
+    \begin{align*}
+      (x - \sqrt[3]{2})(x - \sqrt{2}) &> 0 \\
+      \\
+      x &> \sqrt{2} && \text{| conclusion from 1. and 2. case}
+    \end{align*}
+  \]
+</p>
+
+<!-- <p>
+  <strong>()</strong>
+
+  \[
+    \begin{align*}
+      
+    \end{align*}
+  \]
+</p> -->
