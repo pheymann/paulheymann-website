@@ -224,12 +224,71 @@ Find all numbers $x$ for which these assertions are true.
   \]
 </p>
 
-<!-- <p>
-  <strong>()</strong>
+<p>
+  <strong>(xi)</strong>
 
   \[
     \begin{align*}
-      
+      2^x &< 8 \\
+      x &< log_{2}8 \\
+      x &< 3
     \end{align*}
   \]
-</p> -->
+</p>
+
+<p>
+  <strong>(xii)</strong>
+
+  \[
+    \begin{align*}
+      x + 3^x < 4
+    \end{align*}
+  \]
+
+  This formular I wouldn't know yet how to solve. Looking at the left side the whole expression becomes equal
+  or larger than 4 when $x >= 1$ so $x < 1$.
+</p>
+
+<p>
+  <strong>(xiii)</strong>
+
+  \[
+    \begin{align*}
+      \frac{1}{x} + \frac{1}{1 - x} &> 0
+    \end{align*}
+  \]
+
+  $x$ isn't allowed to reach 2 value in this inequality: $x = 0$ and $x = 1$. Both lead to a division by 0.
+  When $x < 0$ then $-\frac{1}{x} + \frac{1}{1 + x} < 0$. When $x > 1$ then $\frac{1}{x} - \frac{1}{x - 1} < 0$.
+  But we are left with $0 < x < 1$ where $\frac{1}{x}, \frac{1}{1 - x} \in P$
+</p>
+
+<p>
+  <strong>(xiv)</strong>
+
+  \[
+    \begin{align*}
+      \frac{x - 1}{x + 1} &> 0
+    \end{align*}
+  \]
+
+  We only have to know when the nominator and denominator are in $P$. First case:
+
+  \[
+    \begin{align*}
+      x - 1 &> 0 \\
+      x &> 1
+    \end{align*}
+  \]
+
+  Second case:
+
+  \[
+    \begin{align*}
+      x + 1 &> 0 \\
+      x &> -1
+    \end{align*}
+  \]
+
+  From that follows $x > 1$.
+</p>
