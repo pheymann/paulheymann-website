@@ -39,9 +39,14 @@ Express each of the following with at least one less pair of absolute value sign
       |(|a + b| - |a| - |b|)| \\
     \end{align*}
   \]
-
-  Here, we split by case. When $a, b >= 0$ then $|a + b| >= |a| - |b|$. When $b < 0$ then $|a - b| > |a| - |b|$. The
-  same is true when $a < 0$. In conclusion that means:
+</p>
+<ul>
+  <li>When $a, b >= 0$ then $|a + b| >= |a| - |b|$.</li>
+  <li>When $b < 0$ then $|a - |b|| >= |a| - |b|$.</li>
+  <li>The same is true when $a < 0$.</li>
+</ul>
+ <p> 
+  In conclusion that means:
 
   \[
     \begin{align*}
@@ -60,9 +65,14 @@ Express each of the following with at least one less pair of absolute value sign
       |(|a + b| + |c| - |a + b + c|) \\
     \end{align*}
   \]
-
-  When $(a + b), c >= 0$ then $|a + b| + |c| = |a + b + c|$. When $(a + b) < 0$ then $|a + b| + |c| >= |-(a + b) + c|$. When
-  $c < 0$ then $|a + b| + |-c| >= |a + b - c|$. In conclusion that means:
+</p>
+<ul>
+  <li>When $(a + b), c >= 0$ then $|a + b| + |c| = |a + b + c|$.</li>
+  <li>When $(a + b) < 0$ then $|a + b| + |c| >= |-|a + b| + c|$.</li>
+  <li>When $c < 0$ then $|a + b| + |c| >= |a + b - |c||$.</li>
+</ul>
+ <p> 
+  In conclusion that means:
 
   \[
     \begin{align*}
