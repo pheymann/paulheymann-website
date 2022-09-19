@@ -30,3 +30,4 @@ Or maybe I am wrong. What about experience itself? I know that I experience, tha
 
 ## Read next
 * [Detour: What exactly is "me"?]({% post_url 2022-08-29-truth-detour-what-is-me %})
+* [Wisdom is not a virtue, Socrates]({% post_url 2022-08-02-wisdom-is-a-virtue-socrates %})
