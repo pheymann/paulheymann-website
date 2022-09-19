@@ -29,6 +29,7 @@ type blockType = string
 const (
 	paragraph blockType = "#p"
 	formular  blockType = "#f"
+	problem   blockType = "#--"
 )
 
 type parseState struct {
@@ -60,6 +61,15 @@ func compile(source string) {
 			state.blockTpe = formular
 			state.blockLine = 0
 
+		case problem:
+			closeBlock(state)
+
+			state.blockTpe = problem
+			fmt.Println("</p>")
+			fmt.Println("")
+			fmt.Println("<p>")
+			
+
 		default:
 			switch state.blockTpe {
 			case paragraph:
@@ -80,6 +90,7 @@ func compile(source string) {
 		}
 	}
 
+	closeBlock(state)
 	fmt.Println("</p>")
 }
 
