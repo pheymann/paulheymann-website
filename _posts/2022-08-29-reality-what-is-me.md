@@ -18,3 +18,4 @@ But that *me* is not stable, it is not objective like experience, the ultimate s
 
 ## Read next
 * Start of the series: [Reality, Truth and the Good Life]({% post_url 2022-08-29-reality-truth-and-the-good-life %})
+* [Objects, relations, and how reality emerges]({% post_url 2022-09-22-reality-objects-relations-and-how-reality-emerges %})

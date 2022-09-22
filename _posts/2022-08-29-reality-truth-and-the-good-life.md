@@ -36,5 +36,6 @@ What I am left with so far is an abyss between true reality and me and a single 
 
 ## Read next
 * [Reality: What exactly is "me"?]({% post_url 2022-08-29-reality-what-is-me %})
+* [Objects, relations, and how reality emerges]({% post_url 2022-09-22-reality-objects-relations-and-how-reality-emerges %})
 * [Wisdom is not a virtue, Socrates]({% post_url 2022-08-02-wisdom-is-a-virtue-socrates %})
 * [The Republic by Plato](https://www.gutenberg.org/ebooks/1497)
