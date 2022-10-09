@@ -31,11 +31,10 @@ To summarize my arguments up until now, Sensory Reality creates and feeds into a
 Those months of work to compile these arguments left me with a stronger foundation for my different realities. My impressions still stay at the edge without an explanation of how they exactly come about but I have a better understanding of how intelligence emerges from that and how it informs consciousness. Now I have to flesh out the details and build up experienced reality from the bottom.
 
 ## Read next
-* *Read first*: [Reality, Truth and the Good Life]({% post_url 2022-08-29-reality-truth-and-the-good-life %})
+* *Read first*: [Reality, Truth and the Good Life]({% post_url reality-truth-and-the-good-life/2022-08-29-reality-truth-and-the-good-life %})
 * TDB - Ontology: Experienced space
 * TDB - Ontology: Time, continued change and experience
 * TDB - Ontology: Causation
 * TDB - Ontology: Memory
 * TDB - Ontology: Models
-* Start of the series: [Reality, Truth and the Good Life]({% post_url 2022-08-29-reality-truth-and-the-good-life %})
 * [A Treatise of Human Nature by David Hume](https://www.gutenberg.org/ebooks/4705)
