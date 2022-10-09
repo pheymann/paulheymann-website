@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Flaw: I have to rethink reality and Ontology'
+title: 'Flaw: I have to rethink reality and ontology'
 date: 2022-10-08
 categories: thought truth
-head_title: 'Flaw: I have to rethink reality and Ontology'
-meta_description: 'Flaw: I have to rethink reality and Ontology'
+head_title: 'Flaw: I have to rethink reality and ontology'
+meta_description: 'Flaw: I have to rethink reality and ontology'
 meta_keywords: philosophy
 ---
 
