@@ -68,7 +68,6 @@ func compile(source string) {
 			fmt.Println("</p>")
 			fmt.Println("")
 			fmt.Println("<p>")
-			
 
 		default:
 			switch state.blockTpe {
@@ -105,7 +104,7 @@ func closeBlock(state *parseState) {
 
 var (
 	boldRegex = regexp.MustCompile("\\*\\*(.*)\\*\\*")
-	textRegex = regexp.MustCompile("\"([\\w !?\\(\\)]*)\"")
+	textRegex = regexp.MustCompile("\"([\\w !?\\(\\)\\.]*)\"")
 )
 
 func paragraphCommandsToLatex(line string) string {
