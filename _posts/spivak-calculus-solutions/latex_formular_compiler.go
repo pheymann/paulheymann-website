@@ -10,6 +10,7 @@ import (
 
 func main() {
 	sourceFilepath := flag.String("source", "", "path to your source file")
+	outputFile := flag.String("out", "", "path to the output file")
 	flag.Parse()
 
 	if sourceFilepath == nil || *sourceFilepath == "" {
@@ -21,7 +22,16 @@ func main() {
 		panic(err)
 	}
 
-	compile(string(source))
+	if outputFile != nil && *outputFile != "" {
+		file, err := os.Create(*outputFile)
+		if err != nil {
+			panic("couldn't open or create output file. Reason: " + err.Error())
+		}
+
+		compile(string(source), FilePrinter{file})
+	} else {
+		compile(string(source), CLIPrinter{})
+	}
 }
 
 type blockType = string
@@ -37,11 +47,11 @@ type parseState struct {
 	blockLine int8
 }
 
-func compile(source string) {
+func compile(source string, output Output) {
 	state := &parseState{}
 	lines := strings.Split(source, "\n")
 
-	fmt.Println("<p>")
+	output.println("<p>")
 
 	for _, line := range lines {
 		trimmedLine := strings.TrimSpace(line)
@@ -50,56 +60,56 @@ func compile(source string) {
 		case "":
 
 		case paragraph:
-			closeBlock(state)
+			closeBlock(state, output)
 
 			state.blockTpe = paragraph
 			state.blockLine = 0
 
 		case formular:
-			closeBlock(state)
+			closeBlock(state, output)
 
 			state.blockTpe = formular
 			state.blockLine = 0
 
 		case problem:
-			closeBlock(state)
+			closeBlock(state, output)
 
 			state.blockTpe = problem
-			fmt.Println("</p>")
-			fmt.Println("")
-			fmt.Println("<p>")
+			output.println("</p>")
+			output.println("")
+			output.println("<p>")
 
 		default:
 			switch state.blockTpe {
 			case paragraph:
 				latexLine := paragraphCommandsToLatex(trimmedLine)
-				fmt.Println("  " + latexLine)
+				output.println("  " + latexLine)
 				state.blockLine++
 
 			case formular:
 				if state.blockLine == 0 {
-					fmt.Println("  \\[")
-					fmt.Println("    \\begin{align*}")
+					output.println("  \\[")
+					output.println("    \\begin{align*}")
 				}
 
 				latexLine := forumlarCommandsToLatex(trimmedLine)
-				fmt.Println("      " + latexLine + " \\\\")
+				output.println("      " + latexLine + " \\\\")
 				state.blockLine++
 			}
 		}
 	}
 
-	closeBlock(state)
-	fmt.Println("</p>")
+	closeBlock(state, output)
+	output.println("</p>")
 }
 
-func closeBlock(state *parseState) {
+func closeBlock(state *parseState, output Output) {
 	if state.blockLine > 0 && state.blockTpe == formular {
-		fmt.Println("    \\end{align*}")
-		fmt.Println("  \\]")
+		output.println("    \\end{align*}")
+		output.println("  \\]")
 	}
 
-	fmt.Println("")
+	output.println("")
 }
 
 var (
@@ -128,4 +138,22 @@ func forumlarCommandsToLatex(line string) string {
 	latexLine = textRegex.ReplaceAllString(latexLine, " && \\text{| $1}")
 
 	return latexLine
+}
+
+type Output interface {
+	println(string)
+}
+
+type CLIPrinter struct{}
+
+func (printer CLIPrinter) println(str string) {
+	fmt.Println(str)
+}
+
+type FilePrinter struct {
+	file *os.File
+}
+
+func (printer FilePrinter) println(str string) {
+	printer.file.WriteString(str + "\n")
 }
