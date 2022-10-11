@@ -114,7 +114,7 @@ func closeBlock(state *parseState, output Output) {
 
 var (
 	boldRegex = regexp.MustCompile("\\*\\*(.*)\\*\\*")
-	textRegex = regexp.MustCompile("\"([\\w !?\\(\\)\\.]*)\"")
+	textRegex = regexp.MustCompile("\"([\\w !?\\(\\)\\.']*)\"")
 )
 
 func paragraphCommandsToLatex(line string) string {
