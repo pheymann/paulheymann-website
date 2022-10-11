@@ -101,7 +101,7 @@ meta_keywords: spivak,calculus,prologue,solutions
     \end{align*}
   \]
 
-  Using induction - $n = 3$:
+  Using induction for (A) - $n = 3$:
 
   \[
     \begin{align*}
@@ -123,5 +123,47 @@ meta_keywords: spivak,calculus,prologue,solutions
   \]
 
   This proof by indiction works exactly the same for (B).
+
+</p>
+
+<p>
+
+  <strong>(d)</strong> Prove that if $x^n = y^n$ and $n$ is even, then $x = y$ or $x = -y$.
+  <br>
+  <br>
+  In case of $x, y > 0$ and $x, y < 0$ the same arguments applies as for (c) so we have to show again that
+  $x > 0, y < 0$ is possible for even $n$.
+  <br>
+  <br>
+  Using induction for (A) - $n = 2$:
+
+  \[
+    \begin{align*}
+      x^2 &= y^2 \\
+      x^2 &= (-1)(-1)|y|^2 \\
+      x^2 &= |y|^2 \\
+    \end{align*}
+  \]
+
+  $n = 4$:
+
+  \[
+    \begin{align*}
+      x^4 &= y^4 \\
+      x^4 &= (-1)(-1)(-1)(-1)|y|^4 \\
+      x^4 &= |y|^4 \\
+    \end{align*}
+  \]
+
+  $n = k$ is true with $k$ even, show that $n = k + 2$ is also true:
+
+  \[
+    \begin{align*}
+      x^{k + 2} &= y^{k + 2} \\
+      x^k &= (-1)(-1)(-1)^k|y|^k \\
+      x^k &= (-1)^k|y|^k \\
+      x^k &= y^k \\
+    \end{align*}
+  \]
 
 </p>
