@@ -2,7 +2,7 @@
 layout: math_post
 title: Prologue - Problem 9
 date: 2022-09-03
-categories: article spivak calculus
+categories: article spivak calculus prologue
 head_title: Prologue - Problem 9
 meta_description: Spivak Calculus Prologue Problem 9
 meta_keywords: spivak,calculus,prologue,solutions
