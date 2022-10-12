@@ -93,7 +93,12 @@ func compile(source string, output Output) {
 				}
 
 				latexLine := forumlarCommandsToLatex(trimmedLine)
-				output.println("      " + latexLine + " \\\\")
+
+				if strings.Contains(latexLine, "\\\\") {
+					output.println("      " + latexLine)
+				} else {
+					output.println("      " + latexLine + " \\\\")
+				}
 				state.blockLine++
 			}
 		}
