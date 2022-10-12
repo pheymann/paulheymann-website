@@ -139,6 +139,8 @@ func forumlarCommandsToLatex(line string) string {
 	latexLine = strings.ReplaceAll(latexLine, "#<-", "\\leftarrow")
 	latexLine = strings.ReplaceAll(latexLine, "<", "&<")
 	latexLine = strings.ReplaceAll(latexLine, ">", "&>")
+	latexLine = strings.ReplaceAll(latexLine, "\\leq", "&\\leq")
+	latexLine = strings.ReplaceAll(latexLine, "\\geq", "&\\geq")
 	latexLine = strings.ReplaceAll(latexLine, "=", "&=")
 	latexLine = textRegex.ReplaceAllString(latexLine, " && \\text{| $1}")
 
