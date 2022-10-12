@@ -4,14 +4,27 @@ layout: "basic"
 
 <div class="articles">
   <p>
-    Here, you find my solutions to Michael Spivak's book Calculus - Third Edition. If you find a mistake in my solutions a fix is
-    highly appreciated. Find all solution Markdown files <a href=https://github.com/pheymann/paulheymann-website/tree/master/_posts/spivak-calculus-solutions>here</a>.
+    Here, you find my solutions to a subset of problems out of Michael Spivak's book Calculus - Third Edition. If you find a mistake in my solutions a fix is
+    highly appreciated. Find all Markdown files <a href=https://github.com/pheymann/paulheymann-website/tree/master/_posts/spivak-calculus-solutions>here</a>.
   </p>
 
   <h3>Prologue - Basics properties of numbers</h3>
   <ul>
     {%- for post in site.posts reversed -%}
       {% if post.categories contains 'basics' %}
+        <li>
+          <a class="title" href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+
+  <h3>Prologue - Numbers of various sorts</h3>
+  <ul>
+    {%- for post in site.posts reversed -%}
+      {% if post.categories contains 'numbers' %}
         <li>
           <a class="title" href="{{ post.url | relative_url }}">
             {{ post.title }}
