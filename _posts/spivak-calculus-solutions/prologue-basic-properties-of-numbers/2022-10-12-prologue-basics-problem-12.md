@@ -1,10 +1,10 @@
 ---
 layout: math_post
-title: Prologue - Problem 12
+title: Problem 12
 date: 2022-10-12
-categories: article spivak calculus prologue
-head_title: Prologue - Problem 12
-meta_description: Spivak Calculus Prologue Problem 12
+categories: article spivak calculus prologue basics
+head_title: Problem 12
+meta_description: Spivak Calculus Prologue Basics Problem 12
 meta_keywords: spivak,calculus,prologue,solutions
 ---
 

@@ -8,10 +8,10 @@ layout: "basic"
     highly appreciated. Find all solution Markdown files <a href=https://github.com/pheymann/paulheymann-website/tree/master/_posts/spivak-calculus-solutions>here</a>.
   </p>
 
-  <h3>Prologue</h3>
+  <h3>Prologue - Basics properties of numbers</h3>
   <ul>
     {%- for post in site.posts reversed -%}
-      {% if post.categories contains 'prologue' %}
+      {% if post.categories contains 'basics' %}
         <li>
           <a class="title" href="{{ post.url | relative_url }}">
             {{ post.title }}
