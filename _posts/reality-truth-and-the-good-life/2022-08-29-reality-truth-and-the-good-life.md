@@ -35,7 +35,8 @@ Or maybe I am wrong. Maybe there is already a truth right under my nose. I know 
 What I am left with so far is an abyss between true reality and me and a single truth. How can I recover true good, happiness, and beauty from that? I don’t know for now, but optimistically I go on and try to figure out what reality is. Not with a purely scientific view of the world but an experience-based one.
 
 ## Read next
-* [What exactly is "me"?]({% post_url reality-truth-and-the-good-life/2022-08-29-what-is-me %})
-* [Objects, relations, and how reality emerges]({% post_url reality-truth-and-the-good-life/2022-09-22-objects-relations-and-how-reality-emerges %})
-* [Wisdom is not a virtue, Socrates]({% post_url 2022-08-02-wisdom-is-a-virtue-socrates %})
-* [The Republic by Plato](https://www.gutenberg.org/ebooks/1497)
+* Next: [Objects, relations, and how reality emerges]({% post_url reality-truth-and-the-good-life/2022-09-22-objects-relations-and-how-reality-emerges %})
+* Related:
+  * [What is "me"?]({% post_url reality-truth-and-the-good-life/2022-08-29-what-is-me %})
+  * [Wisdom is not a virtue, Socrates]({% post_url 2022-08-02-wisdom-is-a-virtue-socrates %})
+  * [The Republic by Plato](https://www.gutenberg.org/ebooks/1497)
