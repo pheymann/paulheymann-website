@@ -26,9 +26,9 @@ But it seems I am capable of an even bigger feat: I can enact ontology itself. N
 To summarize, there are two types of experience: impressions and understanding. The latter is born out of the former but they are still separate spheres. And with that, the mystery of experience also became a bit more detailed.
 
 ## Read next
-* *Read first* 
-  * [Flaw: I have to rethink reality and Ontology]({% post_url reality-truth-and-the-good-life/2022-10-08-flaw-I-have-to-rethink-reality-and-ontology %})
-  * [Experienced space and embodied extension]({% post_url reality-truth-and-the-good-life/2022-10-09-experienced-space-and-embodied-extension %})
+* Read first: [Flaw: I have to rethink reality and Ontology]({% post_url reality-truth-and-the-good-life/2022-10-08-flaw-I-have-to-rethink-reality-and-ontology %})
+* Related:
+  * [What is "me"?]({% post_url reality-truth-and-the-good-life/2022-08-29-what-is-me %})
 
 ## Appendix
 ### A1 - A thought experiment

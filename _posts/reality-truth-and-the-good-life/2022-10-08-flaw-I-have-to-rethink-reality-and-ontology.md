@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Flaw: I have to rethink reality and ontology'
+title: 'Flaw: I have to rethink Reality and Ontology'
 date: 2022-10-08
 categories: thought truth
-head_title: 'Flaw: I have to rethink reality and ontology'
-meta_description: 'Flaw: I have to rethink reality and ontology'
+head_title: 'Flaw: I have to rethink Reality and Ontology'
+meta_description: 'Flaw: I have to rethink Reality and Ontology'
 meta_keywords: philosophy
 ---
 
@@ -16,7 +16,7 @@ Coming back into my living room I take another, closer look at my fig tree. The 
 
 But obviously, I can recognize the dirt, leaves, and pot if I want to. These sub-components just don’t stand alone, but rather feel like a new layer put on top of the object, which I call a “tree”. I know the tree but I also recognize the dirt it is rooted in. And yes, I can reduce my experience even to the level of a single point of color, as I did before, but that again is just an experience without any knowledge if that is based on the senses or something else. My experience tells me that there isn’t a clear-cut hierarchy of objects starting from the sense-based simple impressions and going up to a whole world model. Consciousness feels more like a large web that I can enter at many points and travel along its edges freely. A hierarchy wouldn’t be the same because my direction of travel would be predefined. How did I come to that conclusion? I see the fig tree and have the experience of recognition, or in other words, an object of the mind forms. Now I focus on its pot and recognize that too, while still being aware of the initial object. I move along those relations between objects either to things that I classify as components of the tree or laterally to objects which resemble other trees. What I never do is cut it down to simple impressions and establish them as a foundation. That is not how consciousness is presenting the world to me.
 
-This sounds awfully identical to the Ontology I have defined before, but there is a substantial difference. The bottom-to-top hierarchy is gone and so are sense-based impressions. The only thing that exists is the recognition of complete objects of the mind and the relations between those. They don’t represent a recursive structure of ever simpler objects with impressions at the bottom. There is the tree represented as a whole and it connects to leaves and dirt. And also something else changed. Before I described Ontology as something I know in detail, but the opposite is actually true. I only see glimpses of that massive structure that is moving and evolving beyond my consciousness. Now, it is more akin to an iceberg. Most of it is hidden from my view.
+This sounds awfully identical to the ontology I have defined before, but there is a substantial difference. The bottom-to-top hierarchy is gone and so are sense-based impressions. The only thing that exists is the recognition of complete objects of the mind and the relations between those. They don’t represent a recursive structure of ever simpler objects with impressions at the bottom. There is the tree represented as a whole and it connects to leaves and dirt. And also something else changed. Before I described ontology as something I know in detail, but the opposite is actually true. I only see glimpses of that massive structure that is moving and evolving beyond my consciousness. Now, it is more akin to an iceberg. Most of it is hidden from my view.
 
 Now that I shed sense-based impressions I still say that there are those basic experiences like color, touch, feeling, and all the others. But what are they? They are those experiences that I can’t go beyond. There is for example pain and I can associate it with the word. I can even connect it to some of the most painful experiences I had in my life. But there is nothing within pain itself. On the other hand, I can go beyond the ficus and see the pot, dirt, and leaves. There is more to it, a higher level of complexity, more layers of recognition and knowing. Experiences of color, touch, and so on are simple and together they fill the space in my mind and make it vibrant and lively. For the sake of categorization, I would continue to call them impressions.
 
@@ -28,8 +28,10 @@ And that description is true not only for vision but for any other kind of impre
 
 What stays the same is my concept of relations, their strength, their source, and how they form more complex and abstract objects. Also, vivacity as an idea didn’t change. For now, these concepts still hold up but I will scrutinize them as I go on.
 
-So what has actually changed? At first glance, my definition of impressions, Ontology, and experience look the same, but the details are vastly different. There is no connection to the senses anymore. A priori knowledge of my biology isn’t needed. Even all those different realities I defined at the beginning are gone. There is just experience and the recognition of complexity. And even complexity has changed because the hierarchy from impressions to complex objects is gone. Objects are not recursive structures anymore, but complete units that relate to one another. Impressions on the other hand lost completely the state of an object of the mind except for the word that describes them. They are now properties or qualities of all those objects and they are the material in which recognition takes place.
+So what has actually changed? At first glance, my definition of impressions, ontology, and experience look the same, but the details are vastly different. There is no connection to the senses anymore. A priori knowledge of my biology isn’t needed. Even all those different realities I defined at the beginning are gone. There is just experience and the recognition of complexity. And even complexity has changed because the hierarchy from impressions to complex objects is gone. Objects are not recursive structures anymore, but complete units that relate to one another. Impressions on the other hand lost completely the state of an object of the mind except for the word that describes them. They are now properties or qualities of all those objects and they are the material in which recognition takes place.
 
 ## Read next
-* *Read first*: [Objects, relations, and how reality emerges]({% post_url reality-truth-and-the-good-life/2022-09-22-objects-relations-and-how-reality-emerges %})
-* [Experienced space and embodied extension]({% post_url reality-truth-and-the-good-life/2022-10-09-experienced-space-and-embodied-extension %})
+* Read first: [Objects, Relations, and how Reality emerges]({% post_url reality-truth-and-the-good-life/2022-09-22-objects-relations-and-how-reality-emerges %})
+* Next: [Experienced Space and embodied Extension]({% post_url reality-truth-and-the-good-life/2022-10-09-experienced-space-and-embodied-extension %})
+* Related:
+  * [Experience: Separation of Ontology and Impressions through Articulation]({% post_url reality-truth-and-the-good-life/2022-11-16-separation-ontology-impressions-through-articulation %})

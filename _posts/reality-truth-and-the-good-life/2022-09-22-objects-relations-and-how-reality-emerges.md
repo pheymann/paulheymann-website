@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Objects, relations, and how reality emerges'
+title: 'Objects, Relations, and how Reality emerges'
 date: 2022-09-22
 categories: thought truth
-head_title: 'Objects, relations, and how reality emerges'
-meta_description: 'Objects, relations, and how reality emerges'
+head_title: 'Objects, Relations, and how Reality emerges'
+meta_description: 'Objects, Relations, and how Reality emerges'
 meta_keywords: hume philosophy
 ---
 
@@ -26,11 +26,12 @@ Any of these three relation types can create complex objects from simple impress
 
 I will rather continue my investigation with a property of relationships I have not described in detail yet. That is, relations are not equal but differ in their *strength*. As I described before when I meet a new person it usually takes multiple encounters before I internalized their name. It seems my mind has a problem following the relation from the idea of that person to the word. When I compare that with people close to me, like my kids and wife, retrieving the name or any other information is fast and easy. What I start to realize is that the strength of all those relations of an object corresponds with its vivacity or liveliness. The stronger the connections the sharper the object in my mind. I can have an idea of any of my kids which represents them clearly from many perspectives in different scenarios together with all their mannerisms in behavior, speech, and so on. This idea is so detailed that it creates a virtual double I can interact with in my mind and which is not too far off sensed reality. It is alive. It has a high level of vivacity because it has those strong relations underlying it.
 
-To summarize my arguments up until now, Sensory Reality creates and feeds into a network of relations between objects that are at the most basic level representation of those very impressions I get from my senses. Maybe a different, better name I can attach to this structure is *Ontology* or Ontology of Sensory Reality. From it emerges Intelligent Reality with its models and virtual worlds but there is also some connection to Conscious Reality I can make out. The vivacity or liveliness of my objects is strongly influenced by their origin, be it impressions or imagination. What that creates is an ability within my conscious experience to draw a line between Sensory Reality, or just reality whatever that is in the end, and my imagination. I think liveliness also defines what is part of consciousness and what never reaches my experienced world and stays sub-conscious. The stream of impressions and ideas generated every moment is massive and therefore the number of models and their objects that get activated is unfathomably large too. But only a small subset or even just a single one of those objects grabs my attention and guides my focus and I assume it is the one with the highest vivacity.
+To summarize my arguments up until now, Sensory Reality creates and feeds into a network of relations between objects that are at the most basic level representation of those very impressions I get from my senses. Maybe a different, better name I can attach to this structure is *ontology* or ontology of Sensory Reality. From it emerges Intelligent Reality with its models and virtual worlds but there is also some connection to Conscious Reality I can make out. The vivacity or liveliness of my objects is strongly influenced by their origin, be it impressions or imagination. What that creates is an ability within my conscious experience to draw a line between Sensory Reality, or just reality whatever that is in the end, and my imagination. I think liveliness also defines what is part of consciousness and what never reaches my experienced world and stays sub-conscious. The stream of impressions and ideas generated every moment is massive and therefore the number of models and their objects that get activated is unfathomably large too. But only a small subset or even just a single one of those objects grabs my attention and guides my focus and I assume it is the one with the highest vivacity.
 
 Those months of work to compile these arguments left me with a stronger foundation for my different realities. My impressions still stay at the edge without an explanation of how they exactly come about but I have a better understanding of how intelligence emerges from that and how it informs consciousness. Now I have to flesh out the details and build up experienced reality from the bottom.
 
 ## Read next
-* *Read first*: [Reality, Truth and the Good Life]({% post_url reality-truth-and-the-good-life/2022-08-29-reality-truth-and-the-good-life %})
-* [Flaw: I have to rethink reality and Ontology]({% post_url reality-truth-and-the-good-life/2022-10-08-flaw-I-have-to-rethink-reality-and-ontology %})
-* [A Treatise of Human Nature by David Hume](https://www.gutenberg.org/ebooks/4705)
+* Read first: [Reality, Truth and the Good Life]({% post_url reality-truth-and-the-good-life/2022-08-29-reality-truth-and-the-good-life %})
+* Next: [Flaw: I have to rethink Reality and Ontology]({% post_url reality-truth-and-the-good-life/2022-10-08-flaw-I-have-to-rethink-reality-and-ontology %})
+* Related:
+  * [A Treatise of Human Nature by David Hume](https://www.gutenberg.org/ebooks/4705)
