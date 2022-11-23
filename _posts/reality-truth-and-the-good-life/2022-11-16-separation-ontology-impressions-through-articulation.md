@@ -29,6 +29,7 @@ To summarize, there are two types of experience: impressions and understanding. 
 
 ## Read next
 * Read first: {{ article_4 }}
+* Next: {{ article_7 }}
 * Related:
   * {{ article_2 }}
 

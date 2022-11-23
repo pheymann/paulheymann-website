@@ -11,4 +11,6 @@
 
 {% capture article_6 %}[Experience: Separation of Ontology and Impressions through Articulation]({% post_url reality-truth-and-the-good-life/2022-11-16-separation-ontology-impressions-through-articulation %}){% endcapture %}
 
+{% capture article_7 %}[Attention, Vivacity, and Continuity]({% post_url reality-truth-and-the-good-life/2022-11-23-attention-vivacity-continuity %}){% endcapture %}
+
 <!-- {% capture article_ %}{% endcapture %} -->
