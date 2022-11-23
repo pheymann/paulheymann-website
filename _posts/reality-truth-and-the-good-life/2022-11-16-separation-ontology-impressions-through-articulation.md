@@ -8,6 +8,8 @@ meta_description: 'Experience: Separation of Ontology and Impressions through Ar
 meta_keywords: philosophy
 ---
 
+{% include reality_series_article_links.md %}
+
 While I was working out some flaws in my initial description of ontology I tried to produce a definition of what impressions are. But after reading this section again it is obvious to me that I didn’t manage that task properly. I mixed up the experience of impressions with their representation as objects within ontology and through that missed to draw a clear line between those two spheres.
 
 There is an experience of intelligence and of recognition that I can best describe as objects of the mind. Looking at that distinct unit of blackness, with its hard edges, and cold touch, it makes itself known to me as my phone. A single unit of understanding. I also experience the transition to other objects. I can think about the phone calls I still have to do or the messages from other people I just read. I can travel between objects with more or less ease and sometimes it isn’t even me who is doing the active traveling. I just get pulled along by some force yet unknown to me. All this is to say: Relations between those objects exist. And from that observation, I constructed the idea of an ontology. It doesn’t exist in a real sense as something I can point to and say: See, that is ontology. But it is a good enough concept to describe my experience of understanding and thinking. 
@@ -26,9 +28,9 @@ But it seems I am capable of an even bigger feat: I can enact ontology itself. N
 To summarize, there are two types of experience: impressions and understanding. The latter is born out of the former but they are still separate spheres. And with that, the mystery of experience also became a bit more detailed.
 
 ## Read next
-* Read first: [Flaw: I have to rethink reality and Ontology]({% post_url reality-truth-and-the-good-life/2022-10-08-flaw-I-have-to-rethink-reality-and-ontology %})
+* Read first: {{ article_4 }}
 * Related:
-  * [What is "me"?]({% post_url reality-truth-and-the-good-life/2022-08-29-what-is-me %})
+  * {{ article_2 }}
 
 ## Appendix
 ### A1 - A thought experiment

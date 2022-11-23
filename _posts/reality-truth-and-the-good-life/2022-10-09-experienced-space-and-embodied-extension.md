@@ -8,6 +8,8 @@ meta_description: 'Experienced Space and embodied Extension'
 meta_keywords: philosophy
 ---
 
+{% include reality_series_article_links.md %}
+
 After re-establishing what ontology is and how I approach this thought experiment I now turn to the experience of space. All those connections between objects not only seem to reflect proximity or sameness but also imply a topology. When I take in the scene in front of me I see again my monitor. But that is not all. I am also aware of left, right, up, and down. Even depth and extension exist. The space of experience in my mind is not only filled with colors and lights but also three-dimensionality. But how?
 
 I could just assume that there is already an experience of three dimensions that enters my consciousness and be done with it. But I find that of little satisfaction, mostly because it is so easy to trick my perception. Something can be perfectly flat and I still believe it has depth (A1). On the other hand, it seems to me that the experience of two dimensions is the boundary I cannot cross. At least, I never heard of someone experiencing a single dimension, nor did I have that experience myself. What all this means is, that I have to assume an a priori two-dimensional coordinate system within my visual impressions.
@@ -35,11 +37,11 @@ What isn’t clear to me yet is how movement or more broadly acting in the world
 Ending this section, I will conclude that space emerges from ontology in combination with a two-dimensional topology that is inherent to my visual impressions. To be more precise, depth exists in the combination of the vivacity of an object and the collage of different perspectives of it. Out of that, I get space as a topological structure that comes to be because my own bodily extension acts as the origin point for a three-dimensional coordinate system. Through acting in this world I discover and update the location of all those objects surrounding me. How fundamental my other impressions’ contribution to the experience of space is I am not able to discern, but I believe that they are not required to generate depth, extension, and space. They are aligned with it and even support it, but space is the consequence of action and vision. I could get rid of touch and any other sensation besides vision and would still be able to understand the scale and position of any object.
 
 ## Read next
-* Read first: [Flaw: I have to rethink Reality and Ontology]({% post_url reality-truth-and-the-good-life/2022-10-08-flaw-I-have-to-rethink-reality-and-ontology %})
-* Next: [Experience: Separation of Ontology and Impressions through Articulation]({% post_url reality-truth-and-the-good-life/2022-11-16-separation-ontology-impressions-through-articulation %})
+* Read first: {{ article_4}}
+* Next: {{ article_6 }}
 * Related:
+  * {{ article_2 }}
   * To see and not to see: The New Yorker - May 10th 1993
-  * [What is "me"?]({% post_url reality-truth-and-the-good-life/2022-08-29-what-is-me%})
 
 ## Appendix
 ### A1 - Optical illusions of three-dimensionality

@@ -8,6 +8,8 @@ meta_description: 'Objects, Relations, and how Reality emerges'
 meta_keywords: hume philosophy
 ---
 
+{% include reality_series_article_links.md %}
+
 I left off my last thought with a separation of reality into different layers without any detail on how those layers come about. But I believe it is necessary to understand the underlying structure as much as possible because that allows me to shine a light on concepts like thought, memory, how my internal reality is constructed, and finally what kind of truths may exist in it. Besides that, I find it a profoundly interesting topic. 
 
 Looking into my living room I see a large, white radiator with two windows placed above it. Left and right of that radiator stand two small trees and three plants sitting on the window sills. I experience a cloud of separate objects forming a larger, interconnected scene. I am also able to attach names to them and experience a feeling of familiarity, of knowing. I can even distinguish their components and name them properly. The fig tree on the left has leaves, and branches, and stands in a pot full of dirt. But then again, a leaf itself corresponds to cells and the concept of air and photosynthesis. It seems I can decompose this scene in front of me into smaller and small parts no matter where I look. But there is more. Looking at the ficus I am also able to remember it as the small tree it was at the beginning and I can visualize other similar trees I have seen before. On my command, I can expand my experience to a wide array of other objects that are somehow related to the one thing in my focus. And what that suggests, to me, is what Hume already discovered some 300 years ago: My impressions form objects of the mind which themselves connect to a wider network.
@@ -31,7 +33,7 @@ To summarize my arguments up until now, Sensory Reality creates and feeds into a
 Those months of work to compile these arguments left me with a stronger foundation for my different realities. My impressions still stay at the edge without an explanation of how they exactly come about but I have a better understanding of how intelligence emerges from that and how it informs consciousness. Now I have to flesh out the details and build up experienced reality from the bottom.
 
 ## Read next
-* Read first: [Reality, Truth and the Good Life]({% post_url reality-truth-and-the-good-life/2022-08-29-reality-truth-and-the-good-life %})
-* Next: [Flaw: I have to rethink Reality and Ontology]({% post_url reality-truth-and-the-good-life/2022-10-08-flaw-I-have-to-rethink-reality-and-ontology %})
+* Read first: {{ article_1 }}
+* Next: {{ article_4 }}
 * Related:
   * [A Treatise of Human Nature by David Hume](https://www.gutenberg.org/ebooks/4705)

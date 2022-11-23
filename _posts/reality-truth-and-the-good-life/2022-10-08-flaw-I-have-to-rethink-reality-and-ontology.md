@@ -8,6 +8,8 @@ meta_description: 'Flaw: I have to rethink Reality and Ontology'
 meta_keywords: philosophy
 ---
 
+{% include reality_series_article_links.md %}
+
 While I was finishing my article on the experience of space I noticed something in my reasoning that just felt wrong but at that moment I couldn’t really pinpoint it. At that time, I tried to establish simple sensory impressions as the most basic building blocks from which all my other objects of the mind emerge. In my head, all those objects didn’t exist for themselves but were just the mere product of a complicated network of sensory inputs. I even looked up how the eye, or more specifically cone and rug cells, capture visual information and forward those into the brain. And here it hit me: I was knee-deep into empirical observations of the human anatomy and far away from pure experience. But the premise I established in my first article is that I will try to reconstruct reality from the single truth I discovered so far: I experience.
 
 What I did was establish facts about biology and let that information influence my reasoning beyond what I could actually prove to myself. And I already started doing that within my first article by separating reality into different modes: true, sensory, intelligent, and conscious. But within my world of experience, I can’t tell if there is something like sense information and on top of that intelligent models. Consciousness is the only thing that truly exists. That means at the basis of my reasoning is a flaw I have to eradicate before I move on, otherwise, I see myself constructing castles in the sky that fall apart when the first wind blows.
@@ -31,7 +33,7 @@ What stays the same is my concept of relations, their strength, their source, an
 So what has actually changed? At first glance, my definition of impressions, ontology, and experience look the same, but the details are vastly different. There is no connection to the senses anymore. A priori knowledge of my biology isn’t needed. Even all those different realities I defined at the beginning are gone. There is just experience and the recognition of complexity. And even complexity has changed because the hierarchy from impressions to complex objects is gone. Objects are not recursive structures anymore, but complete units that relate to one another. Impressions on the other hand lost completely the state of an object of the mind except for the word that describes them. They are now properties or qualities of all those objects and they are the material in which recognition takes place.
 
 ## Read next
-* Read first: [Objects, Relations, and how Reality emerges]({% post_url reality-truth-and-the-good-life/2022-09-22-objects-relations-and-how-reality-emerges %})
-* Next: [Experienced Space and embodied Extension]({% post_url reality-truth-and-the-good-life/2022-10-09-experienced-space-and-embodied-extension %})
+* Read first: {{ article_3 }}
+* Next: {{ article_5 }}
 * Related:
-  * [Experience: Separation of Ontology and Impressions through Articulation]({% post_url reality-truth-and-the-good-life/2022-11-16-separation-ontology-impressions-through-articulation %})
+  * {{ article_6 }}

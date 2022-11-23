@@ -8,6 +8,8 @@ meta_description: Reality, Truth, and the Good Life
 meta_keywords: plato socrates hume philosophy truth life
 ---
 
+{% include reality_series_article_links.md %}
+
 What does it mean to live a good and fulfilling life? For the largest part of mine, I was completely ignorant of that question. I was pulled along a path I didn’t choose by forces I didn’t understand. I set money and titles as the central goals and believed that with the next achievement I would be happy and free of any worries. I was dedicated and driven. When everyone else went to parties in university I continued studying. When everyone went home after work and had a social life I continued working. And it paid off. I collected academic titles and earned increasingly more money. But nothing actually changed. Everything was just a new baseline and I was still not happy or free. Not even the birth of my first child changed that. It made it even worse because new worries were added on top of the old ones. After years along this bitter path finally, my mind rebelled and collapsed. Chaos encompassed me all of a sudden and from one day to the next there was nothing left for me but debilitating anxiety. 
 
 During that time of chaos, I enamored myself with discipline and a patchwork of principles that let me wage war against myself, against my mind and body, to extinguish the dragon within me. They were the weapons and armor I used to finally gain victory. But luckily war was eventually over and these tools I choose reached the end of their usefulness. I could not go back to the principles I followed before. I realized that I was driven by a deeply ingrained lack of self-esteem which made me worry, fear, and reach for external validation. But I also intimately knew that none of the paths I had chosen before was right for me and so I had to face the question: What actually makes a good life?
@@ -35,8 +37,8 @@ But I am blind. There is already a truth right under my nose. I know that I expe
 What I am left with so far is an abyss between true reality and me and a single truth. How can I recover true good, happiness, and beauty from that? I don’t know for now, but optimistically I go on and try to figure out what reality is. Not with a purely scientific view of the world but an experience-based one.
 
 ## Read next
-* Next: [Objects, Relations, and how Reality emerges]({% post_url reality-truth-and-the-good-life/2022-09-22-objects-relations-and-how-reality-emerges %})
+* Next: {{ article_3 }}
 * Related:
-  * [What is "me"?]({% post_url reality-truth-and-the-good-life/2022-08-29-what-is-me %})
+  * {{ article_2 }}
   * [Wisdom is not a virtue, Socrates]({% post_url 2022-08-02-wisdom-is-a-virtue-socrates %})
   * [The Republic by Plato](https://www.gutenberg.org/ebooks/1497)
