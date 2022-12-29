@@ -1,27 +1,27 @@
 ---
 layout: post
-title: Walking on the edge of chaos
+title: Chaos
 date:   2022-05-10
 categories: thought
-head_title: Walking on the edge of chaos
-meta_description: Walking on the edge of chaos
+head_title: Chaos
+meta_description: Chaos
 meta_keywords: chaos,uncertainty,philosophy
 ---
 
-Chaos is where my inner world stops to exists. It is where I have to lift the fog and discover truth, boundless joy and endless suffering.
+Chaos is where our inner world stops existing. It is truth not yet uncovered. 
 
-Chaos is where I learn what it means to be human.
+Chaos is an endless source of joy and boundless suffering.
 
-Most of us shy away from that edge between the known and unknown. Some even pretend that it doesn’t exist. Only a few of us venture on, walk the line, make the leap and immerse themselves into what isn’t yet.
+Chaos is where we learn what it means to be human. Most of us shy away from that ledge between the known and unknown, some even pretend that it doesn’t exist. Few of us venture on, do not hesitate, and walk that line. They make the leap and immerse themselves in what isn’t yet.
 
-Venturer, they push themselves beyond their inner world. They push their bodies beyond what it has done before. They push their understanding into the unknown. Learn for the rest of us, venturer, and be brave.
+Venturers, they push themselves beyond their inner world. They push their bodies beyond what it has done before, beyond what any other human has done before. They push their understanding into the unknown, learn about themselves, and may even return.
 
-Some of us get sucked into Chaos. No choice. Charybdis is thrashing, gripping, pulling us into the abyss. Severing us mentally, physically beyond recognition. Maybe we get hold of the edge. Just one finger. Hold on to it. Get back to the edge of Chaos. Tell us what you have seen. Render Chaos to Order.
+But sometimes Charybdis is gripping and pulling them into the abyss severing them mentally, and physically beyond recognition. Maybe they get hold of the ledge with just one finger. Hold on to it. Fight and get back to the edge of chaos. Tell us what you have seen. Render chaos to order.
 
-Some of us get lost. Disappearing and do not return.
+Some get lost forever.
 
-It is those who venture, it is those who suffer, that walk the edge of Chaos and bring order. Embrace them. Pity them. Learn from them. Learn for yourself. Make yourself uncomfortable. What is next? You don’t know. And in that process, find joy, suffering and a more complete image of yourself.
+It is those who venture and suffer that walk the edge of chaos. Embrace them. Pity them. Learn from them. Learn for yourself. Make yourself uncomfortable and find joy and a more complete image of yourself in that process.
 
-Learn from others who made the leap. Suffer with those who had no choice. Read their stories. They learned for you. Take their order and make it yours.
+And never fall behind. Do not stay where you name all things. Chaos doesn’t stop, it will come for you. We push on, go forward, and leap, but for that, we have to sacrifice what we have discovered before. Truths become lies, not valuable anymore. Stay and chaos will move its ledge towards you, beyond you and you will be caught by Charybdis.
 
-Do not fall behind. Do not stay where it is known. Chaos doesn’t stop, it will come around. We push on, go forward, leap, but for that we have to sacrifice what we have discovered before. Truths become lies, not valuable anymore. Stay and Chaos will move its edge towards you, beyond you and you will be caught by Charybdis.
+Move on, venture on. Become and stay human.
