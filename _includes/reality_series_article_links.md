@@ -13,4 +13,6 @@
 
 {% capture article_7 %}[Attention, Vivacity, and Continuity]({% post_url reality-truth-and-the-good-life/2022-11-23-attention-vivacity-continuity %}){% endcapture %}
 
+{% capture article_8 %}[Thought and self]({% post_url reality-truth-and-the-good-life/2023-01-03-thought-and-self %}){% endcapture %}
+
 <!-- {% capture article_ %}{% endcapture %} -->

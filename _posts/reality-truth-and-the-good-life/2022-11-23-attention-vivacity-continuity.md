@@ -30,6 +30,7 @@ Coming to an end, what have I learned so far? There are two parts to my mind, th
 
 ## Read next
 * Read first: {{ article_5 }}
+* Next: {{ article_8 }}
 * Related:
 	* {{ article_3 }}
 	* {{ article_2 }}
