@@ -29,7 +29,8 @@ And of course, there are many more changes to my impressions besides what is at 
 Coming to an end, what have I learned so far? There are two parts to my mind, the conscious and the unconscious, and whatever is “me” is only inhabiting consciousness. It is the place that is my inner world where I experience, everything outside is beyond me. Sometimes even “me” is beyond that dividing line that is defined by attention. Wherever attention goes life ensues, creating objects, and binding them. It is this place where ontology emerges but it is a mystery for now who or what is controlling this inner eye. Sometimes it seems to be under the spell of my will, other times, I am left out or just follow along. And there is another mystery: the world attention creates is continuous but why?
 
 ## Read next
-* Read first: {{ article_5 }}
+* {{ article_index }}
+* Previous: {{ article_5 }}
 * Next: {{ article_8 }}
 * Related:
 	* {{ article_3 }}

@@ -33,7 +33,8 @@ What stays the same is my concept of relations, their strength, their source, an
 So what has actually changed? At first glance, my definition of impressions, ontology, and experience look the same, but the details are vastly different. There is no connection to the senses anymore. A priori knowledge of my biology isn’t needed. Even all those different realities I defined at the beginning are gone. There is just experience and the recognition of complexity. And even complexity has changed because the hierarchy from impressions to complex objects is gone. Objects are not recursive structures anymore, but complete units that relate to one another. Impressions on the other hand lost completely the state of an object of the mind except for the word that describes them. They are now properties or qualities of all those objects and they are the material in which recognition takes place.
 
 ## Read next
-* Read first: {{ article_3 }}
+* {{ article_index }}
+* Previous: {{ article_3 }}
 * Next: {{ article_5 }}
 * Related:
   * {{ article_6 }}

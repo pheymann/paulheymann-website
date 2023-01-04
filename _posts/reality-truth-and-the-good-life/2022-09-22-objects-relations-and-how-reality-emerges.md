@@ -33,7 +33,8 @@ To summarize my arguments up until now, Sensory Reality creates and feeds into a
 Those months of work to compile these arguments left me with a stronger foundation for my different realities. My impressions still stay at the edge without an explanation of how they exactly come about but I have a better understanding of how intelligence emerges from that and how it informs consciousness. Now I have to flesh out the details and build up experienced reality from the bottom.
 
 ## Read next
-* Read first: {{ article_1 }}
+* {{ article_index }}
+* Previous: {{ article_1 }}
 * Next: {{ article_4 }}
 * Related:
   * [A Treatise of Human Nature by David Hume](https://www.gutenberg.org/ebooks/4705)

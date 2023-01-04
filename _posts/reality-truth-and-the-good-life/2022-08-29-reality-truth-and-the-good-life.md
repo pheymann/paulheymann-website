@@ -38,6 +38,7 @@ What I am left with so far is an abyss between true reality and me and a single 
 t? I don’t know for now, but optimistically I go on and try to figure out what reality is. Not with a purely scientific view of the world but an experience-based one.
 
 ## Read next
+* {{ article_index }}
 * Next: {{ article_3 }}
 * Related:
   * {{ article_2 }}

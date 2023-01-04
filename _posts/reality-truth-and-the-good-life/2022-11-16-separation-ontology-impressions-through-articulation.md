@@ -28,7 +28,8 @@ But it seems I am capable of an even bigger feat: I can enact ontology itself. N
 To summarize, there are two types of experience: impressions and understanding. The latter is born out of the former but they are still separate spheres. And with that, the mystery of experience also became a bit more detailed.
 
 ## Read next
-* Read first: {{ article_4 }}
+* {{ article_index }}
+* Previous: {{ article_4 }}
 * Next: {{ article_7 }}
 * Related:
   * {{ article_2 }}

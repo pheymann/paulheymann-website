@@ -37,7 +37,8 @@ What isn’t clear to me yet is how movement or more broadly acting in the world
 Ending this section, I will conclude that space emerges from ontology in combination with a two-dimensional topology that is inherent to my visual impressions. To be more precise, depth exists in the combination of the vivacity of an object and the collage of different perspectives of it. Out of that, I get space as a topological structure that comes to be because my own bodily extension acts as the origin point for a three-dimensional coordinate system. Through acting in this world I discover and update the location of all those objects surrounding me. How fundamental my other impressions’ contribution to the experience of space is I am not able to discern, but I believe that they are not required to generate depth, extension, and space. They are aligned with it and even support it, but space is the consequence of action and vision. I could get rid of touch and any other sensation besides vision and would still be able to understand the scale and position of any object.
 
 ## Read next
-* Read first: {{ article_4}}
+* {{ article_index }}
+* Previous: {{ article_4}}
 * Next: {{ article_6 }}
 * Related:
   * {{ article_2 }}

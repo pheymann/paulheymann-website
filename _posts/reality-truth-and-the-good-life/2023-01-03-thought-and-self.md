@@ -35,6 +35,7 @@ More generally speaking, it seems to me that “I” and “me” come into bein
 But doesn’t that mean that “I” can only exist as an agent when there is a struggle, challenge, and danger? Or to put it in other words: to become self-aware don’t I have to enter the unknown, leave ontology behind, plunge into my impressions and try to follow the path untrodden? It seems that way, but there is an issue at the core of this statement: who is making that decision to venture on? Where is that motivation coming from? I have concluded that agency is an experience that emerges out of a struggle for attention and nothing more. There is no decision to make because the decision is already done. There is no opinion to form because the result gets presented to me. What does this realization do to agency? So far I don’t have a good or simple answer. I only have a more profound appreciation for experience itself, especially for those short glimpses of self-awareness.
 
 ## Read next
-* Read first: {{ article_7 }}
+* {{ article_index }}
+* Previous: {{ article_7 }}
 * Related:
   * {{ article_2 }}
