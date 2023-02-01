@@ -1,5 +1,5 @@
 
-{% capture article_index %}[Essay series index](/articles/reality-truth-good-life.html){% endcapture %}
+{% capture article_index %}[Essay series index](/articles/meditations-on-the-mind.html){% endcapture %}
 
 {% capture article_1 %}[Reality, Truth, and the Good Life]({% post_url /reality-truth-and-the-good-life/2022-08-29-reality-truth-and-the-good-life %}){% endcapture %}
 
