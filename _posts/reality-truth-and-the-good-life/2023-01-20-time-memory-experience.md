@@ -37,6 +37,7 @@ A moment is that singular state of all my impressions. It is a virtual unit that
 ## Read next
 * {{ article_index }}
 * Previous: {{ article_8 }}
+* Next: {{ article_10 }}
 * Related:
   * {{ article_2 }}
   * {{ article_5 }}
