@@ -17,8 +17,8 @@
 
 {% capture article_8 %}[Thought and self]({% post_url reality-truth-and-the-good-life/2023-01-03-thought-and-self %}){% endcapture %}
 
-{% capture article_9 %}[Time, Memory, and Experience]({% post_url reality-truth-and-the-good-life/2023-01-20-time-memory-experience %}){% endcapture %}
+{% capture article_9 %}[Time]({% post_url reality-truth-and-the-good-life/2023-01-20-time-memory-experience %}){% endcapture %}
 
-{% capture article_10 %}[Memory, Thought, and Time]({% post_url reality-truth-and-the-good-life/2023-02-01-memory-thought-and-time %}){% endcapture %}
+{% capture article_10 %}[Memory]({% post_url reality-truth-and-the-good-life/2023-02-01-memory-thought-and-time %}){% endcapture %}
 
 <!-- {% capture article_ %}{% endcapture %} -->
