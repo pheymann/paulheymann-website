@@ -28,6 +28,13 @@ So, am I only left with the power to accept? I accept that answer. I accept that
 
 And with that, I come to the bitter conclusion that I do not force my mind back into the struggle of complicated thought. No. This inner voice - yet another dream - pierces through and pronounces that I shall return to the struggle. Why? Because there is a profound feeling accompanying this command. A feeling of necessity that is controlling the light of attention. And so I write these essays not because I want to but because I have to.
 
+## Read next
+* {{ article_index }}
+* Previous: {{ article_7 }}
+* Next: {{ article_9 }}
+* Related:
+  * {{ article_2 }}
+
 ## Appendix
 ### A1 - What happens to “I”?
  “I” and “me” come into being exactly when there is resistance and struggle. When a world doesn’t know how to proceed. At that very moment, my mind expands, and many thoughts race through ontology, in the hope of discovering a new path. There is a feeling of broadness, a holistic whole from which “I” emerge.
@@ -35,10 +42,3 @@ And with that, I come to the bitter conclusion that I do not force my mind back 
 While walking the known path “I” recede only to return when faced with novelty. “I” return and become aware of all the impressions and recognition that are rushing into my mind. A decision needs to be made and I just experience it from an all-encompassing point of view. “Me” therefore is the confluence of a neverending stream of worlds and the observation that a single one survives. Where there are too many thoughts resistance builds up and “I” appear. This is in stark contrast to a state of flow, a place in consciousness where there is no “me” but only pure experience. Everything feels right and time, space, and identity disappear.
 
 But doesn’t that mean that “I” can only exist as an agent when there is a struggle, challenge, and danger? To become self-aware I have to enter the unknown and try to follow the path untrodden. But who is deciding to venture on? Where is that motivation coming from? I have concluded that agency is an experience that emerges out of a struggle for attention. There is no decision to make because the decision is already done. There is no opinion to form because the result gets presented to me. What does that to agency?
-
-## Read next
-* {{ article_index }}
-* Previous: {{ article_7 }}
-* Next: {{ article_9 }}
-* Related:
-  * {{ article_2 }}
