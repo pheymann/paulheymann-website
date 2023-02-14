@@ -20,7 +20,7 @@ There is also no change without experience. Only nothingness, a dreamless night,
 
 To have experience requires remembrance. Without memory, this instance would be forever immediately replaced by another infinity. But I am granted a past. Like an archive, I have access to my colorful and long history deep down to the moment when remembering was first established and change found its foundation.
 
-Experience builds upon memory and time is progression. Every stream is its own complete universe. A massive river of different torrents, a cacophony of time. And then there is that outside force requiring a unified direction and imparting entropy. We dream of traveling through time like a ship on the ocean, only to recognize that it stays a dream. We delegate it to stories and fiction never to materialize in the “real” world because that moves on harshly and unforgivingly.
+Experience builds upon that memory and time is its progression. Every stream is its own complete universe. A massive river of different torrents, a cacophony of time. And then there is that outside force requiring a unified direction and imparting entropy. We dream of traveling through time like a ship on the ocean, only to recognize that it stays a dream. We delegate it to stories and fiction never to materialize in the “real” world because that moves on harshly and unforgivingly.
 
 Time intricately links all my worlds and brings uniqueness to the flow of conscious experience. It is a black hole that consumes all of now and makes place for the next. Rome is not coming back and nor is the last day gone. All those conscious states went beyond the event horizon. And so time also consumes my own share.
 
