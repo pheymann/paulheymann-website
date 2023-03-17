@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/index.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
 
     {%- if page.head_title -%}
       <title>{{ page.head_title }}</title>
@@ -36,16 +35,6 @@
       You can find the code for this website on <a href="https://github.com/pheymann/paulheymann-website">Github</a>
     </footer>
 
-    <script>
-      (function() {
-        window.counter = 'https://paulheymann.goatcounter.com/count'
-    
-        var script = document.createElement('script');
-        script.async = 1;
-        script.src = '//gc.zgo.at/count.js';
-        var ins = document.getElementsByTagName('script')[0];
-        ins.parentNode.insertBefore(script, ins)
-      })();
-    </script>
+    <script defer data-domain="paulheymann.de" src="https://plausible.io/js/script.js"></script>
   </body>
 </html>
