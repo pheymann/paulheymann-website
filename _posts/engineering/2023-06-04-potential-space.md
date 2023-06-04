@@ -67,3 +67,6 @@ Something else to keep in mind is that a team usually faces several problems at 
 To keep this text somewhat focussed I will stop here, for now, and summarize. When forming a team or when starting a new project what you do is enter a new terrain with many potential paths towards a goal that isn’t yet clearly defined. What you therefore do is make your way through a potential space. When you first start all is chaotic and new, but over time your transition into a phase where you get to know your colleagues and the terrain you are on. Finally, after a lot of back and forth, you made it. Not to your destination but into your journey.
 
 Do you think that makes sense? Does this mental framework bring something new to the table? Let me know.
+
+## Read on
+* [Leadership and Management]({% post_url engineering/2023-06-04-leadership-and-management %})
