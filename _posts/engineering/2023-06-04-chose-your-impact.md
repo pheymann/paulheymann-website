@@ -62,3 +62,6 @@ In this whole text, I always talk about human-to-human impact but of course, you
 Or you care deeply about technical problems and you want to see more or a different impact on the system you work with. Of course *Who* becomes *What* in this context but in general it holds true.
 
 Another thing I noticed, which is probably obvious to most people, is a set of correlations between those dimensions. Whom you impact and the directness of it goes in opposite directions. For example, the higher you go in a corporate hierarchy the less you interact with daily operations, the thing that produces that real-world impact. The opposite correlation seems true for degree and directness. The closer I or my work is to another person chances are I have the highest degree of impact that is possible for the work I do. Reality of course provides strange exceptions to any rule, but in general, those correlations seem to hold true.
+
+## Read on
+* [Solving Problems in Potential Space]({% post_url engineering/2023-06-04-potential-space %})
