@@ -10,18 +10,18 @@ layout: "basic"
   <ul>
     <li><a href="{{ site.baseurl }}/articles/meditations-on-the-mind">Essay series: Meditations on the Mind</a></li>
     <li><a href="{{ site.baseurl }}/articles/thoughts">Thoughts: Poems, essays, and more or less original ideas</a></li>
+    <li><a href="{{ site.baseurl }}/articles/engineering">Software engineering and management</a></li>
     <li><a href="{{ site.baseurl }}/articles/spivak-calculus">Solutions for Spivak's book: Calculus</a></li>
   </ul>
 
-  {% assign thought_posts = site.posts | where_exp:"post","post.categories contains 'thought'" %}
   <div class="row">
     <div class="col-12 post">
-      <a class="title" href="{{ thought_posts.first.url | relative_url }}">
-        Latest thought: {{ thought_posts.first.title }}
+      <a class="title" href="{{ site.posts.first.url | relative_url }}">
+        Latest thought: {{ site.posts.first.title }}
       </a>
 
       <div>
-        {{ thought_posts.first.content }}
+        {{ site.posts.first.content }}
       </div>
     </div>
   </div>

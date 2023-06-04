@@ -7,15 +7,14 @@ this is the website of Paul Heymann. If you are interested in some of my writing
 
 You are looking for a Software Engineer and think we could be a match? Feel free to contact me on <a href="https://www.linkedin.com/in/paul-h-6b4a53144">LinkedIn</a>. My [cv](/cv.pdf) is also available on this site.
 
-{% assign thought_posts = site.posts | where_exp:"post","post.categories contains 'thought'" %}
 <div class="row">
   <div class="col-12 post">
-    <h2>Latest article: {{ thought_posts.first.title }}</h2>
+    <h2>Latest article: {{ site.posts.first.title }}</h2>
 
-    <a class="title" href="{{ thought_posts.first.url | relative_url }}">Find it here</a>
+    <a class="title" href="{{ site.posts.first.url | relative_url }}">Find it here</a>
 
     <div>
-      {{ thought_posts.first.content }}
+      {{ site.posts.first.content }}
     </div>
   </div>
 </div>
