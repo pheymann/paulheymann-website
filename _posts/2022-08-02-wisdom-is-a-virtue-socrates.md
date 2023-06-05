@@ -20,11 +20,11 @@ No matter where we look with our eyes and minds, the truth we uncover is subject
 
 But what to make out of wisdom as virtue, then? Discard it wholesale and leave nothing behind? No. What should guide our courage and our dealings with other people if not that subject truth? We need a map to navigate our lives. Therefore, what we need is a more fundamental virtue that creates that map and keeps it true. We need the Seek. A relentless search for more human experiences, to know more about what it means to be human and what our reality is. Combined with courage, men and women will venture towards new truths. They will take on the suffering accompanied with shedding of one’s own beliefs in pursuit of a more accurate understanding of human experience and reality. They will also accept the pain of showing others this new path, redirecting the current of people’s beliefs towards truths which often come with struggle and resistance.
 
-We will suffer, but now, like Sisyphus, knowing that we have to persevere in our unending work in the search for a deeper subject truth. We will know that once we reach the top all starts over again. We will fuel our courage with fear of ignorance, idols and absolutes and the happiness that comes with new revelations. 
+We will suffer, but now, like Sisyphus, knowing that we have to persevere in our unending work in the search for a deeper subject truth. We will know that once we reach the top all starts over again. We will fuel our courage with fear of ignorance, idols and absolutes and the happiness that comes with new revelations.
 
-That, my ancient friend, is what we have to ingrain into people: a pursuit of subjective truth. The courage to venture into chaos and the moderation to accept that it is not absolute what we will discover. 
+That, my ancient friend, is what we have to ingrain into people: a pursuit of subjective truth. The courage to venture into chaos and the moderation to accept that it is not absolute what we will discover.
 
 And to stay true to this rejection, I await the moment when even this truth becomes false and is replaced by something else.
 
 ## Read next
-* [Poem: Walking on the edge of Chaos]({% post_url 2022-05-10-walking-on-the-edge-of-chaos %})
+* [Chaos]({% post_url 2022-05-10-walking-on-the-edge-of-chaos %})
