@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Potential Space as Mental Model
+title: Potential Space as another Mental Model
 date:   2023-06-04
 categories: engineering
-head_title: Potential Space as Mental Model
-meta_description: Potential Space as Mental Model - Uncertainty in tech organizations.
+head_title: Potential Space as another Mental Model
+meta_description: Potential Space as another Mental Model - Uncertainty in tech organizations.
 meta_keywords: software,engineering,project,team,management
 ---
 
