@@ -48,7 +48,7 @@ A similar situation exists for most managers. You have a larger scope and degree
 The question you can ask yourself is: how much do you care about experiencing the impact you have?
 
 ## Your journey through the impact space
-Those are the dimensions I was able to identify. Maybe you see more. Let me know<email>. In the meantime, it can be an interesting exercise to map out a path in this three-dimensional space. Check where you are right now. Where were you before? And where would you like to be if you would be honest with yourself?
+Those are the dimensions I was able to identify. Maybe you see more. Let me [know](/imprint.html). In the meantime, it can be an interesting exercise to map out a path in this three-dimensional space. Check where you are right now. Where were you before? And where would you like to be if you would be honest with yourself?
 
 ![watercolor drawing: impact space](/assets/img/impact_space.jpg)
 
@@ -64,4 +64,4 @@ Or you care deeply about technical problems and you want to see more or a differ
 Another thing I noticed, which is probably obvious to most people, is a set of correlations between those dimensions. Whom you impact and the directness of it goes in opposite directions. For example, the higher you go in a corporate hierarchy the less you interact with daily operations, the thing that produces that real-world impact. The opposite correlation seems true for degree and directness. The closer I or my work is to another person chances are I have the highest degree of impact that is possible for the work I do. Reality of course provides strange exceptions to any rule, but in general, those correlations seem to hold true.
 
 ## Read on
-* [Solving Problems in Potential Space]({% post_url engineering/2023-06-04-potential-space %})
+* [Potential Space as Mental Model]({% post_url engineering/2023-06-04-potential-space %})

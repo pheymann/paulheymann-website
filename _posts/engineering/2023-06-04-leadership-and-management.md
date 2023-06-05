@@ -23,17 +23,17 @@ Both already give good hints at what those responsibilities are.
 ## Leadership
 To lead people means to aim at a goal in potential space and to map out a path. The more common terminology would be setting the vision and strategy of a group or organization. Some key responsibilities:
 
-	* Understand the problem and solution space.
-	* Defining the goal within that space.
-	* Making sure the group stays aimed at the goal.
-	* Constantly reevaluating potential space and the goal.
+* Understand the problem and solution space.
+* Defining the goal within that space.
+* Making sure the group stays aimed at the goal.
+* Constantly reevaluating potential space and the goal.
 
 ## Management
 Management on the other hand is concerned with the operational side of things. A leader sets the goal. A manager makes sure the group is reaching it. That means they take care of the following:
 
-	* Establishing processes to develop and deliver, meaning, the group is moving toward the goal.
-	* Defining and transforming the group itself.
-	* Enabling and unblocking members of the group.
+* Establishing processes to develop and deliver, meaning, the group is moving toward the goal.
+* Defining and transforming the group itself.
+* Enabling and unblocking members of the group.
 
 ## Overlap
 
@@ -66,11 +66,11 @@ I think there is also some correlation between the company size and the number o
 
 ![watercolor drawing: graph showing correlation between size of an org and the degree of sub-division.](/assets/img/l_m_size.jpg)
 
-When you start a company everyone is probably doing everything and there is no clear distinction. But over time and with the growth of the organization, more and more specialization is taking place. That seems rather obvious. What is not clear to me is if the correlation stops shortly after the initial growth. I have seen small to midsized companies with complicated divisions and larger organizations with simpler setups. But maybe, when looking at enough companies a pattern starts to emerge. Let me know what your experiences are.
+When you start a company everyone is probably doing everything and there is no clear distinction. But over time and with the growth of the organization, more and more specialization is taking place. That seems rather obvious. What is not clear to me is if the correlation stops shortly after the initial growth. I have seen small to midsized companies with complicated divisions and larger organizations with simpler setups. But maybe, when looking at enough companies a pattern starts to emerge. Let me [know](/imprint.html) what your experiences are.
 
 To bring this text to an end, leadership and management are two integral roles within a group that fulfill different needs. One sets the course while the other makes sure we reach the goal and failing to identify what the team needs can put it or the project at risk.
 
 ## Read on
-1. [Solving Problems in Potential Space]({% post_url engineering/2023-06-04-potential-space %})
+1. [Potential Space as Mental Model]({% post_url engineering/2023-06-04-potential-space %})
 2. [Lead Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/lead)
 3. [Manage Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/manage)
