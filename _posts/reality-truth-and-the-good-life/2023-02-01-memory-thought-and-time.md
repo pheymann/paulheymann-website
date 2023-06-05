@@ -10,7 +10,7 @@ meta_keywords: philosophy memory
 
 {% include reality_series_article_links.md %}
 
-Thought is a dance of balance between understanding and experience. A scene and the knowledge of what it ought to be. These two forces influence and change each other in pursuit of a fleeting equilibrium.
+Thought is a dance between understanding and experience. A scene and the knowledge of what it ought to be. These two forces influence and change each other in pursuit of a fleeting equilibrium.
 
 Memory is no different. It is a dream world accompanied by familiarity. It is also my only defense against that empress of my mind: time.
 
@@ -24,15 +24,17 @@ Memory is persistence and persistence is the experience of familiarity. But why 
 
 Familiarity emerges out of the web of thoughts and experiences that attached themselves to this specific dream. When it is born into consciousness a dream is free of relations. But I experience this world while others travel simultaneously through my mind. There is proximity in time, a force that connects. When a thought survives the passage into memory all those fleeting connections are made durable.
 
-And when attention decides to make that dream into a phoenix it enters my mind and on its wings, all those other worlds travel along. But the now is different from then. My conscious states do not line up, change had to happen, and time elapsed. Now I know it is the past. Now I know it has to be a memory (A1).
+Like a phoenix, this dream rises again and on its wings, all those other worlds travel along. But the now is different. My conscious states do not line up, change had to happen, and time elapsed. Now I know it is the past. Now I know it has to be a memory (A1).
 
-Familiarity sets memory apart. Isn’t that a daunting idea? Nothing persists forever, only a web of relations, strong but unprotected from change. A dream long forgotten loses parts of itself replaced by something new. Narration adapts, scenes change, and the gap between the known and seen is closed again. Inadvertently, the past was changed. But what is true then?
+Familiarity sets memory apart. Isn’t that a daunting idea? Nothing persists forever, only a web of relations, strong but unprotected from change. A dream long forgotten loses parts of itself. Narration adapts, scenes change, and the gap between the known is closed again. Inadvertently, the past was changed.
 
-Truth is: I need continuity. I require a reasonable flow. Otherwise, I have to accept that beauty, complexity, and consciousness stepped into existence without a change. There was nothing until there was everything. Every morning would just be a new beginning, a mirage. That is not acceptable. I desire cause and effect; this unsettling feeling when experience makes no sense, and thoughts cannot flow freely (A2). Continuity emerges out of a fluid understanding of what is. Nothing just appears and nothing simply vanishes. I wake up with memories of a past day. So, let there be a day. But I woke up on the day before, so there is yet another one. A recursion that extends itself deep into the dark ages up until the point where I sucked in my first breath of air.
+But what is true then?
+
+Truth is: I need continuity. I require a reasonable flow. Otherwise, I have to accept that beauty, complexity, and consciousness stepped into existence without change. There was nothing until there was everything. Every morning would just be a new beginning, a mirage. That is not acceptable. I desire cause and effect; this unsettling feeling when experience makes no sense, and thoughts cannot flow freely (A2). Continuity emerges out of a fluid understanding of what is. Nothing just appears and nothing simply vanishes. I wake up with memories of a past day. So, let there be a day. But I woke up on the day before, so there is yet another one. A recursion that extends itself deep into the dark ages up until the point where I sucked in my first breath of air.
 
 My mind forges a path through ontology, from one world to another; from now to yesterday and beyond. But it needs cause and effect to build bridges between those dreams.
 
-And with that continuity creates my personal time. But there is also a collective notion of irreversible change. The memories of us all mingle. Your past becomes mine. And also the stories of our ancestors echo deep within. They are carried through the generations and create a path down into the deepest and darkest ages of our kind. Time extends beyond a single being. And why stop here? Even physical reality tries to tell a story. The night sky is filled with the light of the dead while Earth is one layer upon another of past ages. There are memories everywhere, and my impression is that of infinity. Science may try to reduce the universe to an Alpha and Omega. but what came before and what will happen thereafter? Questions that make no sense because what is without change, time, and experience? So I am ignorant of the transcience and establish the infinite.
+Continuity creates my time but there is also a collective notion of irreversible change. The memories of us all mingle. Your past becomes mine. The stories of our ancestors echo deep within. They are carried through the generations and create a path down into the deepest and darkest ages of our kind. Time extends beyond a single being. And why stop here? Even physical reality tries to tell a story. The night sky is filled with the light of the dead while Earth is one layer upon another of past ages. There are memories everywhere, and my impression is that of infinity. Science may try to reduce the universe to an Alpha and Omega. but what came before and what will happen thereafter? Questions that make no sense because what is without change, time, and experience? So I am ignorant of the transcience and establish the infinite.
 
 And why not? Without continuity, there is only chaos. A realm of potential order and new understanding but also of pain, suffering, and death. I can only bath in chaos when the shore of the known is ever-present. And so I believe in those memories that live within and without and time becomes stable. All those remembered dreams create a massive, entangled story I can embed myself.
 
@@ -45,6 +47,7 @@ As thought is a balance between experience and understanding, time is a balance 
 * Previous: {{ article_9 }}
 * Related:
   * [Believe]({% post_url 2023-02-05-believe %})
+  * [Potential Space as Mental Model]({% post_url engineering/2023-06-04-potential-space %})
 
 ## Appendix
 ### A1 - Familiarity
