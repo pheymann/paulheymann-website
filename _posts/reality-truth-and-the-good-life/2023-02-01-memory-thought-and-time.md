@@ -10,7 +10,9 @@ meta_keywords: philosophy memory
 
 {% include reality_series_article_links.md %}
 
-Thought is a dance of balance between understanding and experience. A scene and the knowledge of what it ought to be. These two forces influence and change each other in pursuit of a fleeting equilibrium. And memory Thought is a dance of balance between understanding and experience. A scene and the knowledge of what it ought to be. These two forces influence and change each other in pursuit of a fleeting equilibrium. And memory is no different. It is a dream world accompanied by familiarity. It is also my only defense against that empress of my mind: time.
+Thought is a dance of balance between understanding and experience. A scene and the knowledge of what it ought to be. These two forces influence and change each other in pursuit of a fleeting equilibrium.
+
+Memory is no different. It is a dream world accompanied by familiarity. It is also my only defense against that empress of my mind: time.
 
 Memory is the antidote and a way to reverse the direction without fully reaching the reality of the past. It lets me be young again and live through the joy and deep pain of first love and of becoming independent. But the life already lived is shallow and lacks truth. Only a dream in the end.
 
