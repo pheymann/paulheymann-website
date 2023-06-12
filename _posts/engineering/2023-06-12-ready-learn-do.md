@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigating Uncertainty in Software Engineering - The Ready-Learn-Do Approach
-date:   2023-06-04
+date:   2023-06-12
 categories: engineering
 head_title: Navigating Uncertainty in Software Engineering - The Ready-Learn-Do Approach
 meta_description: Navigating Uncertainty in Software Engineering - The Ready-Learn-Do Approach
