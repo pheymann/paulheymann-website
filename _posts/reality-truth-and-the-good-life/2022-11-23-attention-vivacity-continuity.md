@@ -16,7 +16,7 @@ I start this journey again using my visual impressions and see where this path l
 
 Just being in focus isn’t a guarantee that this toy will catch my inner eye tho. Thoughts can distract me and take over and so do other unexpected impressions like pain or a noise. Vision might effectively capture whatever bestows energy and life to objects of the mind but it doesn’t control it. No, this control seems to reside within this inner eye, this thing that decides what I am allowed to experience. When I direct my gaze at the toy train I am focusing this eye, my attention, on it. Moving away from the center means effortfully moving and widening attention while pulling vivacity along.
 
-It also means that the train miraculously vanishes while I am still looking at it. It withdraws into the unconscious, a realm of understanding and impressions that is beyond me, beyond my conscious world. Attention is the dividing line and it infuses life only into a small fraction of the objects that are recognized.
+It also means that the train miraculously vanishes while I am still looking at it. It withdraws into the unconscious, a realm of understanding and impressions that is beyond me, beyond my conscious world. Attention is the dividing line and it infuses life only into a small fraction of the objects that are recognized.
 
 In a sense, attention is my narrow, ever-changing window into all of my experience. It can even go so far as to keep “me” out. When I am completely immersed the feeling of my body and even of “me” disappears and slips into the unconscious.
 
