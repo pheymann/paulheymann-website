@@ -13,8 +13,8 @@ He is the beast of chaos living deep within.
 A marriage to hope and fear<br/>
 That it may not sleep forever.<br/>
 You pushed yourself too hard,<br/>
-Lost your reign,<br/>
-And now look at its rearing head.
+Lost control,<br/>
+Look at its rearing head.
 
 How magnificent its emergence
 
@@ -24,7 +24,7 @@ So sudden
 
 Breaking through understanding,<br/>
 Ripping it apart,<br/>
-losing knowing altogether.
+Losing knowing altogether.
 
 Swallowing you alive,<br/>
 Flooding your world with chaos,<br/>
