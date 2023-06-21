@@ -1,0 +1,28 @@
+---
+layout: "basic"
+asset_dir_prefix:
+preview_image:
+photos_first_group:
+photos_second_group:
+---
+
+<div class="row photos">
+  {{ content }}
+
+  <div class="col-6">
+    {% assign ids = page.photos_first_group | split: ',' %}
+    {% for id in ids %}
+      <a href="/assets/img/{{ page.asset_dir_prefix}}/DSC{{ id }}.jpg">
+        <img src="/assets/img/{{ page.asset_dir_prefix}}/DSC{{ id }}.jpg" />
+      </a>
+    {% endfor %}
+  </div>
+  <div class="col-6">
+      {% assign ids = page.photos_second_group | split: ',' %}
+      {% for id in ids %}
+      <a href="/assets/img/{{ page.asset_dir_prefix}}/DSC{{ id }}.jpg">
+        <img src="/assets/img/{{ page.asset_dir_prefix}}/DSC{{ id }}.jpg" />
+      </a>
+      {% endfor %}
+    </div>
+</div>
