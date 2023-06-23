@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Roadmap planning - Pitching Ideas
-date:   2023-06-19
+date:   2023-06-20
 categories: engineering
 head_title: Roadmap planning - Pitching Ideas
 meta_description: Roadmap planning - Pitching Ideas
 meta_keywords: software,engineering,agile,projectmanagement
 ---
+
+![watercolor drawing: every member of a team adds their ideas to the pool](/assets/img/pitch_collect_ideas.jpg)
 
 When I introduced *Ready*, *Learn*, *Do* for software development (1) I left a hint of how it might also change team operations. *Ready*(ing) an idea means understanding its cost and value. So what we got is a way to transmit motivation to invest in a problem (or not). In other words, we got a pitch.
 
@@ -15,14 +17,12 @@ By using *Ready*, *Learn*, *Do* we bake roadmap planning for teams and organizat
 ## Get Ready … Pitch
 You are a Product Owner and see an opportunity for a new feature. You take a day and collect as much information as you can to construct a value proposition and a rough map of potential space (2). During the next planning, it is go-time and you present your idea. Or maybe you are an engineer on the same team and you think it is time to revamp your deployment setup. So you go ahead, take some time, and ready your pitch.
 
-<!-- <image plan from one to many> -->
+![watercolor drawing: vote on ideas to put them in the backlog](/assets/img/pitch_vote.jpeg)
 
 The basic idea is that the discovery of opportunity is distributed across the team. No single lead is responsible for figuring out what comes next (E1). Instead, you leverage the experience and creativity of the team. From a junior engineer to the most senior member everyone can pitch in an idea for a project or task. Nothing is too big or too small.
 
 ## When to Pitch?
 In my experience, having some fixed points in your calendar is always good. Be it for 1-1s, reviews, or in this case pitching new ideas. I assume most teams have some kind of backlog refinement anyway. So why not use that? You come in, some people prepared and already shared the ideas they want to show, and now it is time to discuss them. Do you see more unknowns? Do you agree with the cost and value proposition?
-
-<!-- <image recurring event> -->
 
 If you agree, as a team, that it is a worthwhile effort go to the next step otherwise you, who presented the idea, put it aside. Maybe now is not the right time or there are some more points you have to consider. It could also mean that it is just not valuable enough to do which is also good to know.
 
@@ -31,13 +31,13 @@ Of course, there are almost always more good ideas than time to work on them. So
 
 Is this change impacting your team, other teams, or your users? Is its effort low or high? Is the impact low or high? There are rough qualitative measures that tell you where to place a task or project in value space.
 
-<!-- <image value space> -->
+![watercolor drawing: locate your idea in value space to properly prioritize it](/assets/img/pitch_value_space.jpeg)
 
 Is feature `A` impacting your users a lot but to make it work will take months? We should probably do it but maybe focus on `B` first which is a low-hanging fruit in comparison. Or maybe you do some high-impact work that improves how you operate as a team.  For me, there is no clear-cut rule on how to decide what is most important. In the end, it depends on your team’s context and it is something you have to reevaluate every time.
 
 Based on that classification you can order your work and from here everyone just starts to pick from the top.
 
-<!-- <image prio list but with elements falling off -> event horizon > -->
+![watercolor drawing: remove ideas that get too old](/assets/img/pitch_remove_old_ideas.jpg)
 
 To address the graveyard problem we just have to add one constraint to this structure. Whatever gets older than `X` months is removed. What `X` you feel comfortable with depends on you. Maybe you move fast and 3 months is your limit. Or you are a bit more conservative and aim for 12 months instead. Whatever it is make it explicit and stick to that rule (E2).
 
@@ -55,6 +55,7 @@ Coming to an end, the result of the *Ready* phase should be a pitch for your ide
 ## Read on
 1. [Dealing with uncertainty: Ready, Learn, Do]({% post_url engineering/2023-06-12-ready-learn-do %})
 2. [Potential Space]({% post_url engineering/2023-06-04-potential-space %})
+3. [Project Driver]({% post_url engineering/2023-06-23-project-driver %})
 
 ## Epilogue
 (E1): They are still accountable tho. They have to make sure the team goes in the right direction. Now they just open up the floor for those kinds of discussions to all members.

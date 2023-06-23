@@ -78,3 +78,4 @@ Do you think that makes sense? Does this approach bring something new to the tab
 ## Read on
 1. [Potential Space]({% post_url engineering/2023-06-04-potential-space %})
 2. [Leadership and Management]({% post_url engineering/2023-06-04-leadership-and-management %})
+3. [Idea Pitches]({% post_url engineering/2023-06-20-pitching-ideas %})
