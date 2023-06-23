@@ -1,7 +1,7 @@
 ---
 layout: "photos"
 title: "Lake District 2019"
-date:   2019-01-01
+date:   2019-09-01
 categories: photos
 preview_image: "1760"
 asset_dir_prefix: "2019-lake-district"

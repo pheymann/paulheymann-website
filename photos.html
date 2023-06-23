@@ -4,7 +4,7 @@ layout: "basic"
 
 <div class="articles">
   <p>
-    Here, I will find some photographies of mine. Click the title of a collection to view all photos.
+    Here, I will find some photographies of mine. Click the title or photo to get to the collection.
   </p>
 
   {%- for post in site.posts -%}
@@ -15,7 +15,7 @@ layout: "basic"
             {{ post.title }}
           </a>
 
-          <a href="/assets/img/{{ post.asset_dir_prefix}}/DSC{{ post.preview_image }}.jpg">
+          <a href="{{ post.url | relative_url }}">
             <img src="/assets/img/{{ post.asset_dir_prefix}}/DSC{{ post.preview_image }}.jpg" />
           </a>
         </div>
