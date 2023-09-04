@@ -21,7 +21,7 @@ There is also the bus factor. If larger or risky projects stay with a few senior
 But I think it is an issue that is rather easy to fix. We already opened up roadmap planning to all members, so why not do the same for project lead responsibilities? I pitch an idea that is above my comfort zone but believe I can do it and so do other senior members of the team. In that case, I become the *Driver* and take on ownership(E1).
 
 ## Responsibilities
-But what responsibilities come with that role? It is not about building everything on your but it is about making sure we successfully iterate through the remaining steps of *Ready*, *Learn*, *Do*. That means a Driver makes sure:
+But what responsibilities come with that role? It is not about building everything on your own, but it is about making sure we successfully iterate through the remaining steps of *Ready*, *Learn*, *Do*. That means a Driver makes sure:
 
 * stakeholder communication happens,
 * reports about the state of the project are shared regularly,
