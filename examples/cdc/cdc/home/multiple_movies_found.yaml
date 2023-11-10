@@ -1,0 +1,30 @@
+name: multiple movies found
+view: /
+app:
+  textShouldExist:
+    - Harry Potter and the Sorcerer's Stone
+    - Harry Potter and the Chamber of Secrets
+database:
+  movies:
+    - id: "0"
+      title: "Harry Potter and the Sorcerer's Stone"
+      releaseYear: 2001
+    - id: "1"
+      title: "Harry Potter and the Chamber of Secrets"
+      releaseYear: 2002
+  authorizer: []
+callChain:
+  - request:
+      uri: /api/movie/all
+      method: GET
+      headers:
+    response:
+      type: success
+      status: 200
+      body:
+        - id: "0"
+          title: "Harry Potter and the Sorcerer's Stone"
+          releaseYear: 2001
+        - id: "1"
+          title: "Harry Potter and the Chamber of Secrets"
+          releaseYear: 2002
