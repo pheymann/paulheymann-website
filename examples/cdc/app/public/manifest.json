@@ -1,0 +1,9 @@
+{
+  "short_name": "CDC test app",
+  "name": "CDC test app",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
