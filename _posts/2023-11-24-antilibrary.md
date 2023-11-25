@@ -126,3 +126,5 @@ Entries marked with 📕 are already in my collection.
 * For Whom the Bell Tolls; Ernest Hemingway
 * Notes from Underground; Fyodor Dostoyevsky
 * Play, Dreams, and Imitation; Jean Piaget
+* Enuma Elis; 900-200 BCE, Der babylonische Weltschöpfungsmythos Enuma Elisch - Kämmerer und Metzler translation
+* Upanisads; 700-200 BCE, Oxford Classics - Pattrick Ollivelle translation
