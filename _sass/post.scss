@@ -1,3 +1,15 @@
 .post {
     margin: 20px 0 0 0;
+
+    .gif {
+        width: 25em;
+        border: 0.1em solid $hover-color;
+        border-radius: 10px;
+    }
+
+    @media only screen and (max-width: $breakpoint-small) {
+        .gif {
+            width: 100%;
+        }
+    }
 }
