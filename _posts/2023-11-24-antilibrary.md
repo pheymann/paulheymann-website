@@ -86,7 +86,7 @@ Entries marked with 📕 are already in my collection.
 * Lighthouse; Virginia Wolfe, 📕
 * Trust; Hernan Diaz
 * Wittgenstein’s Mistress; David Markson
-* The Dawn of Everything; David Graeber, David Wengrow
+* The Dawn of Everything; David Graeber, David Wengrow 📕
 * Gödel, Escher, Bach: an Eternal Golden braid; Douglas R. Hofstadter
 * Shogun; James Clavell
 * East of Eden; John Steinbeck
