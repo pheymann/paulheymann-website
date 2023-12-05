@@ -1,0 +1,55 @@
+name: user authorized and movie created
+view: /
+database:
+  movies:
+    - id: "0"
+      title: "Harry Potter and the Sorcerer's Stone"
+      releaseYear: 2001
+  authorizer:
+    - "abc"
+app:
+  authorizer:
+    token: "abc"
+  textShouldExist:
+    - "Harry Potter and the Chamber of Secrets"
+callChain:
+  - request:
+      uri: /api/movie/all
+      method: GET
+      headers:
+    response:
+      type: success
+      status: 200
+      body:
+        - id: "0"
+          title: "Harry Potter and the Sorcerer's Stone"
+          releaseYear: 2001
+  - request:
+      uri: /api/movie
+      method: PUT
+      headers:
+        - name: "Content-Type"
+          value: "application/json"
+        - name: "Authorization"
+          value: "abc"
+      body:
+        id: "1"
+        title: "Harry Potter and the Chamber of Secrets"
+        releaseYear: 2002
+    response:
+      type: success
+      status: 201
+  - request:
+      uri: /api/movie/all
+      method: GET
+      headers:
+    response:
+      type: success
+      status: 200
+      body:
+        - id: "0"
+          title: "Harry Potter and the Sorcerer's Stone"
+          releaseYear: 2001
+        - id: "1"
+          title: "Harry Potter and the Chamber of Secrets"
+          releaseYear: 2002

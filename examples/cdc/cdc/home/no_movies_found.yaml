@@ -1,0 +1,14 @@
+name: no movies found
+view: /
+database:
+  movies: []
+  authorizer: []
+callChain:
+  - request:
+      uri: /api/movie/all
+      method: GET
+      headers: []
+    response:
+      type: success
+      status: 200
+      body: []

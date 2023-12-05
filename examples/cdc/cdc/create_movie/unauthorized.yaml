@@ -1,0 +1,25 @@
+name: unauthorized user
+view: /create
+database:
+  movies:
+    - id: "0"
+      title: "Harry Potter and the Sorcerer's Stone"
+      releaseYear: 2001
+  authorizer:
+    - "abc"
+app:
+  authorizer:
+    token: "def"
+callChain:
+  - request:
+      uri: /api/movie
+      method: PUT
+      headers:
+        - name: "Content-Type"
+          value: "application/json"
+        - name: "Authorization"
+          value: "invalid"
+    response:
+      type: error
+      status: 401
+      errorBody: "Invalid token\n"

@@ -6,3 +6,4 @@ _site
 *.code-workspace
 *.txt
 *.tex
+vendor/
