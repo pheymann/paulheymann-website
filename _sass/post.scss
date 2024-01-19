@@ -1,6 +1,11 @@
 .post {
     margin: 20px 0 0 0;
 
+    .image-wrapper {
+        width: 80%;
+        margin: auto;
+    }
+
     .gif {
         width: 25em;
         border: 0.1em solid $hover-color;
@@ -8,6 +13,10 @@
     }
 
     @media only screen and (max-width: $breakpoint-small) {
+        .image-wrapper {
+            width: 100%;
+        }
+
         .gif {
             width: 100%;
         }
