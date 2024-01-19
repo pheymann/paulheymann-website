@@ -58,7 +58,8 @@ p,
 ul,
 ol,
 a,
-blockquote {
+blockquote,
+figcaption {
     @extend %common-text-styling;
 
     font-family: $header-font-family;
@@ -98,6 +99,10 @@ a {
 blockquote {
     border-left: 2px solid $action-color;
     padding-left: 10px;
+}
+
+figcaption {
+    font-size: 0.6em;
 }
 
 footer {
