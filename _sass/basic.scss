@@ -4,7 +4,7 @@ $content-width: 750px;
 $footer-height: 50px;
 
 $header-font-family: "Helvetica", sans-serif;
-$content-font-family: "Helvetica", sans-serif;
+$content-font-family: "Cormorant Garamond", "Helvetica", sans-serif;
 
 $bg-color: rgb(255, 255, 255);
 $bg-medium-color: rgba(226, 226, 226, 0.5);
@@ -31,21 +31,9 @@ $text-light-color: rgb(167, 167, 167);
     font-family: $content-font-family;
 
     letter-spacing: 0.1px;
-    line-height: 1.8;
-    font-size: 1em;
+    line-height: 1.4em;
+    font-size: 1.3em;
     word-spacing: 1px;
-}
-
-$h1-font-size: 2em;
-
-h1 {
-    font-size: $h1-font-size;
-}
-
-$h2-font-size: 1.5em;
-
-h2 {
-    font-size: $h2-font-size;
 }
 
 h1,
@@ -55,22 +43,35 @@ h4,
 h5,
 h6,
 p,
+a,
 ul,
 ol,
-a,
 blockquote,
-figcaption {
-    @extend %common-text-styling;
+figcaption  {
+    @extend %content-text-styling;
 
-    font-family: $header-font-family;
+    font-family: $content-font-family;
 }
 
-p,
+$h1-font-size: 2.3em;
+
+h1 {
+    font-size: $h1-font-size;
+    font-weight: normal;
+    line-height: 1em;
+}
+
+$h2-font-size: 2em;
+
+h2 {
+    font-size: $h2-font-size;
+    font-weight: normal;
+    line-height: 1em;
+}
+
 a,
-ul,
-ol,
 blockquote {
-    @extend %content-text-styling;
+    font-size: 1em;
 }
 
 ol,
@@ -115,15 +116,6 @@ footer {
     }
 }
 
-@media only screen and (max-width: $breakpoint-med) {
-    p,
-    li,
-    blockquote,
-    a {
-        font-size: 1em;
-    }
-}
-
 //  Layout
 
 * {
@@ -146,6 +138,7 @@ header {
         margin: auto;
 
         a {
+            font-family: $header-font-family;
             line-height: 40px;
             margin-right: 2%;
         }
@@ -156,6 +149,10 @@ header {
     width: $content-width;
     margin: auto;
     padding-bottom: $footer-height * 2;
+}
+
+.first-letter {
+    font-size: 2em;
 }
 
 @media only screen and (max-width: $breakpoint-large) {

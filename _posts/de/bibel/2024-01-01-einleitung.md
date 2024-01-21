@@ -8,7 +8,7 @@ meta_description: Bibel, Einleitung
 meta_keywords: Bibel,Moses,Licht,Finsternis,Wasser,Gott
 ---
 
-Obwohl Religion in meinem Zuhause weniger präsent war, war meine Kindheit und Jugend trotzdem damit durchzogen. Ich war Teil des Religionsunterrichts, ging zu schulischen Weihnachtskonzerten in die Kirche, oder machte meinem Zivi in einer kirchlichen Einrichtung.
+<span class="first-letter">O</span>bwohl Religion in meinem Zuhause weniger präsent war, war meine Kindheit und Jugend trotzdem damit durchzogen. Ich war Teil des Religionsunterrichts, ging zu schulischen Weihnachtskonzerten in die Kirche, oder machte meinem Zivi in einer kirchlichen Einrichtung.
 
 Schon immer habe ich aber auch eine Abneigung gegenüber willkürlicher Autorität. Religion und ihre Institution Kirche waren da für mich das Paradebeispiel. Starre Regeln, alte Strukturen und Gott der die ultimative Form der absolut unbändigen Autorität ist. Mit anderen Worten, der Kontakt mit Religion hat mich zum Atheisten werden lassen. Erst unbewusst, dann aber mehr und mehr ausgesprochen.
 
