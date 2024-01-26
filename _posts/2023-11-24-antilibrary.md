@@ -69,6 +69,7 @@ Not every story changes how I see the world. Some just bring me joy. They carry 
   * Foundation; 1951
   * Foundation and Empire; 1952
   * Second Foundation; 1953
+* Pride and Prejudice; Jane Austen, 1813
 
 ## Didn’t age well
 While publicly celebrated I find their value questionable.
@@ -76,7 +77,7 @@ While publicly celebrated I find their value questionable.
 * Sapiens; Yuval Noah Harari, 2011
   * *There is academic critique going around about this book (see [here](https://aipavilion.github.io/docs/hallpike-review.pdf) for an example).*
 * Thinking, Fast and Slow; Daniel Kahnemann, 2011
-  * *Some experimental results enumerated in his book are [proven wrong](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/) by now. Besides that, I always compare his book to Hume’s Magnus Opus which isn’t particularly fair but still strikes me as astonishing that Hume uncovered many of the insights shared in Kahnemann’s book. But Hume did so already hundreds of years ago. So what I am left with is a book that stands on a shaky scientific foundation and provides me with insights that have been known for a long time*
+  * *Some experimental results enumerated in his book are [proven wrong](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/) by now. Besides that, I always compare his book to Hume’s Magnus Opus which isn’t particularly fair but still strikes me as astonishing that Hume uncovered many of the insights shared in Kahnemann’s book. But Hume did so already hundreds of years ago. So what I am left with is a book that stands on a shaky scientific foundation and provides me with insights that have been known for a long time.*
 
 ## Antilibrary
 A list of my literary and academic blind spots. Books I haven’t read (yet). This list has only one goal: always be longer than all the lists above combined. My antilibrary should stay true to Aristotle’s exclamation *”The more you know, the more you realize you don't know”*.
@@ -98,12 +99,12 @@ Entries marked with 📕 are already in my collection.
 * Jenseits von Gut und Böse; Friedrich Nietzsche
 * On Anger; Seneca
 * Das Kapital; Marx
-* On the Origin of Species; Charles Darwin
+* On the Origin of Species; Charles Darwin 📕
 * The Categories; Aristotle, Revised Oxford Translation
 * Leviathan; Thomas Hobbes
 * A Thousand Brains; Jeff Hawkins
 * The Extended Phenotype; Richard Dawkins
-* The Selfish Gene; Richard Dawkins
+* The Selfish Gene; Richard Dawkins 📕
 * Elements; Euclid, Heath translation
 * The Pale King; David Foster Wallace
 * The Picture of Dorian Grey; Oscar Wilde
@@ -119,7 +120,6 @@ Entries marked with 📕 are already in my collection.
 * The Song of Roland; 11th century
 * Niebelungenlied; 12th century
 * The Prince; Niccolo Machiavelli, 1532
-* Pride and Prejudice; Jane Austen, 1813
 * Also sprach Zarathustra (Thus spoke Zarathustra); Friedrich Nietzsche, 1883
 * Anna Katarina; Leo Tolstoy
 * Farewell to Arms; Ernest Hemingway
@@ -128,3 +128,23 @@ Entries marked with 📕 are already in my collection.
 * Play, Dreams, and Imitation; Jean Piaget
 * Enuma Elis; 900-200 BCE, Der babylonische Weltschöpfungsmythos Enuma Elisch - Kämmerer und Metzler translation
 * Upanisads; 700-200 BCE, Oxford Classics - Pattrick Ollivelle translation
+* The City of God, Augustine of Hippo, 5th century, Bettenson translation
+* The Divine Names, Dionysius the Areopagite,
+* The Incoherence of the Philosophers, al-Ghazali, 11th century
+* The Philosophical Writings of Descartes
+* Ethik (Ethics), Baruch de Spinoza, Gebhardt translation
+* Candide, Voltaire, 1759, Penguin Classics
+* Discourse on the Origins and Foundations of Inequality among Men, Rousseau
+* Discourse on Political Economy, Rousseau
+* On the Social Contract, Rousseau
+* Emile, Rousseau
+* On Writing, Steven King
+* The Divine Comedy, Dante, 1321
+* Name of the Rose, Umberto Eco, 1980
+* Determined: Life without Free Will, Robert Sapolsky
+* Three-Body Problem, Liu Cixin, 2008
+* Paradies lost, John Milton, 1667
+* Notes on Complexity, Neil Theise
+* Rigor of Angels, William Eggington
+* Excellent Advice for the Living, Kevin Kelly
+* The New Essential Guide to Electronics in Shenzhen, https://www.bunniestudios.com/blog/?p=6886
