@@ -7,7 +7,7 @@ this is my personal website and blog. Here, I publish my [writings](/articles) o
 
 I am also maintaing <a href="https://wernigerode-in-zahlen.de">wernigerode-in-zahlen.de</a> a website hosting a visual description of my city's budget.
 
-You want to get into contact? Feel free to contact me on <a href="https://www.linkedin.com/in/paul-h-6b4a53144">LinkedIn</a>. My [cv](/cv.pdf) is also available on this site.
+You want to get into contact? Feel free to contact me on <a href="https://www.linkedin.com/in/paul-heymann-6b4a53144/">LinkedIn</a>. My [cv](/cv.pdf) is also available on this site.
 
 <div class="row">
   <div class="col-12 post">
