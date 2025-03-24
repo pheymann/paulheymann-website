@@ -3,7 +3,8 @@ layout: home
 ---
 
 Hi there,<br/>
-this is my personal website and blog. Here, I publish my [writings](/articles) or share some of my [photography](/photos). My open source work, including this website, is available on <a href="https://github.com/pheymann">GitHub</a>.
+
+I am a seasoned Software Staff Engineer and Engineering Manager. This is my personal website and blog. Here, I publish my [writings](/articles) or share some of my [photography](/photos). My open source work, including this website, is available on <a href="https://github.com/pheymann">GitHub</a>.
 
 I am also maintaing <a href="https://wernigerode-in-zahlen.de">wernigerode-in-zahlen.de</a> a website hosting a visual description of my city's budget.
 
